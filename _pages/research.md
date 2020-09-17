@@ -24,7 +24,7 @@ We apply the method on the DES-Y1 data. The result is still reviewed by the coll
 <h2 id="Multi-probe cluster cosmology">Galaxy–halo connection</h2>
 <div class="square">
    <figure style="width: 500px" class="align-right">
-   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/clf.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/clf.png" align="left"></a>
+   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/CLF.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/CLF.png" align="left"></a>
    </figure>
 When  using  properties  of  galaxies  to  elucidate  the  properties  of  dark  matter  and  hence to  constrain  cosmological  parameters,  it  is  crucial  to  understand  the  connection  between galaxies and their host dark matter halos. 
 
