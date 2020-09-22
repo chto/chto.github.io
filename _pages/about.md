@@ -4,7 +4,7 @@ title: "About me"
 ---
 Hi and welcome!
 
-I am a astrophysicist and a physics PhD Student at <a href="https://www.stanford.edu/">Stanford</a>.  
+I am an astrophysicist and a physics PhD Student at <a href="https://www.stanford.edu/">Stanford</a>.  
 
 My main research interests are studying how the structure grows in the universe, how structure growth affects galaxy's evolution, how to use galaxy as a probe of the nature of dark energy, and how to combine multiple probes of dark energy to yield best constraints. I use dark matter simulations, empirical models of galaxy-halo connections, theory, and deep survey data to tackle these questions.
 
