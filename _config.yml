@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Chun-Hao To"
   avatar : "/assets/images/DSC02613.JPG"
-  bio    : "Cosmologist/ Ph.D. student at Stanford"
+  bio    : "Astrophysicist/ Ph.D. student at Stanford"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
