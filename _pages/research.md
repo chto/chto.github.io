@@ -8,12 +8,14 @@ classes: wide
 My main research interests are studying the formation and evolution of large-scale structures in our universe and how they affect the evolution of galaxies. The followings are some specific projects I have been working on:
 </p>
 <h2 id="Multi-probe cluster cosmology">Multi-probe cluster cosmology</h2>
+<p align="justify">
 I develop and validate a novel method for cluster cosmology, which not only provides a way to constrain cosmology using photometrically-selected galaxy clusters but also enables the combination of cluster abundances and other cosmological probes in wide imaging surveys.
  Specifically, I propose to jointly model the abundance of galaxy clusters and large-scale two-point correlations, namely galaxy clustering, galaxy–cluster cross-correlations, cluster clustering, and cluster lensing.
-
+</p>
 <h4 id="Simulation validation">Simulation validation</h4>
-To validate the pipeline, in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200810757T/abstract">To, Krause et al. 2020a</a>, we present the first end-to-end simulation validation of a cluster abundance cosmology analysis on galaxy catalog-level sim-ulations. 
-
+<p align="justify">
+To validate the pipeline, in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200810757T/abstract">To, Krause et al. 2020a</a>, we present the first end-to-end simulation validation of a cluster abundance cosmology analysis on galaxy catalog-level simulations. 
+</p>
 <!--<p style="font-size:80%;">-->
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" alt="" /></a>
 
@@ -26,8 +28,11 @@ We apply the method on the DES-Y1 data. The result is still reviewed by the coll
    <figure style="width: 500px" class="align-right">
    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/CLF.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/CLF.png" align="left"></a>
    </figure>
+<p align="justify">
 When  using  properties  of  galaxies  to  elucidate  the  properties  of  dark  matter  and  hence to  constrain  cosmological  parameters,  it  is  crucial  to  understand  the  connection  between galaxies and their host dark matter halos. 
+</p>
 
-<p>In <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897...15T/abstract"> To et al. (2020b) </a>, we study how early type galaxies and their host dark matter halos are connected by using the optically selected cluster sample (redMaPPer). We present a detailed study on how potential systematics which are not considered by other works, could affect the constraints. 
+<p align="justify">
+In <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897...15T/abstract"> To et al. (2020b) </a>, we study how early type galaxies and their host dark matter halos are connected by using the optically selected cluster sample (redMaPPer). We present a detailed study on how potential systematics which are not considered by other works could affect the constraints. 
 </p>
 </div>
