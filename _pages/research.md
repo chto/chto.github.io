@@ -5,7 +5,7 @@ classes: wide
 
 ---
 <p align="justify">
-My main research interests are studying the formation and evolution of large-scale structures in our universe and how they affect the evolution of galaxies. The followings are some specific projects I have been working on:
+My main research interests are studying the formation and evolution of large-scale structures in our universe and how they affect the evolution of galaxies. Some specific projects I have been working on are listed below.
 </p>
 <h2 id="Multi-probe cluster cosmology">Multi-probe cluster cosmology</h2>
 <p align="justify">
