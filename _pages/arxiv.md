@@ -1,5 +1,5 @@
 ---
-permalink: /Arxiv (date)/
+permalink: /Arxiv (Wed Jun 15 20:34:53 EDT 2022)/
 title: 
 "Arxiv"
 classes: wide
