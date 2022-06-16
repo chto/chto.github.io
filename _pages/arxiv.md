@@ -1,7 +1,7 @@
 ---
-permalink: /Arxiv (Wed Jun 15 20:34:53 EDT 2022)/
+permalink: /Arxiv/
 title: 
-"Arxiv"
+"Arxiv (Wed Jun 15 20:36:13 EDT 2022) "
 classes: wide
 "---
 <table border="1" class="dataframe">
