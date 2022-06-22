@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jun 20 22:10:07 EDT 2022) "
+title: "Arxiv (Tue Jun 21 22:10:07 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,25 +15,46 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>The Origin Of Weakened Magnetic Braking In Old Solar Analogs</td>
-      <td>2206.08540</td>
-      <td><a href="https://arxiv.org/abs/2206.08540" target="_blank">https://arxiv.org/abs/2206.08540</a></td>
-      <td>Travis S. Metcalfe, Adam J. Finley, Oleg Kochukhov, Victor See, Thomas R. Ayres, Keivan G. Stassun, Jennifer L. Van Saders, Catherine A. Clark, Diego Godoy-Rivera, Ilya V. Ilyin, Marc H. Pinsonneault, Klaus G. Strassmeier, Pascal Petit</td>
-      <td>Marc Pinsonneault</td>
+      <td>Design And Initial Performance Of The Prototype For The Beacon   Instrument For Detection Of Ultrahigh Energy Particles</td>
+      <td>2206.09660</td>
+      <td><a href="https://arxiv.org/abs/2206.09660" target="_blank">https://arxiv.org/abs/2206.09660</a></td>
+      <td>D. Southall, C. Deaconu, V. Decoene, E. Oberla, A. Zeolla, J. Alvarez-Muñiz, A. Cummings, Z. Curtis-Ginsberg, A. Hendrick, K. Hughes, R. Krebs, A. Ludwig, K. Mulrey, S. Prohira, W. Rodrigues De Carvalho,, A. Rodriguez, A. Romero-Wolf, H. Schoorlemmer, A. G. Vieregg, S. A. Wissel, E. Zas</td>
+      <td>Steven Prohira</td>
     </tr>
     <tr>
-      <td>Constraining The Baryonic Feedback With Cosmic Shear Using The Des   Year-3 Small-Scale Measurements</td>
-      <td>2206.08591</td>
-      <td><a href="https://arxiv.org/abs/2206.08591" target="_blank">https://arxiv.org/abs/2206.08591</a></td>
-      <td>A. Chen, G. Aricò, D. Huterer, R. Angulo, N. Weaverdyck, O. Friedrich, L. F. Secco, C. Hernández-Monteagudo, A. Alarcon, O. Alves, A. Amon, F. Andrade-Oliveira, E. Baxter, K. Bechtol, M. R. Becker, G. M. Bernstein, J. Blazek, A. Brandao-Souza, S. L. Bridle, H. Camacho, A. Campos, A. Carnero Rosell, M. Carrasco Kind, R. Cawthon, C. Chang, R. Chen, P. Chintalapati, A. Choi, J. Cordero, M. Crocce, M. E. S. Pereira, C. Davis, J. Derose, E. Di Valentino, H. T. Diehl, S. Dodelson, C. Doux, A. Drlica-Wagner, K. Eckert, T. F. Eifler, F. Elsner, J. Elvin-Poole, S. Everett, X. Fang, A. Ferté, P. Fosalba, M. Gatti, E. Gaztanaga, G. Giannini, D. Gruen, R. A. Gruendl, I. Harrison, W. G. Hartley, K. Herner, K. Hoffmann, H. Huang, E. M. Huff, B. Jain, M. Jarvis, N. Jeffrey, T. Kacprzak, E. Krause, N. Kuropatkin, P. -F. Leget, P. Lemos, A. R. Liddle, N. Maccrann, J. Mccullough, J. Muir, J. Myles, A. Navarro-Alsina, Y. Omori, S. Pandey, Y. Park, A. Porredon, J. Prat, M. Raveri, A. Refregier, R. P. Rollins, A. Roodman, R. Rosenfeld, A. J. Ross, E. S. Rykoff, S. Samuroff, C. Sánchez, J. Sanchez, I. Sevilla-Noarbe, E. Sheldon, T. Shin, A. Troja, M. A. Troxel, I. Tutusaus, T. N. Varga, R. H. Wechsler, B. Yanny, B. Yin, Y. Zhang, J. Zuntz, M. Aguena, J. Annis, D. Bacon, E. Bertin, S. Bocquet, D. Brooks, D. L. Burke, J. Carretero, C. Conselice, M. Costanzi, L. N. Da Costa, J. De Vicente, S. Desai, P. Doel, I. Ferrero, B. Flaugher, J. Frieman, J. García-Bellido, D. W. Gerdes, T. Giannantonio, J. Gschwend, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, O. Lahav, M. March, J. L. Marshall, P. Melchior, F. Menanteau, R. Miquel, J. J. Mohr, R. Morgan, F. Paz-Chinchón, A. Pieres, E. Sanchez, M. Smith, E. Suchyta, M. E. C. Swanson, G. Tarle, D. Thomas, C. To</td>
-      <td>Anna Porredon, Ashley Ross, Chun-Hao To, Jack Elvin-Poole, Klaus Honscheid, Michael Rizzo Smith</td>
-    </tr>
-    <tr>
-      <td>The Longest Delay</td>
-      <td>2206.08597</td>
-      <td><a href="https://arxiv.org/abs/2206.08597" target="_blank">https://arxiv.org/abs/2206.08597</a></td>
-      <td>J. A. Muñoz, C. S. Kochanek, J. Fohlmeister, J. Wambsganss, E. Falco, R. Forés-Toribio</td>
+      <td>A Mass Model For The Lensing Cluster Sdss J1004+4112: Constraints From   The Fourth Time Delay</td>
+      <td>2206.09856</td>
+      <td><a href="https://arxiv.org/abs/2206.09856" target="_blank">https://arxiv.org/abs/2206.09856</a></td>
+      <td>R. Forés-Toribio, J. A. Muñoz, C. S. Kochanek, E. Mediavilla</td>
       <td>Christopher Kochanek</td>
+    </tr>
+    <tr>
+      <td>Environmental Dependence Of The Molecular Cloud Lifecycle In 54 Main   Sequence Galaxies</td>
+      <td>2206.09857</td>
+      <td><a href="https://arxiv.org/abs/2206.09857" target="_blank">https://arxiv.org/abs/2206.09857</a></td>
+      <td>Jaeyeon Kim, Mélanie Chevance, J. M. Diederik Kruijssen, Adam K. Leroy, Andreas Schruba, Ashley T. Barnes, Frank Bigiel, Guillermo A. Blanc, Yixian Cao, Enrico Congiu, Daniel A. Dale, Christopher M. Faesi, Simon C. O. Glover, Kathryn Grasha, Brent Groves, Annie Hughes, Ralf S. Klessen, Kathryn Kreckel, Rebecca Mcelroy, Hsi-An Pan, Jérôme Pety, Miguel Querejeta, Alessandro Razza, Erik Rosolowsky, Toshiki Saito, Eva Schinnerer, Jiayi Sun, Neven Tomičić, Antonio Usero, Thomas G. Williams</td>
+      <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>A Non-Detection Of Red Supergiant Convection In Gaia</td>
+      <td>2206.09926</td>
+      <td><a href="https://arxiv.org/abs/2206.09926" target="_blank">https://arxiv.org/abs/2206.09926</a></td>
+      <td>C. S. Kochanek</td>
+      <td>Christopher Kochanek</td>
+    </tr>
+    <tr>
+      <td>Association Of Intermittency With Electron Heating In The Near-Sun Solar   Wind</td>
+      <td>2206.10084</td>
+      <td><a href="https://arxiv.org/abs/2206.10084" target="_blank">https://arxiv.org/abs/2206.10084</a></td>
+      <td>C. Phillips, R. Bandyopadhyay, D. J. Mccomas, S. D. Bale</td>
+      <td>Caprice Phillips</td>
+    </tr>
+    <tr>
+      <td>Flaring-Associated Complex Dynamics In Two M-Dwarfs Revealed By Fast,   Time-Resolved Spectroscopy</td>
+      <td>2206.10412</td>
+      <td><a href="https://arxiv.org/abs/2206.10412" target="_blank">https://arxiv.org/abs/2206.10412</a></td>
+      <td>J. Wang, H. L. Li, L. P. Xin, G. W. Li, J. Y. Bai, C. Gao, B. Ren, D. Song, J. S. Deng, X. H. Han, Z. G. Dai, E. W. Liang, X. Y. Wang, J. Y. Wei</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
