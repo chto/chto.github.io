@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jun 23 15:10:05 EDT 2022) "
+title: "Arxiv (Thu Jun 23 22:10:09 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2206.10986" target="_blank">https://arxiv.org/abs/2206.10986</a></td>
       <td>Y. Frémat, F. Royer, O. Marchal, R. Blomme, P. Sartoretti, A. Guerrier, P. Panuzzo, D. Katz, G. M. Seabroke, F. Thévenin, M. Cropper, K. Benson, Y. Damerdji, R. Haigron, A. Lobel, M. Smith, S. G. Baker, L. Chemin, M. David, C. Dolding, E. Gosset, K. Janßen, G. Jasniewicz, G. Plum, N. Samaras, O. Snaith, C. Soubiran, O. Vanel, J. Zorec, T. Zwitter, N. Brouillet, E. Caffau, F. Crifo, C. Fabre, F. Fragkoudi, H. E. Huckle, Y. Lasne, N. Leclerc, A. Mastrobuono-Battisti, A. Jean-Antoine Piccolo, Y. Viala</td>
       <td>Michael Rizzo Smith</td>
+    </tr>
+    <tr>
+      <td>Chandra, Hst/Stis, Nicer, Swift, And Tess Detail The Flare Evolution Of   The Repeating Nuclear Transient Asassn-14Ko</td>
+      <td>2206.11278</td>
+      <td><a href="https://arxiv.org/abs/2206.11278" target="_blank">https://arxiv.org/abs/2206.11278</a></td>
+      <td>Anna V. Payne, Katie Auchettl, Benjamin J. Shappee, Christopher S. Kochanek, Patricia T. Boyd, Thomas W. -S. Holoien, Michael M. Fausnaugh, Chris Ashall, Jason T. Hinkle, Patrick J. Vallely, K. Z. Stanek, Todd A. Thompson</td>
+      <td>Christopher Kochanek, Kris Stanek, Krzysztof Stanek, Patrick Vallely, Todd A. Thompson, Todd Thompson</td>
+    </tr>
+    <tr>
+      <td>Systematic Kmtnet Planetary Anomaly Search. Vi. Complete Sample Of 2018   Sub-Prime-Field Planets</td>
+      <td>2206.11409</td>
+      <td><a href="https://arxiv.org/abs/2206.11409" target="_blank">https://arxiv.org/abs/2206.11409</a></td>
+      <td>Youn Kil Jung, Weicheng Zang, Cheongho Han, Andrew Gould, Andrzej Udalski, Michael D. Albrow, Sun-Ju Chung, Kyu-Ha Hwang, Yoon-Hyun Ryu, In-Gu Shin, Yossi Shvartzvald, Hongjing Yang, Jennifer C. Yee, Sang-Mok Cha, Dong-Jin Kim, Seung-Lee Kim, Chung-Uk Lee, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Przemek Mróz, Michał K. Szymański, Jan Skowron, Radek Poleski, Igor Soszyński, Paweł Pietrukowicz, Szymon Kozłowski, Krzysztof Ulaczyk, Krzysztof A. Rybicki, Patryk Iwanek, Marcin Wrona</td>
+      <td>Andrew Gould, Richard Pogge</td>
     </tr>
   </tbody>
 </table>
