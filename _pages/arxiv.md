@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jun 27 15:10:07 EDT 2022) "
+title: "Arxiv (Mon Jun 27 22:10:09 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Using Host Galaxy Spectroscopy To Explore Systematics In The   Standardisation Of Type Ia Supernovae</td>
-      <td>2206.12085</td>
-      <td><a href="https://arxiv.org/abs/2206.12085" target="_blank">https://arxiv.org/abs/2206.12085</a></td>
-      <td>M. Dixon, C. Lidman, J. Mould, L. Kelsey, D. Brout, A. Möller, P. Wiseman, M. Sullivan, L. Galbany, T. M. Davis, M. Vincenzi, D. Scolnic, G. F. Lewis, M. Smith, R. Kessler, A. Duffy, E. Taylor, C. Flynn, T. M. C. Abbott, M. Aguena, S. Allam, F. Andrade-Oliveir, J. Annis, J. Asorey, E. Bertin, S. Bocquet, D. Brooks, D. L. Burke, A. Carnero Rosell, D. Carollo, M. Carrasco Kind, J. Carretero, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, P. Doel, S. Everett, I. Ferrero, B. Flaugher, D. Friedel, J. Frieman, J. García-Bellido, M. Gatti, D. W. Gerdes, K. Glazebrook, D. Gruen, J. Gschwend, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. Huterer, D. J. James, K. Kuehn, N. Kuropatkin, U. Malik, M. March, F. Menanteau, R. Miquel, R. Morgan, B. Nichol, R. L. C. Ogando, A. Palmese, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, M. Rodriguez-Monroy, A. K. Romer, E. Sanchez, V. Scarpine, I. Sevilla-Noarbe, M. Soares-Santos, E. Suchyta, G. Tarle, C. To, B. E. Tucker, D. L. Tucker, T. N. Varga</td>
-      <td>Chun-Hao To, Klaus Honscheid, Michael Rizzo Smith</td>
-    </tr>
     <tr>
       <td>Gaia Data Release 3: Reflectance Spectra Of Solar System Small Bodies</td>
       <td>2206.12174</td>
