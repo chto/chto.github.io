@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jul 18 22:10:06 EDT 2022) "
+title: "Arxiv (Tue Jul 19 04:00:08 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Mass Production Of 2021 Kmtnet Microlensing Planets Ii</td>
-      <td>2207.07295</td>
-      <td><a href="https://arxiv.org/abs/2207.07295" target="_blank">https://arxiv.org/abs/2207.07295</a></td>
-      <td>Yoon-Hyun Ryu, In-Gu Shin, Hongjing Yang, Andrew Gould, Michael D. Albrow, Sun-Ju Chung, Cheongho Han, Kyu-Ha Hwang, Youn Kil Jung, Yossi Shvartzvald, Jennifer C. Yee, Weicheng Zang, Sang-Mok Cha, Dong-Jin Kim, %Hyoun-Woo Kim, Seung-Lee Kim, Chung-Uk Lee, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge</td>
-      <td>Andrew Gould, Richard Pogge</td>
-    </tr>
     <tr>
       <td>Examining The Properties Of Low-Luminosity Hosts Of Type Ia Supernovae   From Asas-Sn</td>
       <td>2207.07657</td>
