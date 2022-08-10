@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Aug  9 22:10:15 EDT 2022) "
+title: "Arxiv (Wed Aug 10 04:00:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,20 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Interstellar Nitrogen Isotope Ratios: New Nh3 Data From The Galactic   Center Out To The Perseus Arm</td>
-      <td>2208.03977</td>
-      <td><a href="https://arxiv.org/abs/2208.03977" target="_blank">https://arxiv.org/abs/2208.03977</a></td>
-      <td>J. L. Chen, J. S. Zhang, C. Henkel, Y. T. Yan, H. Z. Yu, J. J. Qiu, X. D. Tang, J. Wang, W. Liu, Y. X. Wang, Y. H. Zheng, J. Y. Zhao, Y. P. Zou</td>
-      <td>Ji Wang</td>
-    </tr>
-    <tr>
-      <td>Ogle-2019-Blg-0362Lb: A Super-Jovian-Mass Planet Around A Low-Mass Star</td>
-      <td>2208.04230</td>
-      <td><a href="https://arxiv.org/abs/2208.04230" target="_blank">https://arxiv.org/abs/2208.04230</a></td>
-      <td>Sun-Ju Chung, Jennifer C. Yee, Andrej Udalski, Andrew Gould, Michael D. Albrow, Youn Kil Jung, Kyu-Ha Hwang, Cheongho Han, Yoon-Hyun Ryu, In-Gu Shin, Yossi Shvartzvald, Weicheng Zang, Sang-Mok Cha, Dong-Jin Kim, Seung-Lee Kim, Chung-Uk Lee, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Radek Poleski, Przemek Mróz Paweł Pietrukowicz, Jan Skowron, Michał K. Szymański, Igor Soszyński, Szymon Kozłowski, Krzysztof A. Rybicki, Patryk Iwanek, Marcin Wrona, Mariusz Gromadzki, Krzysztof Ulaczyk</td>
-      <td>Andrew Gould, Richard Pogge</td>
-    </tr>
     <tr>
       <td>Direct Discovery Of The Inner Exoplanet In The Hd206893 System</td>
       <td>2208.04867</td>
