@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Sep  1 22:10:06 EDT 2022) "
+title: "Arxiv (Fri Sep  2 04:00:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Fan Beamed X-Ray Emission From 1 Kev To Above 130 Kev From The   Ultraluminous X-Ray Pulsar Rx J0209.6-7427 In The Small Magellanic Cloud</td>
-      <td>2208.14785</td>
-      <td><a href="https://arxiv.org/abs/2208.14785" target="_blank">https://arxiv.org/abs/2208.14785</a></td>
-      <td>X. Hou, M. Y. Ge, L. Ji, S. N. Zhang, Y. You, L. Tao, S. Zhang, R. Soria, H. Feng, M. Zhou, Y. L. Tuo, L. M. Song, J. C. Wang</td>
-      <td>Ji Wang</td>
-    </tr>
     <tr>
       <td>Kmt-2017-Blg-0673Lb And Kmt-2019-Blg-0414Lb: Two Microlensing Planets   Detected In Peripheral Fields Of Kmtnet Survey</td>
       <td>2209.00112</td>
