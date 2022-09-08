@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Sep  7 22:10:07 EDT 2022) "
+title: "Arxiv (Thu Sep  8 04:00:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Migrating Thermal Tides In The Martian Atmosphere During Aphelion Season   Observed By Emm/Emirs</td>
-      <td>2209.01585</td>
-      <td><a href="https://arxiv.org/abs/2209.01585" target="_blank">https://arxiv.org/abs/2209.01585</a></td>
-      <td>Siteng Fan, François Forget, Michael D. Smith, Sandrine Guerlet, Khalid M. Badri, Samuel A. Atwood, Roland M. B. Young, Christopher S. Edwards, Philip R. Christensen, Justin Deighan, Hessa R. Al Matroushi, Antoine Bierjon, Jiandong Liu, Ehouarn Millour</td>
-      <td>Michael Rizzo Smith</td>
-    </tr>
     <tr>
       <td>The Poor Old Heart Of The Milky Way</td>
       <td>2209.02722</td>
