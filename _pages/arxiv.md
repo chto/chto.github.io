@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Sep 12 15:10:07 EDT 2022) "
+title: "Arxiv (Mon Sep 12 22:10:07 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -55,6 +55,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2209.04322" target="_blank">https://arxiv.org/abs/2209.04322</a></td>
       <td>David J. Schlegel, Juna A. Kollmeier, Greg Aldering, Stephen Bailey, Charles Baltay, Christopher Bebek, Segev Benzvi, Robert Besuner, Guillermo Blanc, Adam S. Bolton, Ana Bonaca, Mohamed Bouri, David Brooks, Elizabeth Buckley-Geer, Zheng Cai, Jeffrey Crane, Regina Demina, Joseph Derose, Arjun Dey, Peter Doel, Xiaohui Fan, Simone Ferraro, Douglas Finkbeiner, Andreu Font-Ribera, Satya Gontcho A Gontcho, Daniel Green, Gaston Gutierrez, Julien Guy, Henry Heetderks, Dragan Huterer, Leopoldo Infante, Patrick Jelinsky, Dionysios Karagiannis, Stephen M. Kent, Alex G. Kim, Jean-Paul Kneib, Anthony Kremin, Luzius Kronig, Nick Konidaris, Ofer Lahav, Michael L. Lampton, Martin Landriau, Dustin Lang, Alexie Leauthaud, Michael E. Levi, Michele Liguori, Eric V. Linder, Christophe Magneville, Paul Martini, Mario Mateo, Patrick Mcdonald, Christopher J. Miller, John Moustakas, Adam D. Myers, John Mulchaey, Jeffrey A. Newman, Peter E. Nugent, Nikhil Padmanabhan, Nathalie Palanque-Delabrouille, Antonella Palmese Anthony L. Piro, Claire Poppett, Jason X. Prochaska, Anthony R. Pullen, David Rabinowitz, Anand Raichoor, Solange Ramirez, Hans-Walter Rix, Ashley J. Ross, Lado Samushia, Emmanuel Schaan, Michael Schubnell, Uros Seljak, Hee-Jong Seo, Stephen A. Shectman, Edward F. Schlafly, Joseph Silber, Joshua D. Simon, Zachary Slepian, Anže Slosar, Marcelle Soares-Santos, Greg Tarlé, Ian Thompson, Monica Valluri, Risa H. Wechsler, Martin White, Michael J. Wilson, Christophe Yèche, Dennis Zaritsky, Rongpu Zhou</td>
       <td>Ashley Ross, Paul Martini</td>
+    </tr>
+    <tr>
+      <td>Brown-Dwarf Companions In Microlensing Binaries Detected During The   2016--2018 Seasons</td>
+      <td>2209.04607</td>
+      <td><a href="https://arxiv.org/abs/2209.04607" target="_blank">https://arxiv.org/abs/2209.04607</a></td>
+      <td>Cheongho Han, Yoon-Hyun Ryu, In-Gu Shin, Youn Kil Jung, Doeon Kim, Yuki Hirao, Valerio Bozza, Michael D. Albrow, Weicheng Zang, Andrzej Udalski, Ian A. Bond, Sun-Ju Chung, Andrew Gould, Kyu-Ha Hwang, Yossi Shvartzvald, Hongjing Yang, Sang-Mok Cha, Dong-Jin Kim, Hyoun-Woo Kim, Seung-Lee Kim, Chung-Uk Lee, Dong-Joo Lee, Jennifer C. Yee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Przemek Mróz, Michał K. Szymański, Jan Skowron, Radek Poleski, Igor Soszyński, Paweł Pietrukowicz, Szymon Kozłowski, Krzysztof Ulaczyk, Krzysztof A. Rybicki, Patryk Iwanek, Marcin Wrona, Fumio Abe, Richard Barry, David P. Bennett, Aparna Bhattacharya, Hirosame Fujii, Akihiko Fukui, Stela Ishitani Silva, Rintaro Kirikawa, Iona Kondo, Naoki Koshimoto, Yutaka Matsubara, Sho Matsumoto, Shota Miyazaki, Yasushi Muraki, Arisa Okamura, Greg Olmschenk, Clément Ranc, Nicholas J. Rattenbury, Yuki Satoh, Takahiro Sumi, Daisuke Suzuki, Taiga Toda, Paul J. Tristram, Aikaterini Vandorou, Hibiki Yama, Yoshitaka Itow</td>
+      <td>Andrew Gould, Richard Pogge</td>
     </tr>
   </tbody>
 </table>
