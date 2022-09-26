@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Sep 25 15:10:04 EDT 2022) "
+title: "Arxiv (Sun Sep 25 22:10:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,25 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Starspots And Magnetism: Testing The Activity Paradigm In The Pleiades   And M67</td>
-      <td>2209.10549</td>
-      <td><a href="https://arxiv.org/abs/2209.10549" target="_blank">https://arxiv.org/abs/2209.10549</a></td>
-      <td>Lyra Cao, Marc H. Pinsonneault</td>
-      <td>Lyra Cao, Marc Pinsonneault</td>
-    </tr>
-    <tr>
-      <td>On Odd Radio Circles As Supernova Remnants</td>
-      <td>2209.10554</td>
-      <td><a href="https://arxiv.org/abs/2209.10554" target="_blank">https://arxiv.org/abs/2209.10554</a></td>
-      <td>Sumit K. Sarbadhicary, Todd A. Thompson, Laura A. Lopez, Smita Mathur</td>
-      <td>Laura Lopez, Smita Mathur, Sumit Sarbadhicary, Todd A. Thompson, Todd Thompson</td>
-    </tr>
-    <tr>
-      <td>Hypergal: Hyperspectral Scene Modeling For Supernova Typing With The   Integral Field Spectrograph Sedmachine</td>
-      <td>2209.10882</td>
-      <td><a href="https://arxiv.org/abs/2209.10882" target="_blank">https://arxiv.org/abs/2209.10882</a></td>
-      <td>J. Lezmy, Y. Copin, M. Rigault, M. Smith, J. D. Neill</td>
-      <td>Michael Rizzo Smith</td>
+      <td>Direct Cosmological Inference From Three-Dimensional Correlations Of The   Lyman-$\Alpha$ Forest</td>
+      <td>2209.11263</td>
+      <td><a href="https://arxiv.org/abs/2209.11263" target="_blank">https://arxiv.org/abs/2209.11263</a></td>
+      <td>Francesca Gerardi, Andrei Cuceu, Andreu Font-Ribera, Benjamin Joachimi, Pablo Lemos</td>
+      <td>Andrei Cuceu</td>
     </tr>
   </tbody>
 </table>
