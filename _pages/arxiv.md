@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Sep 27 22:10:08 EDT 2022) "
+title: "Arxiv (Wed Sep 28 04:00:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Masada: From Microlensing Planet Mass-Ratio Function To Planet Mass   Function</td>
-      <td>2209.12501</td>
-      <td><a href="https://arxiv.org/abs/2209.12501" target="_blank">https://arxiv.org/abs/2209.12501</a></td>
-      <td>Andrew Gould</td>
-      <td>Andrew Gould</td>
-    </tr>
     <tr>
       <td>Is Ltt 1445 Ab A Hycean World Or A Cold Haber World? Exploring The   Potential Of Twinkle To Unveil Its Nature</td>
       <td>2209.12919</td>
