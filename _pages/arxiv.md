@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Oct  2 15:10:06 EDT 2022) "
+title: "Arxiv (Sun Oct  2 22:10:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,18 +15,25 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>The Spectroscopic Data Processing Pipeline For The Dark Energy   Spectroscopic Instrument</td>
-      <td>2209.14482</td>
-      <td><a href="https://arxiv.org/abs/2209.14482" target="_blank">https://arxiv.org/abs/2209.14482</a></td>
-      <td>J. Guy, S. Bailey, A. Kremin, Shadab Alam, C. Allende Prieto, S. Benzvi, A. S. Bolton, D. Brooks, E. Chaussidon, A. P. Cooper, K. Dawson, A. De La Macorra, A. Dey, Biprateep Dey, G. Dhungana, D. J. Eisenstein, A. Font-Ribera, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, D. Green, K. Honscheid, M. Ishak, R. Kehoe, D. Kirkby, T. Kisner, Sergey E. Koposov, Ting-Wen Lan, M. Landriau, L. Le Guillou, Michael E. Levi, C. Magneville, Christopher J. Manser, P. Martini, Aaron M. Meisner, R. Miquel, J. Moustakas, Adam D. Myers, Jeffrey A. Newman, Jundan Nie, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, A. Raichoor, C. Ravoux, A. J. Ross, E. F. Schlafly, D. Schlegel, M. Schubnell, Ray M. Sharples, Gregory Tarlé, B. A. Weaver, Christophe Yèche, Rongpu Zhou, Zhimin Zhou, H. Zou</td>
-      <td>Ashley Ross, Klaus Honscheid, Paul Martini</td>
+      <td>X-Ray And Radio Observations Of Central Black Holes In Nearby Low-Mass   Early-Type Galaxies: Preliminary Evidence For Low Eddington Fractions</td>
+      <td>2209.15015</td>
+      <td><a href="https://arxiv.org/abs/2209.15015" target="_blank">https://arxiv.org/abs/2209.15015</a></td>
+      <td>R. Urquhart, L. I. Mcdermott, J. Strader, A. C. Seth, L. Chomiuk, N. Neumayer, D. D. Nguyen, E. Tremou</td>
+      <td>Dustin Nguyen</td>
     </tr>
     <tr>
-      <td>First Measurements And Upgrade Plans Of The Magic Intensity   Interferometer</td>
-      <td>2209.14844</td>
-      <td><a href="https://arxiv.org/abs/2209.14844" target="_blank">https://arxiv.org/abs/2209.14844</a></td>
-      <td>Juan Cortina, V. A. Acciari, A. Biland, E. Colombo, C. Da Costa, C. Delgado, C. Diaz, M. Fiori, D. Fink, T. Hassan, I. Jimenez-Martinez, E. Lyard, M. Mariotti, G. Martinez, R. Mirzoyan, G. Naletto, M. Polo, N. Produit, J. J. Rodriguez, T. Schweizer, R. Walter, C. W. Wunderlich, L. Zampieri, The Magic, Lst Collaborations</td>
-      <td>Jennifer Rodriguez</td>
+      <td>Revealing Agns Through Tess Variability</td>
+      <td>2209.15019</td>
+      <td><a href="https://arxiv.org/abs/2209.15019" target="_blank">https://arxiv.org/abs/2209.15019</a></td>
+      <td>Helena P. Treiber, Jason T. Hinkle, Michael M. Fausnaugh, Benjamin J. Shappee, Christopher S. Kochanek, Patrick J. Vallely, Katie Auchettl, Thomas W. S. Holoien, Anna V. Payne, Xinyu Dai</td>
+      <td>Christopher Kochanek, Patrick Vallely</td>
+    </tr>
+    <tr>
+      <td>Retrieving C And O Abundance Of Hr 8799 C By Combining High- And   Low-Resolution Data</td>
+      <td>2209.15484</td>
+      <td><a href="https://arxiv.org/abs/2209.15484" target="_blank">https://arxiv.org/abs/2209.15484</a></td>
+      <td>Ji Wang, Jason J. Wang, Jean-Baptiste Ruffio, Geoffrey A. Blake, Dimitri Mawet, Ashley Baker, Randall Bartos, Charlotte Z. Bond, Benjamin Calvin, Sylvain Cetre, Jacques-Robert Delorme, Greg Doppmann, Daniel Echeverri, Luke Finnerty, Michael P. Fitzgerald, Nemanja Jovanovic, Ronald Lopez, Emily C. Martin, Evan Morris, Jacklyn Pezzato, Sam Ragland, Garreth Ruane, Ben Sappey, Tobias Schofield, Andrew Skemer, Taylor Venenciano, J. Kent Wallace, Peter Wizinowich, Jerry W. Xuan, Marta L. Bryan, Arpita Roy, Nicole L. Wallack</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
