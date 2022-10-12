@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Oct 11 22:10:14 EDT 2022) "
+title: "Arxiv (Wed Oct 12 04:00:06 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,34 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Accretion And Host-Galaxy Properties Of 14 New "Changing-Look'' Active   Galactic Nuclei Identified From The Sdss-V Survey</td>
-      <td>2210.03928</td>
-      <td><a href="https://arxiv.org/abs/2210.03928" target="_blank">https://arxiv.org/abs/2210.03928</a></td>
-      <td>J. Wang, D. W. Xu, J. Y. Bai, T. G. Brink, C. Gao, W. K. Zheng, A. V. Filippenko</td>
-      <td>Ji Wang</td>
-    </tr>
-    <tr>
-      <td>Ozdes Reverberation Mapping Program: H$\Beta$ Lags From The 6-Year   Survey</td>
-      <td>2210.03977</td>
-      <td><a href="https://arxiv.org/abs/2210.03977" target="_blank">https://arxiv.org/abs/2210.03977</a></td>
-      <td>Umang Malik, Rob Sharp, A. Penton, Z. Yu, P. Martini, C. Lidman, B. E. Tucker, T. M. Davis, G. F. Lewis, M. Aguena, S. Allam, O. Alves, F. Andrade-Oliveira, J. Asorey, D. Bacon, E. Bertin, S. Bocquet, D. Brooks, D. L. Burke, A. Carnero Rosell, D. Carollo, M. Carrasco Kind, J. Carretero, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, H. T. Diehl, P. Doel, S. Everett, I. Ferrero, J. Frieman, J. García-Bellido, D. W. Gerdes, D. Gruen, R. A. Gruendl, J. Gschwend, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, J. L. Marshall, J. Mena-Fernández, F. Menanteau, R. Miquel, R. L. C. Ogando, A. Palmese, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, M. Raveri, M. Rodriguez-Monroy, A. K. Romer, E. Sanchez, V. Scarpine, I. Sevilla-Noarbe, M. Smith, M. Soares-Santos, E. Suchyta, M. E. C. Swanson, G. Tarle, G. Taylor, D. L. Tucker, N. Weaverdyck, R. D. Wilkinson</td>
-      <td>Klaus Honscheid, Michael Rizzo Smith, Paul Martini, Zhefu Yu</td>
-    </tr>
-    <tr>
-      <td>Strong Gravitational Lensing Parameter Estimation With Vision   Transformer</td>
-      <td>2210.04143</td>
-      <td><a href="https://arxiv.org/abs/2210.04143" target="_blank">https://arxiv.org/abs/2210.04143</a></td>
-      <td>Kuan-Wei Huang, Geoff Chih-Fan Chen, Po-Wen Chang, Sheng-Chieh Lin, Chia-Jung Hsu, Vishal Thengane, Joshua Yao-Yu Lin</td>
-      <td>Po-Wen Chang</td>
-    </tr>
-    <tr>
-      <td>The Madpsz Catalogue Of Planck Clusters Over The Des Region: Extending   To Lower Mass And Higher Redshift</td>
-      <td>2210.04666</td>
-      <td><a href="https://arxiv.org/abs/2210.04666" target="_blank">https://arxiv.org/abs/2210.04666</a></td>
-      <td>D. Hernández-Lang, J. J. Mohr, M. Klein, S. Grandis, J. -B. Melin, P. Tarrío, M. Arnaud, G. W. Pratt, T. M. C. Abbott, M. Aguena, O. Alves, F. Andrade-Oliveira, D. Bacon, E. Bertin, D. Brooks, D. L. Burke, A. Carnero Rosell, M. Carrasco Kind, J. Carretero, F. J. Castander, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, S. Desai, H. T. Diehl, P. Doel, S. Everett, I. Ferrero, B. Flaugher, J. Frieman, J. García-Bellido, D. Gruen, R. A. Gruendl, J. Gschwend, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, N. Kuropatkin, O. Lahav, C. Lidman, P. Melchior, J. Mena-Fernández, F. Menanteau, R. Miquel, A. Palmese, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, M. Raveri, M. Rodriguez-Monroy, A. K. Romer, V. Scarpine, I. Sevilla-Noarbe, M. Smith, E. Suchyta, G. Tarle, D. Thomas, N. Weaverdyck</td>
-      <td>Klaus Honscheid, Michael Rizzo Smith</td>
-    </tr>
     <tr>
       <td>Constraints On Populations Of Neutrino Sources From Searches In The   Directions Of Icecube Neutrino Alerts</td>
       <td>2210.04930</td>
