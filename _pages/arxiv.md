@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Oct 17 22:10:06 EDT 2022) "
+title: "Arxiv (Tue Oct 18 04:00:05 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Chang-Es Xxvi: Insights Into Cosmic-Ray Transport From Radio Halos In   Edge-On Galaxies</td>
-      <td>2210.07709</td>
-      <td><a href="https://arxiv.org/abs/2210.07709" target="_blank">https://arxiv.org/abs/2210.07709</a></td>
-      <td>M. Stein, V. Heesen, R. -J. Dettmar, Y. Stein, M. Brüggen, R. Beck, B. Adebahr, T. Wiegert, C. J. Vargas, D. J. Bomans, J. Li, J. English, K. T. Chyzy, R. Paladino, F. S. Tabatabaei, A. Strong</td>
-      <td>Jung-Tsung Li</td>
-    </tr>
     <tr>
       <td>Integral Study Of Maxi J1535-571, Maxi J1820+070 And Maxi J1348-630   Outbursts -- I. Detection And Polarization Properties Of The High-Energy   Emission</td>
       <td>2210.08561</td>
