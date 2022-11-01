@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Oct 31 15:10:07 EDT 2022) "
+title: "Arxiv (Mon Oct 31 22:10:10 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2210.16306" target="_blank">https://arxiv.org/abs/2210.16306</a></td>
       <td>Chenxiao Zeng, Andrés N. Salcedo, Hao-Yi Wu, Christopher M. Hirata</td>
       <td>Chenxiao Zeng</td>
+    </tr>
+    <tr>
+      <td>Optical/$\Gamma$-Ray Blazar Flare Correlations: Understanding The   High-Energy Emission Process Using Asas-Sn And Fermi Light Curves</td>
+      <td>2210.16329</td>
+      <td><a href="https://arxiv.org/abs/2210.16329" target="_blank">https://arxiv.org/abs/2210.16329</a></td>
+      <td>T. De Jaeger, B. J. Shappee, C. S. Kochanek, J. T. Hinkle, S. Garrappa, I. Liodakis, A. Franckowiak, K. Z. Stanek, J. F. Beacom, J. L. Prieto</td>
+      <td>Christopher Kochanek, John Beacom, John F. Beacom, Krzysztof Stanek</td>
+    </tr>
+    <tr>
+      <td>Strong Outflows And Inefficient Star Formation In The Reionization-Era   Ultra-Faint Dwarf Galaxy Eridanus Ii</td>
+      <td>2210.17045</td>
+      <td><a href="https://arxiv.org/abs/2210.17045" target="_blank">https://arxiv.org/abs/2210.17045</a></td>
+      <td>Nathan R. Sandford, David H. Weinberg, Daniel R. Weisz, Sal Wanying Fu</td>
+      <td>David Weinberg</td>
     </tr>
   </tbody>
 </table>
