@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Nov  1 22:10:06 EDT 2022) "
+title: "Arxiv (Wed Nov  2 04:00:07 EDT 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,20 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Optical/$\Gamma$-Ray Blazar Flare Correlations: Understanding The   High-Energy Emission Process Using Asas-Sn And Fermi Light Curves</td>
-      <td>2210.16329</td>
-      <td><a href="https://arxiv.org/abs/2210.16329" target="_blank">https://arxiv.org/abs/2210.16329</a></td>
-      <td>T. De Jaeger, B. J. Shappee, C. S. Kochanek, J. T. Hinkle, S. Garrappa, I. Liodakis, A. Franckowiak, K. Z. Stanek, J. F. Beacom, J. L. Prieto</td>
-      <td>Christopher Kochanek, John Beacom, John F. Beacom, Krzysztof Stanek</td>
-    </tr>
-    <tr>
-      <td>Strong Outflows And Inefficient Star Formation In The Reionization-Era   Ultra-Faint Dwarf Galaxy Eridanus Ii</td>
-      <td>2210.17045</td>
-      <td><a href="https://arxiv.org/abs/2210.17045" target="_blank">https://arxiv.org/abs/2210.17045</a></td>
-      <td>Nathan R. Sandford, David H. Weinberg, Daniel R. Weisz, Sal Wanying Fu</td>
-      <td>David Weinberg</td>
-    </tr>
     <tr>
       <td>Korg: A Modern 1D Lte Spectral Synthesis Package</td>
       <td>2211.00029</td>
