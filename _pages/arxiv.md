@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Nov 21 15:10:08 EST 2022) "
+title: "Arxiv (Mon Nov 21 22:10:06 EST 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2211.10007" target="_blank">https://arxiv.org/abs/2211.10007</a></td>
       <td>C. Zhang, Z. X. Ling, X. J. Sun, S. L. Sun, Y. Liu, Z. D. Li, Y. L. Xue, Y. F. Chen, Y. F. Dai, Z. Q. Jia, H. Y. Liu, X. F. Zhang, Y. H. Zhang, S. N. Zhang, F. S. Chen, Z. W. Cheng, W. Fu, Y. X. Han, H. Li, J. F. Li, Y. Li, P. R. Liu, X. H. Ma, Y. J. Tang, C. B. Wang, R. J. Xie, A. L. Yan, Q. Zhang, B. W. Jiang, G. Jin, L. H. Li, X. B. Qiu, D. T. Su, J. N. Sun, Z. Xu, S. K. Zhang, Z. Zhang, N. Zhang, X. Z. Bi, Z. M. Cai, J. W. He, H. Q. Liu, X. C. Zhu, H. Q. Cheng, C. Z. Cui, D. W. Fan, H. B. Hu, M. H. Huang, C. C. Jin, D. Y. Li, H. W. Pan, W. X. Wang, Y. F. Xu, X. Yang, B. Zhang, M. Zhang, W. D. Zhang, D. H. Zhao, M. Bai, Z. Ji, Y. R. Liu, F. L. Ma, J. Su, J. Z. Tong, Y. S. Wang, Z. J. Zhao, C. Feldman, P. O'Brien, J. P. Osborne, R. Willingale, V. Burwitz, G. Hartner, A. Langmeier, T. Müller, S. Rukdee, T. Schmidt, E. Kuulkers, W. Yuan</td>
       <td>Jung-Tsung Li</td>
+    </tr>
+    <tr>
+      <td>Desi Mock Challenge Vii: Halo And Galaxy Catalogs With The Bias   Assignment Method</td>
+      <td>2211.10640</td>
+      <td><a href="https://arxiv.org/abs/2211.10640" target="_blank">https://arxiv.org/abs/2211.10640</a></td>
+      <td>Andrés Balaguera-Antolínez, Francisco-Shu Kitaura, Shadab Alam, Chia-Hsun Chuang, Yu Yu, Ginevra Favole, Cheng Zhao, David Brooks, Axel De La Macorra, Andreu Font-Ribera, Satya Gontcho A Gontcho, Klaus Honscheid, Robert Kehoe, Aron Meisner, Ramon Miquel, Gregory Tarlè, Mariana Vargas-Magaña, Zhimin Zhou</td>
+      <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Photometric Properties Of Jupiter Trojans Detected By The Dark Energy   Survey</td>
+      <td>2211.10719</td>
+      <td><a href="https://arxiv.org/abs/2211.10719" target="_blank">https://arxiv.org/abs/2211.10719</a></td>
+      <td>Des Collobration, N/A :, Jiaming Pan, Hsing Wen Lin, David W. Gerdes, Kevin J. Napier, Jichi Wang, T. M. C. Abbott, M. Aguena, S. Allam, O. Alves, D. Bacon, P. H. Bernardinelli, G. M. Bernstein, E. Bertin, D. Brooks, D. L. Burke, A. Carnero Rosell, M. Carrasco Kind, J. Carretero, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, P. Doel, I. Ferrero, D. Friedel, J. Frieman, J. García-Bellido, M. Gatti, R. A. Gruendl, J. Gschwend, K. Herner, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, N. Kuropatkin, M. March, F. Menanteau, R. Miquel, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, M. Raveri, M. Rodriguez-Monroy, A. K. Romer, E. Sanchez, M. Schubnell, I. Sevilla-Noarbe, M. Smith, E. Suchyta, G. Tarle, D. Tucker, A. R. Walker, N. Weaverdyck</td>
+      <td>Klaus Honscheid, Michael Rizzo Smith</td>
     </tr>
   </tbody>
 </table>
