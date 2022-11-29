@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Nov 28 15:10:08 EST 2022) "
+title: "Arxiv (Mon Nov 28 22:10:09 EST 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Phangs-Jwst First Results: Dust Embedded Star Clusters In Ngc 7496   Selected Via 3.3 $\Mu$M Pah Emission</td>
-      <td>2211.13426</td>
-      <td><a href="https://arxiv.org/abs/2211.13426" target="_blank">https://arxiv.org/abs/2211.13426</a></td>
-      <td>Jimena Rodriguez, Janice Lee, Bradley Whitmore, David Thilker, Daniel Maschmann, Rupali Chandar, Daniel Dale, Diederik Kruijssen, Mederic Boquien, Kathryn Grasha, Elizabeth Watkins, Ashley Barnes, Mattia Sormani, Thomas Williams, Jaeyeon Kim, Gagandeep Anand, Mélanie Chevance, Frank Bigiel, Adam Leroy, Ralf Klessen, Erik W. Rosolowsky, Karin Sandstrom, Hamid Hassani, Hwihyun Kim, Kirsten Larson, Sinan Deger, Daizhong Liu, Christopher Faesi, Yixian Cao, Francesco Belfiore, Ismael Pessa, Kathryn Kreckel, Brent Groves, Jerome Pety, Remy Indebetouw, Oleg Egorov, Guillermo Blanc, Toshiki Saito, Eric Emsellem, Annie Hughes, Eva Schinnerer</td>
-      <td>Adam Leroy</td>
-    </tr>
     <tr>
       <td>Phangs-Jwst First Results: A Combined Hst And Jwst Analysis Of The   Nuclear Star Cluster In Ngc 628</td>
       <td>2211.13997</td>
@@ -41,6 +34,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2211.14291" target="_blank">https://arxiv.org/abs/2211.14291</a></td>
       <td>J. Duarte, S. González-Gaitán, A. Mourao, A. Paulino-Afonso, P. Guilherme-Garcia, J. Aguas, L. Galbany, L. Kelsey, D. Scolnic, M. Sullivan, D. Brout, A. Palmese, P. Wiseman, A. Pieres, A. A. Plazas Malagón, A. Carnero Rosell, C. To, D. Gruen, D. Bacon, D. Brooks, D. L. Burke, D. W. Gerdes, D. J. James, D. L. Hollowood, D. Friedel, E. Bertin, E. Suchyta, E. Sanchez, F. Paz-Chinchón, G. Gutierrez, G. Tarle, H. T. Diehl, I. Sevilla-Noarbe, I. Ferrero, J. Carretero, J. Frieman, J. De Vicente, J. García-Bellido, K. Honscheid, K. Kuehn, M. Gatti, M. Raveri, M. E. S. Pereira, M. Rodriguez-Monroy, M. Smith, M. Carrasco Kind, M. Costanzi, M. Aguena, N. Kuropatkin, N. Weaverdyck, O. Alves, P. Doel, P. Melchior, R. Miquel, R. A. Gruendl, S. R. Hinton, S. Bocquet, S. Desai, S. Everett, T. M. Davis, V. Scarpine</td>
       <td>Chun-Hao To, Klaus Honscheid, Michael Rizzo Smith</td>
+    </tr>
+    <tr>
+      <td>Flares In The Changing Look Agn Mrk 590. I: The Uv Response To X-Ray   Outbursts Suggests A More Complex Reprocessing Geometry Than A Standard Disk</td>
+      <td>2211.14371</td>
+      <td><a href="https://arxiv.org/abs/2211.14371" target="_blank">https://arxiv.org/abs/2211.14371</a></td>
+      <td>Daniel Lawther, Marianne Vestergaard, Sandra Raimundo, Jun Yi Koay, Bradley M Peterson, Xiaohui Fan, Dirk Grupe, Smita Mathur</td>
+      <td>Smita Mathur</td>
+    </tr>
+    <tr>
+      <td>Fireball-2: Flight Preparation Of A Proven Balloon Payload To Image The   Intermediate Redshift Circumgalactic Medium</td>
+      <td>2211.15491</td>
+      <td><a href="https://arxiv.org/abs/2211.15491" target="_blank">https://arxiv.org/abs/2211.15491</a></td>
+      <td>Vincent Picouet, David Valls-Gabaud, Bruno Milliard, David Schiminovich, Drew M. Miles, Keri Hoadley, Erika Hamden, D. Christopher Martin, Gillian Kyne, Trent Brendel, Aafaque Raza Khan, Jean Evrard, Zeren Lin, Haeun Chung, Simran Agarwal, Ignacio Cevallos Aleman, Charles-Antoine Chevrier, Jess Li, Nicole Melso, Shouleh Nikzad, Didier Vibert, Nicolas Bray</td>
+      <td>David Martin</td>
     </tr>
   </tbody>
 </table>
