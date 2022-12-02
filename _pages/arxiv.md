@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Dec  1 22:10:05 EST 2022) "
+title: "Arxiv (Fri Dec  2 04:00:05 EST 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>A Low-Mass Companion Desert Among Intermediate-Mass Visual Binaries: The   Scaled-Up Counterpart To The Brown Dwarf Desert</td>
-      <td>2211.17209</td>
-      <td><a href="https://arxiv.org/abs/2211.17209" target="_blank">https://arxiv.org/abs/2211.17209</a></td>
-      <td>G. Duchene, J. T. Oon, R. J. De Rosa, P. Kantorski, B. Coy, J. J. Wang, S. Thomas, J. Patience, L. Pueyo, E. L. Nielsen, Q. Konopacky</td>
-      <td>Ji Wang</td>
-    </tr>
     <tr>
       <td>Phangs-Jwst First Results: Spurring On Star Formation: Jwst Reveals   Localised Star Formation In A Spiral Arm Spur Of Ngc 628</td>
       <td>2212.00032</td>
