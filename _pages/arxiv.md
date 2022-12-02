@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Dec  1 15:10:05 EST 2022) "
+title: "Arxiv (Thu Dec  1 22:10:05 EST 2022) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,18 +15,32 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>The Dark Energy Survey Year 3 High Redshift Sample: Selection,   Characterization And Analysis Of Galaxy Clustering</td>
-      <td>2211.16593</td>
-      <td><a href="https://arxiv.org/abs/2211.16593" target="_blank">https://arxiv.org/abs/2211.16593</a></td>
-      <td>C. Sánchez, A. Alarcon, G. M. Bernstein, J. Sanchez, S. Pandey, M. Raveri, J. Prat, N. Weaverdyck, I. Sevilla-Noarbe, C. Chang, E. Baxter, Y. Omori, B. Jain, O. Alves, A. Amon, K. Bechtol, M. R. Becker, J. Blazek, A. Choi, A. Campos, A. Carnero Rosell, M. Carrasco Kind, M. Crocce, D. Cross, J. Derose, H. T. Diehl, S. Dodelson, A. Drlica-Wagner, K. Eckert, T. F. Eifler, J. Elvin-Poole, S. Everett, X. Fang, P. Fosalba, D. Gruen, R. A. Gruendl, I. Harrison, W. G. Hartley, H. Huang, E. M. Huff, N. Kuropatkin, N. Maccrann, J. Mccullough, J. Myles, E. Krause, A. Porredon, M. Rodriguez-Monroy, E. S. Rykoff, L. F. Secco, E. Sheldon, M. A. Troxel, B. Yanny, B. Yin, Y. Zhang, J. Zuntz, T. M. C. Abbott, M. Aguena, S. Allam, F. Andrade-Oliveira, E. Bertin, S. Bocquet, D. Brooks, D. L. Burke, J. Carretero, F. J. Castander, R. Cawthon, C. Conselice, M. Costanzi, M. E. S. Pereira, S. Desai, P. Doel, C. Doux, I. Ferrero, B. Flaugher, J. Frieman, J. García-Bellido, G. Gutierrez, K. Herner, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, J. L. Marshall, J. Mena-Fernández, F. Menanteau, R. Miquel, R. L. C. Ogando, A. Palmese, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, E. Sanchez, V. Scarpine, M. Schubnell, M. Smith, E. Suchyta, G. Tarle, D. Thomas, C. To</td>
-      <td>Anna Porredon, Chun-Hao To, Jack Elvin-Poole, Klaus Honscheid, Michael Rizzo Smith</td>
-    </tr>
-    <tr>
       <td>A Low-Mass Companion Desert Among Intermediate-Mass Visual Binaries: The   Scaled-Up Counterpart To The Brown Dwarf Desert</td>
       <td>2211.17209</td>
       <td><a href="https://arxiv.org/abs/2211.17209" target="_blank">https://arxiv.org/abs/2211.17209</a></td>
       <td>G. Duchene, J. T. Oon, R. J. De Rosa, P. Kantorski, B. Coy, J. J. Wang, S. Thomas, J. Patience, L. Pueyo, E. L. Nielsen, Q. Konopacky</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Phangs-Jwst First Results: Spurring On Star Formation: Jwst Reveals   Localised Star Formation In A Spiral Arm Spur Of Ngc 628</td>
+      <td>2212.00032</td>
+      <td><a href="https://arxiv.org/abs/2212.00032" target="_blank">https://arxiv.org/abs/2212.00032</a></td>
+      <td>Thomas G. Williams, Jiayi Sun, Ashley T. Barnes, Eva Schinnerer, Jonathan D. Henshaw, Sharon E. Meidt, Miguel Querejeta, Elizabeth J. Watkins, Frank Bigiel, Guillermo A. Blanc, Médéric Boquien, Yixian Cao, Mélanie Chevance, Oleg V. Egorov, Eric Emsellem, Simon C. O. Glover, Kathryn Grasha, Hamid Hassani, Sarah Jeffreson, María J. Jiménez-Donaire, Jaeyeon Kim, Ralf S. Klessen, Kathryn Kreckel, J. M. Diederik Kruijssen, Kirsten L. Larson, Adam K. Leroy, Daizhong Liu, Ismael Pessa, Jérôme Pety, Francesca Pinna, Erik Rosolowsky, Karin M. Sandstrom, Rowan Smith, Sophia Stuber, David A. Thilker, Bradley C. Whitmore</td>
+      <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Phangs-Jwst First Results: The Influence Of Stellar Clusters On Pahs In   Nearby Galaxies</td>
+      <td>2212.00130</td>
+      <td><a href="https://arxiv.org/abs/2212.00130" target="_blank">https://arxiv.org/abs/2212.00130</a></td>
+      <td>Daniel A. Dale, Médéric Boquien, Ashley T. Barnes, Francesco Belfiore, F. Bigiel, Yixian Cao, Rupali Chandar, Jérémy Chastenet, Mélanie Chevance, Sinan Deger, Oleg V. Egorov, Kathryn Grasha, Brent Groves, Hamid Hassani, Kiana F. Henny, Ralf S. Klessen, Kathryn Kreckel, J. M. Diederik Kruijssen, Kirsten L. Larson, Janice C. Lee, Adam K. Leroy, Daizhong Liu, Eric J. Murphy, Erik Rosolowsky, Karin Sandstrom, Eva Schinnerer, Jessica Sutter, David A. Thilker, Elizabeth J. Watkins, Bradley C. Whitmore, Thomas G. Williams</td>
+      <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Star Formation And Molecular Gas Diagnostics With Mid- &amp; Far-Infrared   Emission</td>
+      <td>2212.00180</td>
+      <td><a href="https://arxiv.org/abs/2212.00180" target="_blank">https://arxiv.org/abs/2212.00180</a></td>
+      <td>C. M. Whitcomb, K. Sandstrom, A. Leroy, J. -D. T. Smith</td>
+      <td>Adam Leroy</td>
     </tr>
   </tbody>
 </table>
