@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Jan  4 15:10:04 EST 2023) "
+title: "Arxiv (Wed Jan  4 22:10:07 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2301.00903" target="_blank">https://arxiv.org/abs/2301.00903</a></td>
       <td>Nour E. Raouafi, G. Stenborg, D. B. Seaton, H. Wang, J. Wang, C. E. Deforest, S. D. Bale, J. F. Drake, V. M. Uritsky, J. T. Karpen, C. R. Devore, A. C. Sterling, T. S. Horbury, L. K. Harra, S. Bourouaine, J. C. Kasper, P. Kumar, T. D. Phan, M. Velli</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Deep Search For Gamma-Ray Emission From The Accreting X-Ray Pulsar 1A   0535+262</td>
+      <td>2301.01423</td>
+      <td><a href="https://arxiv.org/abs/2301.01423" target="_blank">https://arxiv.org/abs/2301.01423</a></td>
+      <td>X. Hou, W. Zhang, D. F. Torres, L. Ji, J. Li</td>
+      <td>Jung-Tsung Li</td>
     </tr>
   </tbody>
 </table>
