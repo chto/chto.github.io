@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jan 17 22:10:08 EST 2023) "
+title: "Arxiv (Wed Jan 18 04:00:05 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Serendipitous Nebular-Phase Jwst Imaging Of Sn Ia 2021Aefx: Testing The   Confinement Of 56-Co Decay Energy</td>
-      <td>2301.05718</td>
-      <td><a href="https://arxiv.org/abs/2301.05718" target="_blank">https://arxiv.org/abs/2301.05718</a></td>
-      <td>Ness Mayker Chen, Michael A. Tucker, Nils Hoyer, Saurabh W. Jha, Lindsey Kwok, Adam K. Leroy, Erik Rosolowsky, Chris Ashall, Gagandeep Anand, Frank Bigiel, Médéric Boquien, Daniel Dale, James M. Derkacy, Oleg V. Egorov, L. Galbany, Kathryn Grasha, Hamid Hassani, Peter Hoeflich, Ralf S. Klessen, Laura A. Lopez, Jing Lu, Mariana Orellana, Francesca Pinna, Sumit K. Sarbadhicary, Eva Schinnerer, Melissa Shahbandeh, David A. Thilker, Thomas G. Williams</td>
-      <td>Adam Leroy, Laura Lopez, Michael Tucker, Ness Mayker Chen, Sumit Sarbadhicary</td>
-    </tr>
     <tr>
       <td>Kmt-2022-Blg-0440Lb: A New $Q &lt; 10^{-4}$ Microlensing Planet With The   Central-Resonant Caustic Degeneracy Broken</td>
       <td>2301.06779</td>
