@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Feb  2 15:10:07 EST 2023) "
+title: "Arxiv (Thu Feb  2 22:10:05 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2302.00450" target="_blank">https://arxiv.org/abs/2302.00450</a></td>
       <td>Axel Garcia-Rodriguez, Antonio Usero, Adam K. Leroy, Frank Bigiel, Maria Jesus Jimenez-Donaire, Daizhong Liu, Miguel Querejeta, Toshiki Saito, Eva Schinnerer, Ashley Barnes, Francesco Belfiore, Ivana Beslic, Yixian Cao, Melanie Chevance, Daniel A. Dale, Jakob S. Den Brok, Cosima Eibensteiner, Santiago Garcia-Burillo, Simon C. O. Glover, Ralf S. Klessen, Jerome Pety, Johannes Puschnig, Erik Rosolowsky, Karin Sandstrom, Mattia C. Sormani, Yu-Hsuan Teng, Thomas G. Williams</td>
       <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Dahe White Dwarfs From The Desi Survey</td>
+      <td>2302.01335</td>
+      <td><a href="https://arxiv.org/abs/2302.01335" target="_blank">https://arxiv.org/abs/2302.01335</a></td>
+      <td>Christopher J. Manser, Boris T. Gänsicke, Keith Inight, Akshay Robert, S. Ahlen, C. Allende Prieto, D. Brooks, A. P. Cooper, A. De La Macorra, A. Font-Ribera, K. Honscheid, T. Kisner, M. Landriau, Aaron M. Meisner, R. Miquel, Jundan Nie, C. Poppett, Gregory Tarlé, Zhimin Zhou</td>
+      <td>Klaus Honscheid</td>
     </tr>
   </tbody>
 </table>
