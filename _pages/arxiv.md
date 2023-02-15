@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Feb 14 15:10:06 EST 2023) "
+title: "Arxiv (Tue Feb 14 22:10:06 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -41,6 +41,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2302.06225" target="_blank">https://arxiv.org/abs/2302.06225</a></td>
       <td>D. A. Kann, S. Agayeva, V. Aivazyan, S. Alishov, C. M. Andrade, S. Antier, A. Baransky, P. Bendjoya, Z. Benkhaldoun, S. Beradze, D. Berezin, M. Boër, E. Broens, S. Brunier, M. Bulla, O. Burkhonov, E. Burns, Y. Chen, Y. P. Chen, M. Conti, M. W. Coughlin, W. W. Cui, F. Daigne, B. Delaveau, H. A. R. Devillepoix, T. Dietrich, D. Dornic, F. Dubois, J. -G. Ducoin, E. Durand, P. -A. Duverne, H. -B. Eggenstein, S. Ehgamberdiev, A. Fouad, M. Freeberg, D. Froebrich, M. Y. Ge, S. Gervasoni, V. Godunova, P. Gokuldass, E. Gurbanov, D. W. Han, E. Hasanov, P. Hello, T. Hussenot-Desenonges, R. Inasaridze, A. Iskandar, N. Ismailov, A. Janati, T. Jegou Du Laz, S. M. Jia, S. Karpov, A. Kaeouach, R. W. Kiendrebeogo, A. Klotz, R. Kneip, N. Kochiashvili, N. Kunert, A. Lekic, S. Leonini, C. K. Li, W. Li, X. B. Li, J. Y. Liao, L. Logie, F. J. Lu, J. Mao, D. Marchais, R. Ménard, D. Morris, R. Natsvlishvili, V. Nedora, K. Noonan, K. Noysena, N. B. Orange, P. T. H. Pang, H. W. Peng, C. Pellouin, J. Peloton, T. Pradier, O. Pyshna, Y. Rajabo, S. Rau, C. Rinner, J. -P. Rivet, F. D. Romanov, P. Rosi, V. A. Rupchandani, M. Serrau, A. Shokry, A. Simon, K. Smith, O. Sokoliuk, M. Soliman, L. M. Song, A. Takey, Y. Tillayev, L. M. Tinjaca Ramirez, I. Tosta E Melo, D. Turpin, A. De Ugarte Postigo, S. Vanaverbeke, V. Vasylenko, D. Vernet, Z. Vidadi, C. Wang, J. Wang, L. T. Wang, X. F. Wang, Shaolin L. Xiong, Y. P. Xu, W. C. Xue, X. Zeng, S. N. Zhang, H. S. Zhao, X. F. Zhao</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>A Framework To Measure The Properties Of Intergalactic Metal Systems   With Two-Point Flux Statistics</td>
+      <td>2302.06936</td>
+      <td><a href="https://arxiv.org/abs/2302.06936" target="_blank">https://arxiv.org/abs/2302.06936</a></td>
+      <td>Naim Göksel Karaçaylı, Paul Martini, David H. Weinberg, Vid Iršič, J. Aguilar, S. Ahlen, D. Brooks, A. De La Macorra, A. Font-Ribera, S. Gontcho A Gontcho, J. Guy, T. Kisner, R. Miquel, C. Poppett, C. Ravoux, M. Schubnell, G. Tarlé, B. A. Weaver, Z. Zhou</td>
+      <td>David Weinberg, Paul Martini</td>
     </tr>
   </tbody>
 </table>
