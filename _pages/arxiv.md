@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Feb 15 22:10:07 EST 2023) "
+title: "Arxiv (Thu Feb 16 04:00:05 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>A Framework To Measure The Properties Of Intergalactic Metal Systems   With Two-Point Flux Statistics</td>
-      <td>2302.06936</td>
-      <td><a href="https://arxiv.org/abs/2302.06936" target="_blank">https://arxiv.org/abs/2302.06936</a></td>
-      <td>Naim Göksel Karaçaylı, Paul Martini, David H. Weinberg, Vid Iršič, J. Aguilar, S. Ahlen, D. Brooks, A. De La Macorra, A. Font-Ribera, S. Gontcho A Gontcho, J. Guy, T. Kisner, R. Miquel, C. Poppett, C. Ravoux, M. Schubnell, G. Tarlé, B. A. Weaver, Z. Zhou</td>
-      <td>David Weinberg, Paul Martini</td>
-    </tr>
     <tr>
       <td>Ogle-2017-Blg-1038: A Possible Brown-Dwarf Binary Revealed By Spitzer   Microlensing Parallax</td>
       <td>2302.07497</td>
