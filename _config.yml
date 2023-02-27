@@ -105,3 +105,6 @@ tag_archive:
   path: /tags/
 
 google_analytics: UA-179246231-1
+google:
+  tag_manager:
+    container_id: G-7Y6H309XV8
