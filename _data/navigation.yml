@@ -7,5 +7,5 @@ main:
     url: /Publications/
   - title: "CV"
     url: assets/docs/Chun_Hao_To_CV.pdf
-- title: "Local Astroph"
-    url: /arxiv/
+  - title: "Local Astroph"
+    url: /Arxiv/
