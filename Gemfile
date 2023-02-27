@@ -1,9 +1,7 @@
 source "https://rubygems.org"
-group :jekyll_plugins do
-  gem 'jekyll-google-tag-manager'
-end
-gem "github-pages", group: :jekyll_plugins
 
+gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-google-tag-manager' 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
