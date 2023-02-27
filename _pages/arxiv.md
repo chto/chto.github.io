@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Feb 26 15:10:04 EST 2023) "
+title: "Arxiv (Sun Feb 26 22:10:06 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,18 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Agn Storm 2: Ii. Ultraviolet Observations Of Mrk817 With The Cosmic   Origins Spectrograph On The Hubble Space Telescope</td>
-      <td>2302.11587</td>
-      <td><a href="https://arxiv.org/abs/2302.11587" target="_blank">https://arxiv.org/abs/2302.11587</a></td>
-      <td>Y. Homayouni, Gisella De Rosa, Rachel Plesha, Gerard A. Kriss, Aaron J. Barth, Edward M. Cackett, Keith Horne, Erin A. Kara, Hermine Landt, Nahum Arav, Benjamin D. Boizelle, Misty C. Bentz, Thomas G. Brink, Michael S. Brotherton, Doron Chelouche, Elena Dalla Bonta, Maryam Dehghanian, Pu Du, Gary J. Ferland, Laura Ferrarese, Carina Fian, Alexei V. Filippenko, Travis Fischer, Ryan J. Foley, Jonathan Gelbord, Michael R. Goad, Diego H. Gonzalez Buitrago, Varoujan Gorjian, Catherine J. Grier, Patrick B. Hall, Juan V. Hernandez Santisteban, Chen Hu, Dragana Ilic, Michael D. Joner, Jelle Kaastra, Shai Kaspi, Christopher S. Kochanek, Kirk T. Korista, Andjelka B. Kovacevic, Daniel Kynoch, Yan-Rong Li, Ian M. Mchardy, Jacob N. Mclane, Missagh Mehdipour, Jake A. Miller, Jake Mitchell, John Montano, Hagai Netzer, Christos Panagiotou, Ethan Partington, Richard W. Pogge, Luka C. Popovic, Daniel Proga, Daniele Rogantini, Thaisa Storchi-Bergmann, David Sanmartim, Matthew R. Siebert, Tommaso Treu, Marianne Vestergaard, Jian-Min Wang, Martin J. Ward, Tim Waters, Peter R. Williams, Fatima Zaidouni, Ying Zu</td>
-      <td>Christopher Kochanek, Richard Pogge</td>
+      <td>Star Formation Laws And Efficiencies Across 80 Nearby Galaxies</td>
+      <td>2302.12267</td>
+      <td><a href="https://arxiv.org/abs/2302.12267" target="_blank">https://arxiv.org/abs/2302.12267</a></td>
+      <td>Jiayi Sun, Adam K. Leroy, Eve C. Ostriker, Sharon Meidt, Erik Rosolowsky, Eva Schinnerer, Christine D. Wilson, Dyas Utomo, Francesco Belfiore, Guillermo A. Blanc, Eric Emsellem, Christopher Faesi, Brent Groves, Annie Hughes, Eric W. Koch, Kathryn Kreckel, Daizhong Liu, Hsi-An Pan, Jerome Pety, Miguel Querejeta, Alessandro Razza, Toshiki Saito, Amy Sardone, Antonio Usero, Thomas G. Williams, Frank Bigiel, Alberto D. Bolatto, Melanie Chevance, Daniel A. Dale, Jindra Gensior, Simon C. O. Glover, Kathryn Grasha, Jonathan D. Henshaw, Maria J. Jimenez-Donaire, Ralf S. Klessen, J. M. Diederik Kruijssen, Eric J. Murphy, Lukas Neumann, Yu-Hsuan Teng, David A. Thilker</td>
+      <td>Adam Leroy, Amy Sardone</td>
+    </tr>
+    <tr>
+      <td>The Intrinsic Alignment Of Red Galaxies In Des Y1 Redmapper Galaxy   Clusters</td>
+      <td>2302.12325</td>
+      <td><a href="https://arxiv.org/abs/2302.12325" target="_blank">https://arxiv.org/abs/2302.12325</a></td>
+      <td>C. Zhou, A. Tong, M. A. Troxel, J. Blazek, C. Lin, D. Bacon, L. Bleem, A. Carnero Rosell, C. Chang, M. Costanzi, J. Derose, J. P. Dietrich, A. Drlica-Wagner, D. Gruen, R. A. Gruendl, B. Hoyle, M. Jarvis, N. Maccrann, B. Mawdsley, T. Mcclintock, P. Melchior, J. Prat, A. Pujol, E. Rozo, E. S. Rykoff, S. Samuroff, C. Sánchez, I. Sevilla-Noarbe, E. Sheldon, T. Shin, D. L. Tucker, T. N. Varga, B. Yanny, Y. Zhang, J. Zuntz, O. Alves, A. Amon, E. Bertin, D. Brooks, D. L. Burke, M. Carrasco Kind, L. N. Da Costa, T. M. Davis, J. De Vicente, S. Desai, H. T. Diehl, P. Doel, S. Everett, I. Ferrero, B. Flaugher, J. Frieman, D. W. Gerdes, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, T. Jeltema, K. Kuehn, O. Lahav, M. Lima, J. L. Marshall, J. Mena-Fernández, F. Menanteau, R. Miquel, A. Palmese, F. Paz-Chinchón, A. Pieres, A. A. Plazas Malagón, A. Porredon, M. Raveri, A. K. Romer, E. Sanchez, M. Smith, M. Soares-Santos, E. Suchyta, M. E. C. Swanson, G. Tarle, C. To, N. Weaverdyck, J. Weller, P. Wiseman</td>
+      <td>Chun-Hao To, Klaus Honscheid, Michael Rizzo Smith</td>
     </tr>
   </tbody>
 </table>
