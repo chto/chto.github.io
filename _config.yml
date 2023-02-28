@@ -106,4 +106,9 @@ tag_archive:
   path: /tags/
 
 google_analytics: G-7Y6H309XV8
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : G-7Y6H309XV8
+    anonymize_ip         : true
 
