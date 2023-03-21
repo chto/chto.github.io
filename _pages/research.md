@@ -20,7 +20,12 @@ To validate the pipeline, in <a href="https://ui.adsabs.harvard.edu/abs/2020arXi
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" alt="" /></a>
 
 <h4 id="Application on data">Application on data</h4>
-We apply the method on the DES-Y1 data. The result is still reviewed by the collaboration. 
+We apply the method on the DES-Y1 data (<a href="https://ui.adsabs.harvard.edu/abs/2021PhRvL.126n1301T/abstract">To, Krause et al. 2020b</a>). This analysis presents the first joint analyses of clusters, galaxies and shears. 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/4x2pt_N.png" class="image resize" data-lightbox="image-1" data-title="Cosmological constraints from joint analysis of clusters, galaxies, and shears."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/4x2pt_N.png" alt="" /></a>
+
+<h2 id ="Machine learning based likelihood evaluation tools"> Machine learning based likelihood evaluation tools </h2>
+To efficiently perform likelihood analysis for cosmological surveys, we develop a neural network based MCMC inference tools (<a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...01..016T/abstract">To et al. 2022</a>). We validate the performance of the tools on DES-Y1 data as well as LSST Y10 simulated data.  
+
 
 
 <h2 id="Multi-probe cluster cosmology">Galaxy–halo connection</h2>
