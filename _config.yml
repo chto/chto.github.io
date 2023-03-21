@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chun-Hao To's Personal Webpage
-email: chto@stanford.edu
+email: to.87@osu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -56,6 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Chun-Hao To"
@@ -104,4 +105,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+google_analytics: G-7Y6H309XV8
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : G-7Y6H309XV8
+    anonymize_ip         : true
 
