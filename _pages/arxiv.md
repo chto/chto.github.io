@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Apr 10 23:00:13 EDT 2023) "
+title: "Arxiv (Tue Apr 11 04:00:04 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>The Pepsi Exoplanet Transit Survey. Iii: The Detection Of Fei, Cri And   Tii In The Atmosphere Of Mascara-1 B Through High-Resolution Emission   Spectroscopy</td>
-      <td>2304.03328</td>
-      <td><a href="https://arxiv.org/abs/2304.03328" target="_blank">https://arxiv.org/abs/2304.03328</a></td>
-      <td>G. Scandariato, F. Borsa, A. S. Bonomo, B. S. Gaudi, Th. Henning, I. Ilyin, M. C. Johnson, L. Malavolta, M. Mallonn, K. Molaverdikhani, V. Nascimbeni, J. Patience, L. Pino, K. Poppenhaeger, E. Schlawin, E. L. Shkolnik, D. Sicilia, A. Sozzetti, K. G. Strassmeier, C. Veillet, J. Wang, F. Yan</td>
-      <td>B. Scott Gaudi, Ji Wang, Marshall Johnson</td>
-    </tr>
     <tr>
       <td>Asas-Sn Sky Patrol V2.0</td>
       <td>2304.03791</td>
