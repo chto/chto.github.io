@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Apr 13 23:00:05 EDT 2023) "
+title: "Arxiv (Fri Apr 14 04:00:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Analysis Of The Impact Of Broad Absorption Lines On Quasar Redshift   Measurements With Synthetic Observations</td>
-      <td>2304.05855</td>
-      <td><a href="https://arxiv.org/abs/2304.05855" target="_blank">https://arxiv.org/abs/2304.05855</a></td>
-      <td>Luz Ángela García, Paul Martini, Alma X. Gonzalez-Morales, Andreu Font-Ribera, Hiram K. Herrera-Alcantar, Jessica Nicole Aguilar, Steve Ahlen, David Brooks, Axel De La Macorra, Peter Doel, Jaime E. Forero-Romero, Julien Guy, Theodore Kisner, Martin Landriau, Ramon Miquel, John Moustakas, Jundan Nie, Claire Poppett, Gregory Tarlé, Zhimin Zhou</td>
-      <td>Paul Martini</td>
-    </tr>
     <tr>
       <td>Precision Measurement Of The Index Of Refraction Of Deep Glacial Ice At   Radio Frequencies At Summit Station, Greenland</td>
       <td>2304.06181</td>
