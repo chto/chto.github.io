@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Apr 18 15:10:06 EDT 2023) "
+title: "Arxiv (Tue Apr 18 22:10:07 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2304.08427" target="_blank">https://arxiv.org/abs/2304.08427</a></td>
       <td>Jeongin Moon, David Valcin, Michael Rashkovetskyi, Christoph Saulder, Jessica Nicole Aguilar, Steven Ahlen, Shadab Alam, Stephen Bailey, Charles Baltay, Robert Blum, David Brooks, Etienne Burtin, Edmond Chaussidon, Kyle Dawson, Axel De La Macorra, Arnaud De Mattia, Govinda Dhungana, Daniel Eisenstein, Brenna Flaugher, Andreu Font-Ribera, Cristhian Garcia-Quintero, Julien Guy, Malik Muhammad Sikandar Hanif, Klaus Honscheid, Mustapha Ishak, Robert Kehoe, Sumi Kim, Theodore Kisner, Anthony Kremin, Martin Landriau, Laurent Le Guillou, Michael Levi, Paul Martini, Patrick Mcdonald, Aaron Meisner, Ramon Miquel, John Moustakas, Adam Myers, Seshadri Nadathur, Richard Neveux, Jeffrey A. Newman, Jundan Nie, Nikhil Padmanabhan, Nathalie Palanque-Delabrouille, Will Percival, Alejandro Pérez Fernández, Claire Poppett, Francisco Prada, Ashley J. Ross, Graziano Rossi, Hee-Jong Seo, Gregory Tarlé, Mariana Vargas Magana, Andrei Variu, Benjamin Alan Weaver, Martin J. White, Sihan Yuan, Cheng Zhao, Rongpu Zhou, Zhimin Zhou, Hu Zou</td>
       <td>Ashley Ross, Klaus Honscheid, Paul Martini</td>
+    </tr>
+    <tr>
+      <td>Mapping The Skies Of Ultracool Worlds: Detecting Storms And Spots With   Extremely Large Telescopes</td>
+      <td>2304.08518</td>
+      <td><a href="https://arxiv.org/abs/2304.08518" target="_blank">https://arxiv.org/abs/2304.08518</a></td>
+      <td>Michael K. Plummer, Ji Wang</td>
+      <td>Ji Wang, Michael Plummer</td>
     </tr>
   </tbody>
 </table>
