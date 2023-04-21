@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Apr 20 15:10:06 EDT 2023) "
+title: "Arxiv (Thu Apr 20 22:10:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2304.09641" target="_blank">https://arxiv.org/abs/2304.09641</a></td>
       <td>Armando Lara-Di, Smita Mathur, Yair Krongold, Sanskriti Das, Anjali Gupta</td>
       <td>Anjali Gupta, Sanskriti Das, Smita Mathur</td>
+    </tr>
+    <tr>
+      <td>Exoplanet Nodal Precession Induced By Rapidly Rotating Stars: Impacts On   Transit Probabilities And Biases</td>
+      <td>2304.09890</td>
+      <td><a href="https://arxiv.org/abs/2304.09890" target="_blank">https://arxiv.org/abs/2304.09890</a></td>
+      <td>Alexander P. Stephan, B. Scott Gaudi</td>
+      <td>Alexander Stephan, B. Scott Gaudi</td>
     </tr>
   </tbody>
 </table>
