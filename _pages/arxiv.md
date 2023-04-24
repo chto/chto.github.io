@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Apr 23 15:10:04 EDT 2023) "
+title: "Arxiv (Sun Apr 23 22:10:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,18 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Exoplanet Nodal Precession Induced By Rapidly Rotating Stars: Impacts On   Transit Probabilities And Biases</td>
-      <td>2304.09890</td>
-      <td><a href="https://arxiv.org/abs/2304.09890" target="_blank">https://arxiv.org/abs/2304.09890</a></td>
-      <td>Alexander P. Stephan, B. Scott Gaudi</td>
-      <td>Alexander Stephan, B. Scott Gaudi</td>
+      <td>The Apo-K2 Catalog. I. 7,673 Red Giants With Fundamental Stellar   Parameters From Apogee Dr17 Spectroscopy And K2-Gap Asteroseismology</td>
+      <td>2304.10654</td>
+      <td><a href="https://arxiv.org/abs/2304.10654" target="_blank">https://arxiv.org/abs/2304.10654</a></td>
+      <td>Jessica Schonhut-Stasik, Joel C. Zinn, Keivan G. Stassun, Marc Pinsonneault, Jennifer A. Johnson, Jack T. Warfield, Dennis Stello, Yvonne Elsworth, Rafael A. Garcia, Savita Marhur, Benoit Mosser, Jamie Tayar, Guy S. Stringfellow, Rachael L. Beaton, Henrik Jonsson, Dante Minniti</td>
+      <td>Jennifer Johnson, Marc Pinsonneault</td>
+    </tr>
+    <tr>
+      <td>What Does The Milky Way Look Like?</td>
+      <td>2304.10690</td>
+      <td><a href="https://arxiv.org/abs/2304.10690" target="_blank">https://arxiv.org/abs/2304.10690</a></td>
+      <td>Y. Xu, C. J. Hao, D. J. Liu, Z. H. Lin, S. B. Bian, L. G. Hou, J. J. Li, Y. J. Li</td>
+      <td>Jung-Tsung Li</td>
     </tr>
   </tbody>
 </table>
