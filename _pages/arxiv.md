@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Apr 25 23:00:06 EDT 2023) "
+title: "Arxiv (Wed Apr 26 04:00:04 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>The $\Pi$-Axion And $\Pi$-Axiverse Of Dark Qcd</td>
-      <td>2304.11176</td>
-      <td><a href="https://arxiv.org/abs/2304.11176" target="_blank">https://arxiv.org/abs/2304.11176</a></td>
-      <td>Stephon Alexander, Humberto Gilmer, Tucker Manton, Evan Mcdonough</td>
-      <td>Humberto Gilmer</td>
-    </tr>
     <tr>
       <td>Search For Correlations Of High-Energy Neutrinos Detected In Icecube   With Radio-Bright Agn And Gamma-Ray Emission From Blazars</td>
       <td>2304.12675</td>
