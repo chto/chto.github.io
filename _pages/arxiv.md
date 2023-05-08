@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun May  7 15:10:04 EDT 2023) "
+title: "Arxiv (Sun May  7 22:10:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,18 +15,25 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Evidence Of First Stars-Enriched Gas In High-Redshift Absorbers</td>
-      <td>2305.02346</td>
-      <td><a href="https://arxiv.org/abs/2305.02346" target="_blank">https://arxiv.org/abs/2305.02346</a></td>
-      <td>A. Saccardi, S. Salvadori, V. D'Odorico, G. Cupani, M. Fumagalli, T. A. M. Berg, G. D. Becker, S. Ellison, S. Lopez</td>
-      <td>Sebastian Lopez</td>
+      <td>The Early Light Curve Of Sn 2023Bee: Constraining Type Ia Supernova   Progenitors The Apian Way</td>
+      <td>2305.03071</td>
+      <td><a href="https://arxiv.org/abs/2305.03071" target="_blank">https://arxiv.org/abs/2305.03071</a></td>
+      <td>Griffin Hosseinzadeh, David J. Sand, Sumit K. Sarbadhicary, Stuart D. Ryder, Saurabh W. Jha, Yize Dong, K. Azalee Bostroem, Jennifer E. Andrews, Emily Hoang, Daryl Janzen, Jacob E. Jencson, Michael Lundquist, Nicolas E. Meza Retamal, Jeniveve Pearson, Manisha Shrestha, Stefano Valenti, Samuel Wyatt, Joseph Farah, D. Andrew Howell, Curtis Mccully, Megan Newsome, Estefania Padilla Gonzalez, Craig Pellegrino, Giacomo Terreran, Muzoun Alzaabi, Elizabeth M. Green, Jessica L. Gurney, Peter A. Milne, Kaycee I. Ridenhour, Nathan Smith, Paulina Soto Robles, Lindsey A. Kwok, Michaela Schwab, Mariusz Gromadzki, David A. H. Buckley, Koichi Itagaki, Daichi Hiramatsu, Laura Chomiuk, Peter Lundqvist, Joshua Haislip, Vladimir Kouprianov, Daniel E. Reichart</td>
+      <td>Sumit Sarbadhicary</td>
     </tr>
     <tr>
-      <td>Cool Cores In Clusters Of Galaxies In The Dark Energy Survey</td>
-      <td>2305.02365</td>
-      <td><a href="https://arxiv.org/abs/2305.02365" target="_blank">https://arxiv.org/abs/2305.02365</a></td>
-      <td>K. Graham, J. O'Donnell, M. M. Silverstein, O. Eiger, T. E. Jeltema, D. L. Hollowood, D. Cross, S. Everett, P. Giles, J. Jobel, D. Laubner, A. Mcdaniel, A. K. Romer, A. Swart, M. Aguena, S. Allam, O. Alves, D. Brooks, M. Carrasco Kind, J. Carretero, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, J. P. Dietrich, P. Doel, I. Ferrero, J. Frieman, J. Garcia-Bellido, D. Gruen, R. A. Gruendl, S. R. Hinton, K. Honscheid, D. J. James, K. Kuehn, N. Kuropatkin, O. Lahav, J. L. Marshall, P. Melchior, J. Mena-Fernandez, F. Menanteau, R. Miquel, R. L. C. Ogando, A. Palmese, A. Pieres, A. A. Plazas Malagon, K. Reil, M. Rodriguez-Monroy, E. Sanchez, V. Scarpine, M. Schubnell, M. Smith, E. Suchyta, G. Tarle, C. To, N. Weaverdyck</td>
-      <td>Chun-Hao To, Klaus Honscheid, Michael Rizzo Smith</td>
+      <td>Clusters, Clouds, And Correlations: Relating Young Clusters To Giant   Molecular Clouds In M33 And M31</td>
+      <td>2305.03618</td>
+      <td><a href="https://arxiv.org/abs/2305.03618" target="_blank">https://arxiv.org/abs/2305.03618</a></td>
+      <td>Joshua Peltonen, Erik Rosolowsky, L. Clifton Johnson, Anil C. Seth, Julianne Dalcanton, Eric F. Bell, Jonathan Braine, Eric W. Koch, Margaret Lazzarini, Adam K. Leroy, Evan D. Skillman, Adam Smercina, Tobin Wainer, Benjamin F. Williams</td>
+      <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>The Impact Of Hii Regions On Giant Molecular Cloud Properties In Nearby   Galaxies Sampled By Phangs Alma And Muse</td>
+      <td>2305.03650</td>
+      <td><a href="https://arxiv.org/abs/2305.03650" target="_blank">https://arxiv.org/abs/2305.03650</a></td>
+      <td>Antoine Zakardjian, Jérôme Pety, Cinthya N. Herrera, Annie Hughes, Elias Oakes, Kathryn Kreckel, Chris Faesi, Simon C. O. Glover, Brent Groves, Ralf S. Klessen, Sharon Meidt, Ashley Barnes, Francesco Belfiore, Ivana Bešlić, Frank Bigiel, Guillermo A. Blanc, Mélanie Chevance, Daniel A. Dale, Jakob Den Brok, Cosima Eibensteiner, Eric Emsellem, Axel García-Rodríguez, Kathryn Grasha, Eric W. Koch, Adam K. Leroy, Daizhong Liu, Rebecca Mc Elroy, Lukas Neumann, Hsi-An Pan, Miguel Querejeta, Alessandro Razza, Erik Rosolowsky, Toshiki Saito, Francesco Santoro, Eva Schinnerer, Jiyai Sun, Antonio Usero, Elizabeth J. Watkins, Thomas Williams</td>
+      <td>Adam Leroy</td>
     </tr>
   </tbody>
 </table>
