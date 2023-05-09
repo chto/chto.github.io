@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon May  8 15:10:04 EDT 2023) "
+title: "Arxiv (Mon May  8 22:10:06 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2305.03650" target="_blank">https://arxiv.org/abs/2305.03650</a></td>
       <td>Antoine Zakardjian, Jérôme Pety, Cinthya N. Herrera, Annie Hughes, Elias Oakes, Kathryn Kreckel, Chris Faesi, Simon C. O. Glover, Brent Groves, Ralf S. Klessen, Sharon Meidt, Ashley Barnes, Francesco Belfiore, Ivana Bešlić, Frank Bigiel, Guillermo A. Blanc, Mélanie Chevance, Daniel A. Dale, Jakob Den Brok, Cosima Eibensteiner, Eric Emsellem, Axel García-Rodríguez, Kathryn Grasha, Eric W. Koch, Adam K. Leroy, Daizhong Liu, Rebecca Mc Elroy, Lukas Neumann, Hsi-An Pan, Miguel Querejeta, Alessandro Razza, Erik Rosolowsky, Toshiki Saito, Francesco Santoro, Eva Schinnerer, Jiyai Sun, Antonio Usero, Elizabeth J. Watkins, Thomas Williams</td>
       <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Icecube And The Origin Of Anita-Iv Events</td>
+      <td>2305.03746</td>
+      <td><a href="https://arxiv.org/abs/2305.03746" target="_blank">https://arxiv.org/abs/2305.03746</a></td>
+      <td>Toni Bertólez-Martínez, Carlos A. Argüelles, Ivan Esteban, Jacobo Lopez-Pavon, Ivan Martinez-Soler, Jordi Salvado</td>
+      <td>Ivan Esteban</td>
     </tr>
   </tbody>
 </table>
