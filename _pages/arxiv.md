@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue May  9 23:00:05 EDT 2023) "
+title: "Arxiv (Wed May 10 04:00:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Icecube And The Origin Of Anita-Iv Events</td>
-      <td>2305.03746</td>
-      <td><a href="https://arxiv.org/abs/2305.03746" target="_blank">https://arxiv.org/abs/2305.03746</a></td>
-      <td>Toni Bertólez-Martínez, Carlos A. Argüelles, Ivan Esteban, Jacobo Lopez-Pavon, Ivan Martinez-Soler, Jordi Salvado</td>
-      <td>Ivan Esteban</td>
-    </tr>
     <tr>
       <td>Exoplanet Volatile Carbon Content As A Natural Pathway For Haze   Formation</td>
       <td>2305.05056</td>
