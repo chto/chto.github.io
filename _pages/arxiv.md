@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon May 15 15:10:10 EDT 2023) "
+title: "Arxiv (Mon May 15 22:10:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -41,6 +41,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2305.07650" target="_blank">https://arxiv.org/abs/2305.07650</a></td>
       <td>Alex Krolewski, Will J. Percival, Simone Ferraro, Edmond Chaussidon, Mehdi Rezaie, Jessica Nicole Aguilar, Steven Ahlen, David Brooks, Kyle Dawson, Axel De La Macorra, Peter Doel, Kevin Fanning, Andreu Font-Ribera, Satya Gontcho A Gontcho, Julien Guy, Klaus Honscheid, Robert Kehoe, Theodore Kisner, Anthony Kremin, Martin Landriau, Michael E. Levi, Paul Martini, Aaron M. Meisner, Ramon Miquel, Jundan Nie, Claire Poppett, Ashley J. Ross, Graziano Rossi, Michael Schubnell, Hee-Jong Seo, Gregory Tarle, Mariana Vargas-Magana, Benjamin Alan Weaver, Christophe Yeche, Rongpu Zhou, Zhimin Zhou</td>
       <td>Ashley Ross, Kevin Fanning, Klaus Honscheid, Paul Martini</td>
+    </tr>
+    <tr>
+      <td>Possible Detection Of A Flare-Associated Coronal Mass Ejection On A   M-Dwarf</td>
+      <td>2305.08294</td>
+      <td><a href="https://arxiv.org/abs/2305.08294" target="_blank">https://arxiv.org/abs/2305.08294</a></td>
+      <td>J. Wang</td>
+      <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Toi-1994B: A Low Mass Eccentric Brown Dwarf Transiting A Subgiant Star</td>
+      <td>2305.08836</td>
+      <td><a href="https://arxiv.org/abs/2305.08836" target="_blank">https://arxiv.org/abs/2305.08836</a></td>
+      <td>Emma Page, Joshua Pepper, Duncan Wright, Joseph E. Rodriguez, Robert A. Wittenmyer, Stephen R. Kane, Brett Addison, Timothy Bedding, Brendan P. Bowler, Thomas Barclay, Karen A. Collins, Phil Evans, Jonathan Horner, Eric L. N. Jensen, Marshall C. Johnson, John Kielkopf, Ismael Mireles, Peter Plavchan, Samuel N. Quinn, S. Seager, Keivan G. Stassun, Stephanie Striegel, Joshua N. Winn, George Zhou, Carl Ziegler</td>
+      <td>Marshall Johnson</td>
     </tr>
   </tbody>
 </table>
