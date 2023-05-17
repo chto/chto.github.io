@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue May 16 23:00:05 EDT 2023) "
+title: "Arxiv (Wed May 17 04:00:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,20 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Possible Detection Of A Flare-Associated Coronal Mass Ejection On A   M-Dwarf</td>
-      <td>2305.08294</td>
-      <td><a href="https://arxiv.org/abs/2305.08294" target="_blank">https://arxiv.org/abs/2305.08294</a></td>
-      <td>J. Wang</td>
-      <td>Ji Wang</td>
-    </tr>
-    <tr>
-      <td>Toi-1994B: A Low Mass Eccentric Brown Dwarf Transiting A Subgiant Star</td>
-      <td>2305.08836</td>
-      <td><a href="https://arxiv.org/abs/2305.08836" target="_blank">https://arxiv.org/abs/2305.08836</a></td>
-      <td>Emma Page, Joshua Pepper, Duncan Wright, Joseph E. Rodriguez, Robert A. Wittenmyer, Stephen R. Kane, Brett Addison, Timothy Bedding, Brendan P. Bowler, Thomas Barclay, Karen A. Collins, Phil Evans, Jonathan Horner, Eric L. N. Jensen, Marshall C. Johnson, John Kielkopf, Ismael Mireles, Peter Plavchan, Samuel N. Quinn, S. Seager, Keivan G. Stassun, Stephanie Striegel, Joshua N. Winn, George Zhou, Carl Ziegler</td>
-      <td>Marshall Johnson</td>
-    </tr>
     <tr>
       <td>Planting A Lyman Alpha Forest On Abacussummit</td>
       <td>2305.08899</td>
