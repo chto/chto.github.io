@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed May 17 23:00:07 EDT 2023) "
+title: "Arxiv (Thu May 18 04:00:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Planting A Lyman Alpha Forest On Abacussummit</td>
-      <td>2305.08899</td>
-      <td><a href="https://arxiv.org/abs/2305.08899" target="_blank">https://arxiv.org/abs/2305.08899</a></td>
-      <td>Boryana Hadzhiyska, Andreu Font-Ribera, Andrei Cuceu, Solène Chabanier, Jessica Nicole Aguilar, David Brooks, Axel De La Macorra, Peter Doel, Daniel J. Eisenstein, Jaime E. Forero-Romero, Satya Gontcho A Gontcho, Klaus Honscheid, Robert Kehoe, Martin Landriau, Marc Manera, Ramon Miquel, Jundan Nie, Will Percival, Graziano Rossi, Michael Schubnell, Gregory Tarlé, Zhimin Zhou</td>
-      <td>Andrei Cuceu, Klaus Honscheid</td>
-    </tr>
     <tr>
       <td>Seven Classes Of Rotational Variables From A Study Of 50,000 Spotted   Stars With Asas-Sn, Gaia, And Apogee</td>
       <td>2305.09715</td>
