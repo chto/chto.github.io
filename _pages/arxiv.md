@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed May 24 23:00:07 EDT 2023) "
+title: "Arxiv (Thu May 25 04:00:04 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Scaling K2. Vi. Reduced Small Planet Occurrence In High Galactic   Amplitude Stars</td>
-      <td>2305.13389</td>
-      <td><a href="https://arxiv.org/abs/2305.13389" target="_blank">https://arxiv.org/abs/2305.13389</a></td>
-      <td>Jon K. Zink, Kevin K. Hardegree-Ullman, Jessie L. Christiansen, Erik A. Petigura, Kiersten M. Boley, Sakhee Bhure, Malena Rice, Samuel W. Yee, Howard Isaacson, Rachel B. Fernandes, Andrew W. Howard, Sarah Blunt, Jack Lubin, Ashley Chontos, Daria Pidhorodetska, Mason G. Macdougall</td>
-      <td>Kiersten Boley</td>
-    </tr>
     <tr>
       <td>Fuelling The Nuclear Ring Of Ngc 1097</td>
       <td>2305.14437</td>
