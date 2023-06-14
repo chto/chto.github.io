@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jun 13 15:10:04 EDT 2023) "
+title: "Arxiv (Tue Jun 13 22:10:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -50,13 +50,6 @@ classes: wide
       <td>Kevin Fanning, Klaus Honscheid, Paul Martini</td>
     </tr>
     <tr>
-      <td>The Dark Energy Spectroscopic Instrument: One-Dimensional Power Spectrum   From First Lyman-$\Alpha$ Forest Samples With Fast Fourier Transform</td>
-      <td>2306.06311</td>
-      <td><a href="https://arxiv.org/abs/2306.06311" target="_blank">https://arxiv.org/abs/2306.06311</a></td>
-      <td>Corentin Ravoux, Marie Lynn Abdul Karim, Eric Armengaud, Michael Walther, Naim Göksel Karaçaylı, Paul Martini, Julien Guy, Jessica Nicole Aguilar, Steven Ahlen, Stephen Bailey, Julian Bautista, Sergio Felipe Beltran, David Brooks, Laura Cabayol-Garcia, Solène Chabanier, Edmond Chaussidon, Jonás Chaves-Montero, Kyle Dawson, Rodrigo De La Cruz, Axel De La Macorra, Peter Doel, Kevin Fanning, Andreu Font-Ribera, Jaime Forero-Romero, Satya Gontcho A Gontcho, Alma Gonzalez-Morales, Calum Gordon, Hiram Herrera-Alcantar, Klaus Honscheid, Vid Iršič, Mustapha Ishak, Robert Kehoe, Theodore Kisner, Anthony Kremin, Martin Landriau, Laurent Le Guillou, Michael Levi, Zarija Lukić, Christophe Magneville, Aaron Meisner, Ramon Miquel, John Moustakas, Eva-Maria Mueller, Andrea Muñoz-Gutiérrez, Lucas Napolitano, Jundan Nie, Gustavo Niz, Nathalie Palanque-Delabrouille, Will Percival, Ignasi Pérez-Ràfols, Matthew Pieri, Claire Poppett, Francisco Prada, César Ramírez Pérez, Graziano Rossi, Eusebio Sanchez, David Schlegel, Michael Schubnell, Hee-Jong Seo, Francesco Sinigaglia, Ting Tan, Gregory Tarlé, Ben Wang, Benjamin Weaver, Christophe Yèche, Zhimin Zhou</td>
-      <td>Kevin Fanning, Klaus Honscheid, Paul Martini</td>
-    </tr>
-    <tr>
       <td>The Lyman-Alpha Forest Catalog From The Dark Energy Spectroscopic   Instrument Early Data Release</td>
       <td>2306.06312</td>
       <td><a href="https://arxiv.org/abs/2306.06312" target="_blank">https://arxiv.org/abs/2306.06312</a></td>
@@ -68,13 +61,6 @@ classes: wide
       <td>2306.06313</td>
       <td><a href="https://arxiv.org/abs/2306.06313" target="_blank">https://arxiv.org/abs/2306.06313</a></td>
       <td>Jiaxi Yu, Cheng Zhao, Violeta Gonzalez-Perez, Chia-Hsun Chuang, Allyson Brodzeller, Arnaud De Mattia, Jean-Paul Kneib, Alex Krolewski, Antoine Rocher, Ashley Ross, Yunchong Wang, Sihan Yuan, Hanyu Zhang, Rongpu Zhou, Jessica Nicole Aguilar, Steven Ahlen, David Brooks, Kyle Dawson, Alex De La Macorra, Peter Doel, Kevin Fanning, Andreu Font-Ribera, Jaime Forero-Romero, Satya Gontcho A Gontcho, Klaus Honscheid, Robert Kehoe, Theodore Kisner, Anthony Kremin, Martin Landriau, Marc Manera, Paul Martini, Aaron Meisner, Ramon Miquel, John Moustakas, Jundan Nie, Will Percival, Claire Poppett, Anand Raichoor, Graziano Rossi, Hee-Jong Seo, Gregory Tarlé, Zhimin Zhou, Hu Zou</td>
-      <td>Ashley Ross, Kevin Fanning, Klaus Honscheid, Paul Martini</td>
-    </tr>
-    <tr>
-      <td>The Desi One-Percent Survey: Exploring The Halo Occupation Distribution   Of Luminous Red Galaxies And Quasi-Stellar Objects With Abacussummit</td>
-      <td>2306.06314</td>
-      <td><a href="https://arxiv.org/abs/2306.06314" target="_blank">https://arxiv.org/abs/2306.06314</a></td>
-      <td>Sihan Yuan, Hanyu Zhang, Ashley J. Ross, Jamie Donald-Mccann, Boryana Hadzhiyska, Risa H. Wechsler, Zheng Zheng, Shadab Alam, Violeta Gonzalez- Perez, Jessica Nicole Aguilar, Steven Ahlen, Davide Bianchi, David Brooks, Axel De La Macorra, Kevin Fanning, Jaime E. Forero-Romero, Klaus Honscheid, Mustapha Ishak, Robert Kehoe, James Lasker, Martin Landriau, Marc Manera, Paul Martini, Aaron Meisner, Ramon Miquel, John Moustakas, Seshadri Nadathur, Jeffrey A. Newman, Jundan Nie, Will Percival, Claire Poppett, Antoine Rocher, Graziano Rossi, Eusebio Sanchez, Lado Samushia, Michael Schubnell, Hee-Jong Seo, Gregory Tarlé, Benjamin Alan Weaver, Jiaxi Yu, Zhimin Zhou, Hu Zou</td>
       <td>Ashley Ross, Kevin Fanning, Klaus Honscheid, Paul Martini</td>
     </tr>
     <tr>
@@ -106,25 +92,25 @@ classes: wide
       <td>Klaus Honscheid</td>
     </tr>
     <tr>
-      <td>The Desi One-Percent Survey: Exploring The Halo Occupation Distribution   Of Emission Line Galaxies With Abacussummit Simulations</td>
-      <td>2306.06319</td>
-      <td><a href="https://arxiv.org/abs/2306.06319" target="_blank">https://arxiv.org/abs/2306.06319</a></td>
-      <td>Antoine Rocher, Vanina Ruhlmann-Kleider, Etienne Burtin, Sihan Yuan, Arnaud De Mattia, Ashley J. Ross, Jessica Aguilar, Steven Ahlen, Shadab Alam, Davide Bianchi, David Brooks, Shaun Cole, Kyle Dawson, Axel De La Macorra, Peter Doel, Daniel J. Eisenstein, Kevin Fanning, Jaime E. Forero-Romero, Lehman H. Garrison, Satya Gontcho A Gontcho, Violeta Gonzalez-Perez, Julien Guy, Boryana Hadzhiyska, Changhoon Hahn, Klaus Honscheid, Theodore Kisner, Martin Landriau, James Lasker, Michael E. Levi, Marc Manera, Aaron Meisner, Ramon Miquel, John Moustakas, Eva-Maria Mueller, Jeffrey A. Newman, Jundan Nie, Will J. Percival, Claire Poppett, Fei Qin, Graziano Rossi, Lado Samushia, Eusebio Sanchez, David Schlegel, Michael Schubnell, Hee-Jong Seo, Gregory Tarlé, Mariana Vargas-Magaña, Benjamin A. Weaver, Jiaxi Yu, Hanyu Zhang, Zheng Zheng, Zhimin Zhou, Hu Zou</td>
-      <td>Ashley Ross, Kevin Fanning, Klaus Honscheid</td>
+      <td>Dissecting A 30 Kpc Galactic Outflow At $Z \Sim$ 1.7</td>
+      <td>2306.07328</td>
+      <td><a href="https://arxiv.org/abs/2306.07328" target="_blank">https://arxiv.org/abs/2306.07328</a></td>
+      <td>Ahmed Shaban, Rongmon Bordoloi, John Chisholm, Jane R. Rigby, Soniya Sharma, Keren Sharon, Nicolas Tejos, Matthew B. Bayliss, L. Felipe Barrientos, Sebastian Lopez, Cédric Ledoux, Michael G. Gladders, Michael K. Florian</td>
+      <td>Sebastian Lopez</td>
     </tr>
     <tr>
-      <td>Validation Of Semi-Analytical, Semi-Empirical Covariance Matrices For   Two-Point Correlation Function For Early Desi Data</td>
-      <td>2306.06320</td>
-      <td><a href="https://arxiv.org/abs/2306.06320" target="_blank">https://arxiv.org/abs/2306.06320</a></td>
-      <td>Michael Rashkovetskyi, Daniel J. Eisenstein, Jessica Nicole Aguilar, David Brooks, Todd Claybaugh, Shaun Cole, Kyle Dawson, Axel De La Macorra, Peter Doel, Kevin Fanning, Andreu Font-Ribera, Jaime E. Forero-Romero, Satya Gontcho A Gontcho, Changhoon Hahn, Klaus Honscheid, Robert Kehoe, Theodore Kisner, Martin Landriau, Michael Levi, Marc Manera, Ramon Miquel, Jeongin Moon, Seshadri Nadathur, Jundan Nie, Claire Poppett, Ashley J. Ross, Graziano Rossi, Eusebio Sanchez, Christoph Saulder, Michael Schubnell, Hee-Jong Seo, Gregory Tarle, David Valcin, Benjamin Alan Weaver, Cheng Zhao, Zhimin Zhou, Hu Zou</td>
-      <td>Ashley Ross, Kevin Fanning, Klaus Honscheid</td>
+      <td>Closing The Gap Between Observed Low-Mass Galaxy Hi Kinematics And Cdm   Predictions</td>
+      <td>2306.07417</td>
+      <td><a href="https://arxiv.org/abs/2306.07417" target="_blank">https://arxiv.org/abs/2306.07417</a></td>
+      <td>Amy Sardone, Annika H. G. Peter, Alyson M. Brooks, Jane Kaczmarek</td>
+      <td>Amy Sardone</td>
     </tr>
     <tr>
-      <td>Gtc Follow-Up Observations Of Very Metal-Poor Star Candidates From Desi</td>
-      <td>2306.06321</td>
-      <td><a href="https://arxiv.org/abs/2306.06321" target="_blank">https://arxiv.org/abs/2306.06321</a></td>
-      <td>Carlos Allende Prieto, David S. Aguado, Jonay I. González Hernández, Rafael Rebolo, Joan Najita, Christopher J. Manser, Constance Rockosi, Zachary Slepian, Mar Mezcua, Monica Valluri, Rana Ezzeddine, Sergey E. Koposov, Andrew P. Cooper, Arjun Dey, Boris T. Gänsicke, Ting S. Li, Katia Cunha, Siwei Zou, Jessica Nicole Aguilar, Steven Ahlen, David Brooks, Todd Claybaugh, Shaun Cole, Sarah Eftekharzadeh, Kevin Fanning, Jaime Forero-Romero, Satya Gontcho A Gontcho, Klaus Honscheid, Pascale Jablonka, Robert Kehoe, Theodore Kisner, Martin Landriau, Axel De La Macorra, Aaron Meisner, Ramón Miquel, John Moustakas, Jundan Nie, Claire Poppett, Francisco Prada, Mehdi Rezaie, Graziano Rossi, Eusebio Sánchez, Michael Schubnell, Ray Sharples, Malgorzata Siudek, Verne V. Smith, Gregory Tarlé, Fiorenzo Vincenzo, Benjamin Alan Weaver, Zhimin Zhou, Hu Zou</td>
-      <td>Kevin Fanning, Klaus Honscheid</td>
+      <td>The Edge-Califa Survey: Spatially Resolved 13Co(1-0) Observations And   Variations In 12Co(1-0)/13Co(1-0) In Nearby Galaxies On Kpc Scales</td>
+      <td>2306.07640</td>
+      <td><a href="https://arxiv.org/abs/2306.07640" target="_blank">https://arxiv.org/abs/2306.07640</a></td>
+      <td>Yixian Cao, Tony Wong, Alberto D. Bolatto, Adam Leroy, Erik W. Rosolowsky, Dyas Utomo, Sebastian Sanchez, Jorge Barrera-Ballesteros, Rebecca Levy, Dario Colombo, Leo Blitz, Stuart Vogel, Johannes Puschnig, Vicente Villanueva, Monica Rubio</td>
+      <td>Adam Leroy</td>
     </tr>
   </tbody>
 </table>
