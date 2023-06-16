@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jun 15 15:10:13 EDT 2023) "
+title: "Arxiv (Thu Jun 15 22:10:11 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,25 +15,25 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Dissecting A 30 Kpc Galactic Outflow At $Z \Sim$ 1.7</td>
-      <td>2306.07328</td>
-      <td><a href="https://arxiv.org/abs/2306.07328" target="_blank">https://arxiv.org/abs/2306.07328</a></td>
-      <td>Ahmed Shaban, Rongmon Bordoloi, John Chisholm, Jane R. Rigby, Soniya Sharma, Keren Sharon, Nicolas Tejos, Matthew B. Bayliss, L. Felipe Barrientos, Sebastian Lopez, Cédric Ledoux, Michael G. Gladders, Michael K. Florian</td>
-      <td>Sebastian Lopez</td>
+      <td>Old Data, New Forensics: The First Second Of Sn 1987A Neutrino Emission</td>
+      <td>2306.08024</td>
+      <td><a href="https://arxiv.org/abs/2306.08024" target="_blank">https://arxiv.org/abs/2306.08024</a></td>
+      <td>Shirley Weishi Li, John F. Beacom, Luke F. Roberts, Francesco Capozzi</td>
+      <td>John Beacom, John F. Beacom</td>
     </tr>
     <tr>
-      <td>Closing The Gap Between Observed Low-Mass Galaxy Hi Kinematics And Cdm   Predictions</td>
-      <td>2306.07417</td>
-      <td><a href="https://arxiv.org/abs/2306.07417" target="_blank">https://arxiv.org/abs/2306.07417</a></td>
-      <td>Amy Sardone, Annika H. G. Peter, Alyson M. Brooks, Jane Kaczmarek</td>
-      <td>Amy Sardone</td>
+      <td>Overfitting Affects The Reliability Of Radial Velocity Mass Estimates Of   The V1298 Tau Planets</td>
+      <td>2306.08145</td>
+      <td><a href="https://arxiv.org/abs/2306.08145" target="_blank">https://arxiv.org/abs/2306.08145</a></td>
+      <td>Sarah Blunt, Adolfo Carvalho, Trevor J. David, Charles Beichman, Jon K. Zink, Eric Gaidos, Aida Behmard, Luke G. Bouma, Devin Cody, Fei Dai, Daniel Foreman-Mackey, Sam Grunblatt, Andrew W. Howard, Molly Kosiarek, Heather A. Knutson, Ryan A. Rubenzahl, Corey Beard, Ashley Chontos, Steven Giacalone, Teruyuki Hirano, Marshall C. Johnson, Jack Lubin, Joseph M. Akana Murphy, Erik A Petigura, Judah Van Zandt, Lauren Weiss</td>
+      <td>Marshall Johnson</td>
     </tr>
     <tr>
-      <td>The Edge-Califa Survey: Spatially Resolved 13Co(1-0) Observations And   Variations In 12Co(1-0)/13Co(1-0) In Nearby Galaxies On Kpc Scales</td>
-      <td>2306.07640</td>
-      <td><a href="https://arxiv.org/abs/2306.07640" target="_blank">https://arxiv.org/abs/2306.07640</a></td>
-      <td>Yixian Cao, Tony Wong, Alberto D. Bolatto, Adam Leroy, Erik W. Rosolowsky, Dyas Utomo, Sebastian Sanchez, Jorge Barrera-Ballesteros, Rebecca Levy, Dario Colombo, Leo Blitz, Stuart Vogel, Johannes Puschnig, Vicente Villanueva, Monica Rubio</td>
-      <td>Adam Leroy</td>
+      <td>New Dimensions Of Galactic Chemical Evolution</td>
+      <td>2306.09133</td>
+      <td><a href="https://arxiv.org/abs/2306.09133" target="_blank">https://arxiv.org/abs/2306.09133</a></td>
+      <td>David H. Weinberg</td>
+      <td>David Weinberg</td>
     </tr>
   </tbody>
 </table>
