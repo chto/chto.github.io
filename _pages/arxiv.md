@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jun 20 23:00:09 EDT 2023) "
+title: "Arxiv (Wed Jun 21 04:00:10 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Anisotropic Strong Lensing As A Probe Of Dark Matter Self-Interactions</td>
-      <td>2306.10109</td>
-      <td><a href="https://arxiv.org/abs/2306.10109" target="_blank">https://arxiv.org/abs/2306.10109</a></td>
-      <td>Birendra Dhanasingham, Francis-Yan Cyr-Racine, Charlie Mace, Annika H. G. Peter, Andrew Benson</td>
-      <td>Charlie Mace</td>
-    </tr>
     <tr>
       <td>The First Gecam Observation Results On Terrestrial Gamma-Ray Flashes And   Terrestrial Electron Beams</td>
       <td>2306.10255</td>
