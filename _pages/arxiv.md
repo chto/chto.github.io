@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jun 22 23:00:16 EDT 2023) "
+title: "Arxiv (Fri Jun 23 04:00:15 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,39 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Calibrating Mid-Infrared Emission As A Tracer Of Obscured Star Formation   On Hii-Region Scales In The Era Of Jwst</td>
-      <td>2306.11811</td>
-      <td><a href="https://arxiv.org/abs/2306.11811" target="_blank">https://arxiv.org/abs/2306.11811</a></td>
-      <td>Francesco Belfiore, Adam K. Leroy, Thomas G. Williams, Ashley T. Barnes, Frank Bigiel, Médéric Boquien, Yixian Cao, Jérémy Chastenet, Enrico Congiu, Daniel A. Dale, Oleg V. Egorov, Cosima Eibensteiner, Eric Emsellem, Simon C. O. Glover, Brent Groves, Hamid Hassani, Ralf S. Klessen, Kathryn Kreckel, Lukas Neumann, Justus Neumann, Miguel Querejeta, Erik Rosolowsky, Patricia Sanchez-Blazquez, Karin Sandstrom, Eva Schinnerer, Jiayi Sun, Jessica Sutter, Elizabeth J. Watkins</td>
-      <td>Adam Leroy</td>
-    </tr>
-    <tr>
-      <td>A Characterization Of Asas-Sn Core-Collapse Supernova Environments With   Vlt+Muse: I. Sample Selection, Analysis Of Local Environments, And   Correlations With Light Curve Properties</td>
-      <td>2306.11961</td>
-      <td><a href="https://arxiv.org/abs/2306.11961" target="_blank">https://arxiv.org/abs/2306.11961</a></td>
-      <td>Thallis Pessi, Jose L. Prieto, Joseph P. Anderson, Lluís Galbany, Joseph D. Lyman, Christopher Kochanek, Subo Dong, Francisco Forster, Raul González-Díaz, Santiago Gonzalez-Gaitan, Claudia P. Gutiérrez, Thomas W. -S. Holoien, Philip A. James, Cristina Jiménez-Palau, Evelyn J. Johnston, Hanindyo Kuncarayakti, Fabián Rosales-Ortega, Sebastian F. Sánchez, Steve Schulze, Benjamin Shappee</td>
-      <td>Christopher Kochanek</td>
-    </tr>
-    <tr>
-      <td>A Metallicity Dependence On The Occurrence Of Core-Collapse Supernovae</td>
-      <td>2306.11962</td>
-      <td><a href="https://arxiv.org/abs/2306.11962" target="_blank">https://arxiv.org/abs/2306.11962</a></td>
-      <td>Thallis Pessi, Joseph P. Anderson, Joseph D. Lyman, Jose L. Prieto, Lluís Galbany, Christopher S. Kochanek, Sebastian F. Sánchez, Hanindyo Kuncarayakti</td>
-      <td>Christopher Kochanek</td>
-    </tr>
-    <tr>
       <td>Practical Approaches To Analyzing Pta Data: Cosmic Strings With Six   Pulsars</td>
       <td>2306.12234</td>
       <td><a href="https://arxiv.org/abs/2306.12234" target="_blank">https://arxiv.org/abs/2306.12234</a></td>
       <td>Hippolyte Quelquejay Leclere, Pierre Auclair, Stanislav Babak, Aurélien Chalumeau, Danièle A. Steer, J. Antoniadis, A. -S. Bak Nielsen, C. G. Bassa, A. Berthereau, M. Bonetti, E. Bortolas, P. R. Brook, M. Burgay, R. N. Caballero, D. J. Champion, S. Chanlaridis, S. Chen, I. Cognard, G. Desvignes, M. Falxa, R. D. Ferdman, A. Franchini, J. R. Gair, B. Goncharov, E. Graikou, J. -M. Grießmeier, L. Guillemot, Y. J. Guo, H. Hu, F. Iraci, D. Izquierdo-Villalba, J. Jang, J. Jawor, G. H. Janssen, A. Jessner, R. Karuppusamy, E. F. Keane, M. J. Keith, M. Kramer, M. A. Krishnakumar, K. Lackeos, K. J. Lee, K. Liu, Y. Liu, A. G. Lyne, J. W. Mckee, R. A. Main, M. B. Mickaliger, I. C. Niţu, A. Parthasarathy, B. B. P. Perera, D. Perrodin, A. Petiteau, N. K. Porayko, A. Possenti, A. Samajdar, S. A. Sanidas, A. Sesana, G. Shaifullah, L. Speri, R. Spiewak, B. W. Stappers, S. C. Susarla, G. Theureau, C. Tiburzi, E. Van Der Wateren, A. Vecchio, V. Venkatraman Krishnan, J. P. W. Verbiest, J. Wang, L. Wang, Z. Wu</td>
       <td>Ji Wang</td>
-    </tr>
-    <tr>
-      <td>Probing The Hot Circumgalactic Medium Of External Galaxies In X-Ray   Absorption Ii: A Luminous Spiral Galaxy At $Z\Approx 0.225$</td>
-      <td>2306.12284</td>
-      <td><a href="https://arxiv.org/abs/2306.12284" target="_blank">https://arxiv.org/abs/2306.12284</a></td>
-      <td>Smita Mathur, Sanskriti Das, Anjali Gupta, Yair Krongold</td>
-      <td>Anjali Gupta, Sanskriti Das, Smita Mathur</td>
     </tr>
     <tr>
       <td>The Galactic Center With Roman</td>
