@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jun 26 15:10:05 EDT 2023) "
+title: "Arxiv (Mon Jun 26 22:10:12 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2306.13645" target="_blank">https://arxiv.org/abs/2306.13645</a></td>
       <td>Billy Edwards, Quentin Changeat, Angelos Tsiaras, Andrew Allan, Patrick Behr, Simone R. Hagey, Michael D. Himes, Sushuang Ma, Keivan G. Stassun, Luis Thomas, Alexandra Thompson, Aaron Boley, Luke Booth, Jeroen Bouwman, Kevin France, Nataliea Lowson, Annabella Meech, Caprice L. Phillips, Aline A. Vidotto, Kai Hou Yip, Michelle Bieger, Amelie Gressier, Estelle Janin, Ing-Guey Jiang, Pietro Leonardi, Subhajit Sarkar, Nour Skaf, Jake Taylor, Ming Yang, Derek Ward-Thompson</td>
       <td>Caprice Phillips</td>
+    </tr>
+    <tr>
+      <td>Relationship Of Transport Coefficients With Statistical Quantities Of   Charged Particles</td>
+      <td>2306.13839</td>
+      <td><a href="https://arxiv.org/abs/2306.13839" target="_blank">https://arxiv.org/abs/2306.13839</a></td>
+      <td>J. F. Wang, G. Qin</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
