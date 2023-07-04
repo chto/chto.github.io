@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jul  3 15:10:05 EDT 2023) "
+title: "Arxiv (Mon Jul  3 22:10:06 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2306.17663" target="_blank">https://arxiv.org/abs/2306.17663</a></td>
       <td>Edward M. Cackett, Jonathan Gelbord, Aaron J. Barth, Gisella De Rosa, Rick Edelson, Michael R. Goad, Yasaman Homayouni, Keith Horne, Erin A. Kara, Gerard A. Kriss, Kirk T. Korista, Hermine Landt, Rachel Plesha, Nahum Arav, Misty C. Bentz, Benjamin D. Boizelle, Elena Dalla Bonta, Maryam Dehghanian, Fergus Donnan, Pu Du, Gary J. Ferland, Carina Fian, Alexei V. Filippenko, Diego H. Gonzalez Buitrago, Catherine J. Grier, Patrick B. Hall, Chen Hu, Dragana Ilic, Jelle Kaastra, Shai Kaspi, Christopher S. Kochanek, Andjelka B. Kovacevic, Daniel Kynoch, Yan-Rong Li, Jacob N. Mclane, Missagh Mehdipour, Jake A. Miller, John Montano, Hagai Netzer, Christos Panagiotou, Ethan Partington, Luka C. Popovic, Daniel Proga, Daniele Rogantini, David Sanmartim, Matthew R. Siebert, Thaisa Storchi-Bergmann, Marianne Vestergaard, Jian-Min Wang, Tim Waters, Fatima Zaidouni</td>
       <td>Christopher Kochanek</td>
+    </tr>
+    <tr>
+      <td>Kmt-2022-Blg-0475Lb And Kmt-2022-Blg-1480Lb: Microlensing Ice Giants   Detected Via Non-Caustic-Crossing Channel</td>
+      <td>2307.00753</td>
+      <td><a href="https://arxiv.org/abs/2307.00753" target="_blank">https://arxiv.org/abs/2307.00753</a></td>
+      <td>Cheongho Han, Chung-Uk Lee, Ian A. Bond, Weicheng Zang, Sun-Ju Chung, Michael D. Albrow, Andrew Gould, Kyu-Ha Hwang, Youn Kil Jung, Yoon-Hyun Ryu, In-Gu Shin, Yossi Shvartzvald, Hongjing Yang, Jennifer C. Yee, Sang-Mok Cha, Doeon Kim, Dong-Jin Kim, Seung-Lee Kim, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Shude Mao, Wei Zhu, Fumio Abe, Richard Barry, David P. Bennett, Aparna Bhattacharya, Hirosame Fujii, Akihiko Fukui, Ryusei Hamada, Yuki Hirao, Stela Ishitani Silva, Yoshitaka Itow, Rintaro Kirikawa, Iona Kondo, Naoki Koshimoto, Yutaka Matsubara, Shota Miyazaki, Yasushi Muraki, Greg Olmschenk, Clément Ranc, Nicholas J. Rattenbury, Yuki Satoh, Takahiro Sumi, Daisuke Suzuki, Taiga Toda, Mio Tomoyoshi, Paul J. Tristram, Aikaterini Vandorou, Hibiki Yama, Kansuke Yamashita</td>
+      <td>Andrew Gould, Richard Pogge</td>
     </tr>
   </tbody>
 </table>
