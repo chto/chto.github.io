@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jul 10 23:00:06 EDT 2023) "
+title: "Arxiv (Tue Jul 11 04:00:06 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Asteroseismology With The Roman Galactic Bulge Time-Domain Survey</td>
-      <td>2307.03237</td>
-      <td><a href="https://arxiv.org/abs/2307.03237" target="_blank">https://arxiv.org/abs/2307.03237</a></td>
-      <td>Daniel Huber, Marc Pinsonneault, Paul Beck, Timothy R. Bedding, Joss Bland-Hawthorn, Sylvain N. Breton, Lisa Bugnet, William J. Chaplin, Rafael A. Garcia, Samuel K. Grunblatt, Joyce A. Guzik, Saskia Hekker, Steven D. Kawaler, Stephane Mathis, Savita Mathur, Travis Metcalfe, Benoit Mosser, Melissa K. Ness, Anthony L. Piro, Aldo Serenelli, Sanjib Sharma, David R. Soderblom, Keivan G. Stassun, Dennis Stello, Jamie Tayar, Gerard T. Van Belle, Joel C. Zinn</td>
-      <td>Marc Pinsonneault</td>
-    </tr>
     <tr>
       <td>Observation Of High-Energy Neutrinos From The Galactic Plane</td>
       <td>2307.04427</td>
