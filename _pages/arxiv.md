@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jul 18 15:10:19 EDT 2023) "
+title: "Arxiv (Tue Jul 18 22:10:06 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -41,6 +41,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2307.08289" target="_blank">https://arxiv.org/abs/2307.08289</a></td>
       <td>Wei-Jian Guo, Hu Zou, Victoria Anne Fawcett, Rebecca Canning, Stephanie Juneau, Tamara M. Davis, David M. Alexander, Linhua Jiang, Jessica Nicole Aguilar, Steven Ahlen, David Brooks, Todd Claybaugh, Axel De La Macorra, Peter Doel, Kevin Fanning, Jaime E. Forero-Romero, Satya Gontcho A Gontcho, Klaus Honscheid, Theodore Kisner, Anthony Kremin, Martin Landriau, Aaron Meisner, Ramon Miquel, John Moustakas, Jundan Nie, Zhiwei Pan, Claire Poppett, Francisco Prada, Mehdi Rezaie, Graziano Rossi, Małgorzata Siudek, Eusebio Sanchez, Michael Schubnell, Hee-Jong Seo, Jipeng Sui, Gregory Tarlé, Zhiming Zhou</td>
       <td>Kevin Fanning, Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Scotch -- Search For Clandestine Optically Thick Compact Hiis</td>
+      <td>2307.08719</td>
+      <td><a href="https://arxiv.org/abs/2307.08719" target="_blank">https://arxiv.org/abs/2307.08719</a></td>
+      <td>A. L. Patel, J. S. Urquhart, A. Y. Yang, T. J. T Moore, K. M. Menten, M. A. Thompson, M. G. Hoare, T. Irabor, S. L. Breen, M. D. Smith</td>
+      <td>Michael Rizzo Smith</td>
+    </tr>
+    <tr>
+      <td>Small-Scale Magnetic Fields Are Critical To Shaping Solar Gamma-Ray   Emission</td>
+      <td>2307.08728</td>
+      <td><a href="https://arxiv.org/abs/2307.08728" target="_blank">https://arxiv.org/abs/2307.08728</a></td>
+      <td>Jung-Tsung Li, John F. Beacom, Spencer Griffith, Annika H. G. Peter</td>
+      <td>John Beacom, John F. Beacom, Jung-Tsung Li</td>
     </tr>
   </tbody>
 </table>
