@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jul 25 23:00:05 EDT 2023) "
+title: "Arxiv (Wed Jul 26 04:00:05 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,20 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Four Years Of Type Ia Supernovae Observed By Tess: Early Time Light   Curve Shapes And Constraints On Companion Interaction Models</td>
-      <td>2307.11815</td>
-      <td><a href="https://arxiv.org/abs/2307.11815" target="_blank">https://arxiv.org/abs/2307.11815</a></td>
-      <td>M. M. Fausnaugh, P. J. Valleley, M. A. Tucker, C. S. Kochanek, B. J. Shappee, George R. Ricker, Roland Vanderspek, Manan Agarwal, Tansu Daylan, Rahul Jayaraman, Rebekah Hounsell, Daniel Muthukrishna</td>
-      <td>Christopher Kochanek, Michael Tucker</td>
-    </tr>
-    <tr>
-      <td>Highly-Mass-Loaded Hot Galactic Winds Are Unstable To Cool Filament   Formation</td>
-      <td>2307.11930</td>
-      <td><a href="https://arxiv.org/abs/2307.11930" target="_blank">https://arxiv.org/abs/2307.11930</a></td>
-      <td>Dustin D. Nguyen, Todd A. Thompson, Evan E. Schneider, Ashley P. Tarrant</td>
-      <td>Dustin Nguyen, Todd A. Thompson, Todd Thompson</td>
-    </tr>
     <tr>
       <td>A Comparison Of The Composition Of Planets In Single- And Multi-Planet   Systems Orbiting M Dwarfs</td>
       <td>2307.13034</td>
