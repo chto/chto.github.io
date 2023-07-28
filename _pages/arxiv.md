@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jul 27 15:10:19 EDT 2023) "
+title: "Arxiv (Thu Jul 27 22:10:07 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -48,6 +48,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2307.14274" target="_blank">https://arxiv.org/abs/2307.14274</a></td>
       <td>Yuki K. Satoh, Naoki Koshimoto, David P. Bennett, Takahiro Sumi, Nicholas J. Rattenbury, Daisuke Suzuki, Shota Miyazaki, Ian A. Bond, Andrzej Udalski, Andrew Gould, Valerio Bozza, Martin Dominik, Yuki Hirao, Iona Kondo, Rintaro Kirikawa, Ryusei Hamada, Fumio Abe, Richard Barry, Aparna Bhattacharya, Hirosane Fujii, Akihiko Fukui, Katsuki Fujita, Tomoya Ikeno, Stela Ishitani Silva, Yoshitaka Itow, Yutaka Matsubara, Sho Matsumoto, Yasushi Muraki, Kosuke Niwa, Arisa Okamura, Greg Olmschenk, Clément Ranc, Taiga Toda, Mio Tomoyoshi, Paul J. Tristram, Aikaterini Vandorou, Hibiki Yama, Kansuke Yamashita, Przemek Mróz, Radosław Poleski, Jan Skowron, Michał K. Szymański, Radek Poleski, Igor Soszyński, Paweł Pietrukowicz, Szymon Kozłowski, Krzysztof Ulaczyk, Krzysztof A. Rybicki, Patryk Iwanek, Marcin Wrona, Mariusz Gromadzki, Michael D. Albrow, Sun-Ju Chung, Cheongho Han, Kyu-Ha Hwang, Doeon Kim, Youn Kil Jung, Hyoun Woo Kim, Yoon-Hyun Ryu, In-Gu Shin, Yossi Shvartzvald, Hongjing Yang, Jennifer C. Yee, Weicheng Zang, Sang-Mok Cha, Dong-Jin Kim, Seung-Lee Kim, Chung-Uk Lee, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Uffe G. Jørgensen, Penélope Longa-Peña, Sedighe Sajadian, Jesper Skottfelt, Colin Snodgrass, Jeremy Tregloan-Reed, Nanna Bach-Møller, Martin Burgdorf, Giuseppe D'Ago, Lauri Haikala, James Hitchcock, Markus Hundertmark, Elahe Khalouei, Nuno Peixinho, Sohrab Rahvar, John Southworth, Petros Spyratos</td>
       <td>Andrew Gould, Richard Pogge</td>
+    </tr>
+    <tr>
+      <td>Txs 0506+056 With Updated Icecube Data</td>
+      <td>2307.14559</td>
+      <td><a href="https://arxiv.org/abs/2307.14559" target="_blank">https://arxiv.org/abs/2307.14559</a></td>
+      <td>William Luszczak</td>
+      <td>William Luszczak</td>
     </tr>
   </tbody>
 </table>
