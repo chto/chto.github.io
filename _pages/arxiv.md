@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Jul 30 15:10:11 EDT 2023) "
+title: "Arxiv (Sun Jul 30 22:10:11 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,12 +14,5 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Txs 0506+056 With Updated Icecube Data</td>
-      <td>2307.14559</td>
-      <td><a href="https://arxiv.org/abs/2307.14559" target="_blank">https://arxiv.org/abs/2307.14559</a></td>
-      <td>William Luszczak</td>
-      <td>William Luszczak</td>
-    </tr>
   </tbody>
 </table>
