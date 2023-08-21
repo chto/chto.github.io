@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Aug 20 23:00:07 EDT 2023) "
+title: "Arxiv (Mon Aug 21 04:00:08 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Gone But Not Forgotten: The Hst Non-Detection Of Sn Ia 2011Fe 11.5Yr   After Explosion Further Restricts Single-Degenerate Progenitor Systems</td>
-      <td>2308.08599</td>
-      <td><a href="https://arxiv.org/abs/2308.08599" target="_blank">https://arxiv.org/abs/2308.08599</a></td>
-      <td>M. A. Tucker, B. J. Shappee</td>
-      <td>Michael Tucker</td>
-    </tr>
     <tr>
       <td>A $5M_\Text{Jup}$ Non-Transiting Coplanar Circumbinary Planet Around   Kepler-1660Ab</td>
       <td>2308.09255</td>
