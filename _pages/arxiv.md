@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Aug 28 23:00:08 EDT 2023) "
+title: "Arxiv (Tue Aug 29 04:00:11 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Probing The Soft X-Ray Properties And Multi-Wavelength Variability Of   Sn2023Ixf And Its Progenitor</td>
-      <td>2308.13101</td>
-      <td><a href="https://arxiv.org/abs/2308.13101" target="_blank">https://arxiv.org/abs/2308.13101</a></td>
-      <td>Sonja Panjkov, Katie Auchettl, Benjamin J. Shappee, Aaron Do, Laura A. Lopez, John F. Beacom</td>
-      <td>John Beacom, John F. Beacom, Laura Lopez</td>
-    </tr>
     <tr>
       <td>Where Is The End Of The Cosmic-Ray Electron Spectrum?</td>
       <td>2308.13600</td>
