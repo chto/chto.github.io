@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Aug 30 15:10:11 EDT 2023) "
+title: "Arxiv (Wed Aug 30 22:10:08 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -55,6 +55,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2308.15208" target="_blank">https://arxiv.org/abs/2308.15208</a></td>
       <td>X. Liu, Z. Quan, Y. W. Dong, M. Xu, J. J. Wang, R. J. Wang, Z. G. Wang, X. Z. Cui, T. W. Bao, C. L. Liao, J. F. Han, Y. Chen</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Protonated Hydrogen Cyanide As A Tracer Of Pristine Molecular Gas</td>
+      <td>2308.15521</td>
+      <td><a href="https://arxiv.org/abs/2308.15521" target="_blank">https://arxiv.org/abs/2308.15521</a></td>
+      <td>Y. Gong, F. J. Du, C. Henkel, A. M. Jacob, A. Belloche, J. Z. Wang, K. M. Menten, W. Yang, D. H. Quan, C. T. Bop, G. N. Ortiz-León, X. D. Tang, M. R. Rugel, S. Liu</td>
+      <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Estimating Ejecta Mass Ratios In Kepler'S Snr: Global X-Ray Spectral   Analysis Including Suzaku Systematics And Emitting Volume Uncertainties</td>
+      <td>2308.15527</td>
+      <td><a href="https://arxiv.org/abs/2308.15527" target="_blank">https://arxiv.org/abs/2308.15527</a></td>
+      <td>Tyler Holland-Ashford, Patrick Slane, Laura A. Lopez, Katie Auchettl, Vinay Kashyap</td>
+      <td>Laura Lopez</td>
     </tr>
   </tbody>
 </table>
