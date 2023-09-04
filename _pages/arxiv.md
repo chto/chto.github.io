@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Sep  3 15:10:25 EDT 2023) "
+title: "Arxiv (Sun Sep  3 22:10:12 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Are "Changing-Look'' Active Galactic Nuclei Special In The Coevolution   Of Supermassive Black Holes And Their Hosts? I</td>
-      <td>2308.16521</td>
-      <td><a href="https://arxiv.org/abs/2308.16521" target="_blank">https://arxiv.org/abs/2308.16521</a></td>
-      <td>J. Wang, W. K. Zheng, T. G. Brink, D. W. Xu, A. V. Filippenko, C. Gao, C. H. Xie, J. Y. Wei</td>
-      <td>Ji Wang</td>
+      <td>Pearls: Near Infrared Photometry In The Jwst North Ecliptic Pole Time   Domain Field</td>
+      <td>2309.00031</td>
+      <td><a href="https://arxiv.org/abs/2309.00031" target="_blank">https://arxiv.org/abs/2309.00031</a></td>
+      <td>Christopher N. A. Willmer. Chun Ly, Satoshi Kikuta, S. A. Kattner, Rolf A. Jansen, Seth H. Cohen, Rogier A. Windhorst, Ian Smail, Scott Tompkins, John F. Beacom, Cheng Cheng, Christopher J. Conselice, Brenda L. Frye, Anton M. Koekemoer, Ninish Hathi, Minhee Hyun, Myungshin Im, S. P. Willner, X. Zhao, Walter A. Brisken, F. Civano, William Cotton, Guether Hasinger, W. Peter Maksym, Marcia J. Rieke, Norman A. Grogin</td>
+      <td>John Beacom, John F. Beacom</td>
     </tr>
   </tbody>
 </table>
