@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Sep 14 15:10:08 EDT 2023) "
+title: "Arxiv (Thu Sep 14 22:10:09 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2309.06593" target="_blank">https://arxiv.org/abs/2309.06593</a></td>
       <td>M. Aguena, O. Alves, J. Annis, D. Bacon, S. Bocquet, D. Brooks, A. Carnero Rosell, C. Chang, M. Costanzi, C. Coviello, L. N. Da Costa, T. M. Davis, J. De Vicente, H. T. Diehl, P. Doel, J. Esteves, S. Everett, I. Ferrero, A. Ferté, D. Friedel, J. Frieman, M. Gatti, G. Giannini, D. Gruen, R. A. Gruendl, G. Gutierrez, K. Herner, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, T. Jeltema, M. Kirby, K. Kuehn, O. Lahav, P. Li, J. L. Marshall, T. Mcclintock, D. Mellor, J. Mena-Fernández, R. Miquel, J. O'Donnell, A. Palmese, M. Paterno, M. E. S. Pereira, A. Pieres, A. A. Plazas Malagón, M. Rodriguez-Monroy, A. K. Romer, A. Roodman, E. Sanchez, M. Schubnell, I. Sevilla-Noarbe, T. Shin, M. Smith, E. Suchyta, M. E. C. Swanson, G. Tarle, J. Weller, P. Wiseman, H. -Y. Wu, Y. Zhang, C. Zhou</td>
       <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Sn 2021Gno: A Calcium-Rich Transient With Double-Peaked Light Curves</td>
+      <td>2309.07800</td>
+      <td><a href="https://arxiv.org/abs/2309.07800" target="_blank">https://arxiv.org/abs/2309.07800</a></td>
+      <td>K. Ertini, G. Folatelli, L. Martinez, M. C. Bersten, J. P. Anderson, C. Ashall, E. Baron, S. Bose, P. J. Brown, C. Burns, J. M. Derkacy, L. Ferrari, L. Galbany, E. Hsiao, S. Kumar, J. Lu, P. Mazzali, N. Morrell, M. Orellana, P. J. Pessi, M. M. Phillips, A. L. Piro, A. Polin, M. Shahbandeh, B. J. Shappee, M. Stritzinger, N. B. Suntzeff, M. Tucker, N. Elias-Rosa, H. Kuncarayakti, C. P. Gutiérrez, A. Kozyreva, T. E. Müller-Bravo, T. -W. Chen, J. T. Hinkle, A. V. Payne, P. Székely, T. Szalai, B. Barna, R. Könyves-Tóth, D. Bánhidi, I. B. Bíró, I. Csányi, L. Kriskovits, A. Pál, Zs. Szabó, R. Szakáts, K. Vida, J. Vinkó, M. Gromadzki, L. Harvey, M. Nicholl, E. Paraskeva, D. R. Young, B. Englert</td>
+      <td>Michael Tucker, Subhash Bose</td>
     </tr>
   </tbody>
 </table>
