@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Sep 28 15:10:11 EDT 2023) "
+title: "Arxiv (Thu Sep 28 22:10:16 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2309.15808" target="_blank">https://arxiv.org/abs/2309.15808</a></td>
       <td>Andrew L. Miller, Neha Singh, Cristiano Palomba</td>
       <td>Andrew Miller</td>
+    </tr>
+    <tr>
+      <td>[Cii] Spectral Mapping Of The Galactic Wind And Starbursting Disk Of M82   With Sofia</td>
+      <td>2309.15906</td>
+      <td><a href="https://arxiv.org/abs/2309.15906" target="_blank">https://arxiv.org/abs/2309.15906</a></td>
+      <td>Rebecca C. Levy, Alberto D. Bolatto, Elizabeth Tarantino, Adam K. Leroy, Lee Armus, Kimberly L. Emig, Rodrigo Herrera-Camus, Daniel P. Marrone, Elisabeth Mills, Oliver Ricken, Juergen Stutzki, Sylvain Veilleux, Fabian Walter</td>
+      <td>Adam Leroy</td>
     </tr>
   </tbody>
 </table>
