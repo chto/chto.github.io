@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Oct  3 04:00:13 EDT 2023) "
+title: "Arxiv (Tue Oct  3 15:10:17 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -48,6 +48,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2310.00271" target="_blank">https://arxiv.org/abs/2310.00271</a></td>
       <td>Samuel Lai, Christopher A. Onken, Christian Wolf, Fuyan Bian, Guido Cupani, Sebastian Lopez, Valentina D'Odorico</td>
       <td>Sebastian Lopez</td>
+    </tr>
+    <tr>
+      <td>A Bright Radio Burst From Frb 20200120E In A Globular Cluster Of The   Nearby Galaxy M81</td>
+      <td>2310.00908</td>
+      <td><a href="https://arxiv.org/abs/2310.00908" target="_blank">https://arxiv.org/abs/2310.00908</a></td>
+      <td>S. B. Zhang, J. S. Wang, X. Yang, Y. Li, J. J. Geng, Z. F. Tang, C. M. Chang, J. T. Luo, X. C. Wang, X. F. Wu, Z. G. Dai, B. Zhang</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
