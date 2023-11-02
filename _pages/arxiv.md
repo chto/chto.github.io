@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Nov  1 23:00:19 EDT 2023) "
+title: "Arxiv (Thu Nov  2 04:00:19 EDT 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Detectable Mev Neutrino Signals From Neutron-Star Common-Envelope   Systems</td>
-      <td>2310.19868</td>
-      <td><a href="https://arxiv.org/abs/2310.19868" target="_blank">https://arxiv.org/abs/2310.19868</a></td>
-      <td>Ivan Esteban, John F. Beacom, Joachim Kopp</td>
-      <td>Ivan Esteban, John Beacom, John F. Beacom</td>
-    </tr>
     <tr>
       <td>Realistic Simulated Galaxies Form [$\Alpha$/Fe]-[Fe/H] Knees Due To A   Sustained Decline In Their Star Formation Rates</td>
       <td>2311.00041</td>
