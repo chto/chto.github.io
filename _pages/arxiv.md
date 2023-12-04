@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Dec  3 15:10:04 EST 2023) "
+title: "Arxiv (Sun Dec  3 22:10:05 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,32 +15,25 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>A Two-Component Probability Distribution Function Describes The Mid-Ir   Emission From The Disks Of Star-Forming Galaxies</td>
-      <td>2311.18067</td>
-      <td><a href="https://arxiv.org/abs/2311.18067" target="_blank">https://arxiv.org/abs/2311.18067</a></td>
-      <td>Debosmita Pathak, Adam K. Leroy, Todd A. Thompson, Laura A. Lopez, Francesco Belfiore, Mederic Boquien, Daniel A. Dale, Simon C. O. Glover, Ralf S. Klessen, Eric W. Koch, Erik Rosolowsky, Karin M. Sandstrom, Eva Schinnerer, Rowan Smith, Jiayi Sun, Jessica Sutter, Thomas G. Williams, Frank Bigiel, Yixian Cao, Jeremy Chastenet, Melanie Chevance, Ryan Chown, Eric Emsellem, Christopher M. Faesi, Kirsten L. Larson, Janice C. Lee, Sharon Meidt, Eve C. Ostriker, Lise Ramambason, Sumit K. Sarbadhicary, David A. Thilker</td>
-      <td>Adam Leroy, Debosmita Pathak, Laura Lopez, Ryan Chown, Sumit Sarbadhicary, Todd A. Thompson, Todd Thompson</td>
+      <td>Atmospheric Metallicity And C/O Of Hd 189733 B From High-Resolution   Spectroscopy</td>
+      <td>2312.00141</td>
+      <td><a href="https://arxiv.org/abs/2312.00141" target="_blank">https://arxiv.org/abs/2312.00141</a></td>
+      <td>Luke Finnerty, Jerry W. Xuan, Yinzi Xin, Joshua Liberman, Tobias Schofield, Michael P. Fitzgerald, Shubh Agrawal, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Jacques-Robert Delorme, Greg Doppman, Daniel Echeverri, Chih-Chun Hsu, Nemanja Jovanovic, Ronald A. López, Emily C. Martin, Dimitri Mawet, Evan Morris, Jacklyn Pezzato, Jean-Baptiste Ruffio, Ben Sappey, Andrew Skemer, Taylor Venenciano, J. Kent Wallace, Nicole L. Wallack, Jason J. Wang, Ji Wang</td>
+      <td>Ji Wang</td>
     </tr>
     <tr>
-      <td>Detecting Biosignatures In Nearby Rocky Exoplanets Using High-Contrast   Imaging And Medium-Resolution Spectroscopy With Extremely Large Telescope</td>
-      <td>2311.18117</td>
-      <td><a href="https://arxiv.org/abs/2311.18117" target="_blank">https://arxiv.org/abs/2311.18117</a></td>
-      <td>Huihao Zhang, Ji Wang, Michael K. Plummer</td>
-      <td>Ji Wang, Michael Plummer</td>
+      <td>A Large Sample Of Extremely Metal-Poor Galaxies At $Z&lt;1$ Identified From   The Desi Early Data</td>
+      <td>2312.00300</td>
+      <td><a href="https://arxiv.org/abs/2312.00300" target="_blank">https://arxiv.org/abs/2312.00300</a></td>
+      <td>Hu Zou, Jipeng Sui, Amélie Saintonge, Dirk Scholte, John Moustakas, Malgorzata Siudek, Arjun Dey, Stephanie Juneau, Weijian Guo, Rebecca Canning, J. Aguilar, S. Ahlen, D. Brooks, T. Claybaugh, K. Dawson, A. De La Macorra, P. Doel, J. E. Forero-Romero, S. Gontcho A Gontcho, K. Honscheid, M. Landriau, L. Le Guillou, M. Manera, A. Meisner, R. Miquel, Jundan Nie, C. Poppett, M. Rezaie, G. Rossi, E. Sanchez, M. Schubnell, H. Seo, G. Tarle, Zhimin Zhou, Siwei Zou</td>
+      <td>Klaus Honscheid</td>
     </tr>
     <tr>
-      <td>Scaling K2 Vii: Evidence For A High Occurrence Rate Of Hot Sub-Neptunes   At Intermediate Ages</td>
-      <td>2311.18709</td>
-      <td><a href="https://arxiv.org/abs/2311.18709" target="_blank">https://arxiv.org/abs/2311.18709</a></td>
-      <td>Jessie L. Christiansen, Jon K. Zink, Kevin K. Hardegree-Ullman, Rachel B. Fernandes, Philip F. Hopkins, Luisa M. Rebull, Kiersten M. Boley, Galen J. Bergsten, Sakhee Bhure</td>
-      <td>Kiersten Boley</td>
-    </tr>
-    <tr>
-      <td>Compton Scattering Of Electrons In The Intergalactic Medium</td>
-      <td>2311.18721</td>
-      <td><a href="https://arxiv.org/abs/2311.18721" target="_blank">https://arxiv.org/abs/2311.18721</a></td>
-      <td>Yuanyuan Yang, Heyang Long, Christopher M. Hirata</td>
-      <td>Heyang Long</td>
+      <td>Environmental Quenching Of Low Surface Brightness Galaxies Near Milky   Way Mass Hosts</td>
+      <td>2312.00773</td>
+      <td><a href="https://arxiv.org/abs/2312.00773" target="_blank">https://arxiv.org/abs/2312.00773</a></td>
+      <td>J. Bhattacharyya, A. H. G. Peter, P. Martini, B. Mutlu-Pakdil, A. Drlica-Wagner, A. B. Pace, L. E. Strigari, Y. -T. Cheng, D. Roberts, D. Tanoglidis, M. Aguena, O. Alves, F. Andrade-Oliveira, D. Bacon, D. Brooks, A. Carnero Rosell, J. Carretero, L. N. Da Costa, M. E. S. Pereira, T. M. Davis, S. Desai, P. Doel, I. Ferrero, J. Frieman, J. García-Bellido, G. Giannini, D. Gruen, R. A. Gruendl, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, J. L. Marshall, J. Mena-Fernández, R. Miquel, A. Palmese, A. Pieres, A. A. Plazas Malagón, E. Sanchez, B. Santiago, M. Schubnell, I. Sevilla-Noarbe, M. Smith, E. Suchyta, M. E. C. Swanson, G. Tarle, M. Vincenzi, A. R. Walker, N. Weaverdyck, P. Wiseman</td>
+      <td>Joy Bhattacharyya, Klaus Honscheid, Paul Martini</td>
     </tr>
   </tbody>
 </table>
