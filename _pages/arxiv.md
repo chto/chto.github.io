@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Dec 12 15:10:13 EST 2023) "
+title: "Arxiv (Tue Dec 12 22:10:16 EST 2023) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2312.06097" target="_blank">https://arxiv.org/abs/2312.06097</a></td>
       <td>Chuan-Peng Zhang, M. Zhu, P. Jiang, C. Cheng, J. Wang, J. Wang, J. -L. Xu, X. -L. Liu, N. -P. Yu, L. Qian, H. Yu, M. Ai, Y. Jing, C. Xu, Z. Liu, X. Guan, C. Sun, Q. Yang, M. Huang, Q. Hao, Fast Collaboration</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>The High Energy Light Isotope Experiment Program Of Direct Cosmic-Ray   Studies</td>
+      <td>2312.06796</td>
+      <td><a href="https://arxiv.org/abs/2312.06796" target="_blank">https://arxiv.org/abs/2312.06796</a></td>
+      <td>N/A Helix Collaboration, S. Coutu, P. S. Allison, M. Baiocchi, J. J. Beatty, L. Beaufore, D. H. Calderon, A. G. Castano, Y. Chen, N. Green, D. Hanna, H. B. Jeon, S. B. Klein, B. Kunkler, M. Lang, R. Mbarek, K. Mcbride, S. I. Mognet, J. Musser, S. Nutter, S. Obrien, N. Park, K. M. Powledge, K. Sakai, M. Tabata, G. Tarle, J. M. Tuttle, G. Visser, S. P. Wakely, M. Yu</td>
+      <td>Jim Beatty, Lucas Beaufore, Patrick Allison</td>
+    </tr>
+    <tr>
+      <td>Detection Of Diffuse Hi Emission In The Circumgalactic Medium Of Ngc891   And Ngc4565 -- Ii</td>
+      <td>2312.06880</td>
+      <td><a href="https://arxiv.org/abs/2312.06880" target="_blank">https://arxiv.org/abs/2312.06880</a></td>
+      <td>Sanskriti Das, Mary Rickel, Adam Leroy, Nickolas M. Pingel, D. J. Pisano, George Heald, Smita Mathur, Joshua Kingsbury, Amy Sardone</td>
+      <td>Adam Leroy, Amy Sardone, Smita Mathur</td>
     </tr>
   </tbody>
 </table>
