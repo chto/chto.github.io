@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jan  4 23:00:53 EST 2024) "
+title: "Arxiv (Fri Jan  5 04:00:15 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>An Angular Diameter Measurement Of $\Beta$ Uma Via Stellar Intensity   Interferometry With The Veritas Observatory</td>
-      <td>2401.01853</td>
-      <td><a href="https://arxiv.org/abs/2401.01853" target="_blank">https://arxiv.org/abs/2401.01853</a></td>
-      <td>A. Acharyya, J. P. Aufdenberg, P. Bangale, J. T. Bartkoske, P. Batista, W. Benbow, A. J. Chromey, J. D. Davis, Q. Feng, G. M. Foote, A. Furniss, W. Hanlon, C. E. Hinrichs, J. Holder, W. Jin, P. Kaaret, M. Kertzman, D. Kieda, T. K. Kleiner, N. Korzoun, T. Lebohec, M. A. Lisa, M. Lundy, N. Matthews, C. E Mcgrath, M. J. Millard, P. Moriarty, S. Nikkhah, S. O'Brien, R. A. Ong, M. Pohl, E. Pueschel, J. Quinn, P. L. Rabinowitz, K. Ragan, E. Roache, J. G. Rose, J. L. Sackrider, I. Sadeh, L. Saha, G. H. Sembroski, R. Shang, D. Tak, M. Ticoras, J. V. Tucci, S. L. Wong, The Veritas Collaboration</td>
-      <td>Mike Lisa</td>
-    </tr>
     <tr>
       <td>Spt Clusters With Des And Hst Weak Lensing. Ii. Cosmological Constraints   From The Abundance Of Massive Halos</td>
       <td>2401.02075</td>
