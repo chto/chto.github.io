@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jan 22 23:00:07 EST 2024) "
+title: "Arxiv (Tue Jan 23 04:00:04 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Changing-Look Nls1 Galaxies, Their Detection With Svom, And The Case Of   Ngc 1566</td>
-      <td>2401.10600</td>
-      <td><a href="https://arxiv.org/abs/2401.10600" target="_blank">https://arxiv.org/abs/2401.10600</a></td>
-      <td>D. W. Xu, S. Komossa, D. Grupe, J. Wang, L. P. Xin, X. H. Han, J. Y. Wei, J. Y. Bai, E. Bon, F. Cangemi, B. Cordier, M. Dennefeld, L. C. Gallo, W. Kollatschny, De-Feng Kong, M. W. Ochmann, Y. L. Qiu, N. Schartel</td>
-      <td>Ji Wang</td>
-    </tr>
     <tr>
       <td>Moa-2022-Blg-563Lb, Kmt-2023-Blg-0469Lb, And Kmt-2023-Blg-0735Lb: Three   Sub-Jovian-Mass Microlensing Planets</td>
       <td>2401.11329</td>
