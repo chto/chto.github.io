@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jan 23 15:10:09 EST 2024) "
+title: "Arxiv (Tue Jan 23 22:10:21 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2401.12049" target="_blank">https://arxiv.org/abs/2401.12049</a></td>
       <td>J. H. Esteves, M. E. S. Pereira, M. Soares-Santos, J. Annis, A. Farahi, F. Andrade-Oliveira, P. Barchi, A. Palmese, H. Lin, B. Welch, H. -Y. Wu, M. Aguena, O. Alves D. Bacon, S. Bocquet, D. Brooks, A. Carnero Rosell, J. Carretero, M. Costanzi, L. N. Da Costa, J. De Vicente, P. Doel, S. Everett, B. Flaugher, J. Frieman, J. García-Bellido, D. Gruen, R. A. Gruendl, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, C. Lidman, M. Lima, J. L. Marshall, J. Mena-Fernández, R. Miquel, J. Myles, R. L. C. Ogando, A. Pieres, A. A. Plazas Malagón, A. K. Romer, E. Sanchez, D. Sanchez Cid, B. Santiago, M. Schubnell, I. Sevilla-Noarbe, M. Smith, E. Suchyta, M. E. C. Swanson, N. Weaverdyck, P. Wiseman, M. Yamamoto, Des Collaboration</td>
       <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Pulse Jitter And Single-Pulse Variability In Millisecond Pulsars</td>
+      <td>2401.12426</td>
+      <td><a href="https://arxiv.org/abs/2401.12426" target="_blank">https://arxiv.org/abs/2401.12426</a></td>
+      <td>S. Q. Wang, N. Wang, J. B. Wang, G. Hobbs, H. Xu, B. J. Wang, S. Dai, S. J. Dang, D. Li, Y. Feng, C. M. Zhang</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
