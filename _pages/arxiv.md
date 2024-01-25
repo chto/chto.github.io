@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Jan 24 23:00:21 EST 2024) "
+title: "Arxiv (Thu Jan 25 04:00:16 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Pulse Jitter And Single-Pulse Variability In Millisecond Pulsars</td>
-      <td>2401.12426</td>
-      <td><a href="https://arxiv.org/abs/2401.12426" target="_blank">https://arxiv.org/abs/2401.12426</a></td>
-      <td>S. Q. Wang, N. Wang, J. B. Wang, G. Hobbs, H. Xu, B. J. Wang, S. Dai, S. J. Dang, D. Li, Y. Feng, C. M. Zhang</td>
-      <td>Ji Wang</td>
-    </tr>
     <tr>
       <td>The Edge-Califa Survey: An Extragalactic Database For Galaxy Evolution   Studies</td>
       <td>2401.13181</td>
