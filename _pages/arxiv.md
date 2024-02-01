@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Jan 31 15:10:12 EST 2024) "
+title: "Arxiv (Wed Jan 31 22:10:07 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Jwst Observations Of Starbursts: Polycyclic Aromatic Hydrocarbon   Emission At The Base Of The M 82 Galactic Wind</td>
-      <td>2401.16648</td>
-      <td><a href="https://arxiv.org/abs/2401.16648" target="_blank">https://arxiv.org/abs/2401.16648</a></td>
-      <td>Alberto D. Bolatto, Rebecca C. Levy, Elizabeth Tarantino, Martha L. Boyer, Deanne B. Fisher, Adam K. Leroy, Serena A. Cronin, Ralf S. Klessen, J. D. Smith, Dannielle A. Berg, Torsten Boeker, Leindert A. Boogaard, Eve C. Ostriker, Todd A. Thompson, Juergen Ott, Laura Lenkic, Laura A. Lopez, Daniel A. Dale, Sylvain Veilleux, Paul P. Van Der Werf, Simon C. O. Glover, Karin M. Sandstrom, Evan D. Skillman, John Chisholm, Vicente Villanueva, Divakara Maya, David S. Meyer, Ilse De Looze, Rodrigo Herrera-Camus, Fabian Walter, Monica Relano, Hannah B. Koziol, Joshua Marvin, Maria J. Jimenez-Donaire</td>
-      <td>Adam Leroy, Laura Lopez, Todd A. Thompson, Todd Thompson</td>
+      <td>Godmax: Modeling Gas Thermodynamics And Matter Distribution Using Jax</td>
+      <td>2401.18072</td>
+      <td><a href="https://arxiv.org/abs/2401.18072" target="_blank">https://arxiv.org/abs/2401.18072</a></td>
+      <td>Shivam Pandey, Jaime Salcido, Chun-Hao To, J. Colin Hill, Dhayaa Anbajagane, Eric J. Baxter, Ian G. Mccarthy</td>
+      <td>Chun-Hao To</td>
     </tr>
   </tbody>
 </table>
