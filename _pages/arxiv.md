@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Feb  1 23:00:05 EST 2024) "
+title: "Arxiv (Fri Feb  2 04:00:04 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Godmax: Modeling Gas Thermodynamics And Matter Distribution Using Jax</td>
-      <td>2401.18072</td>
-      <td><a href="https://arxiv.org/abs/2401.18072" target="_blank">https://arxiv.org/abs/2401.18072</a></td>
-      <td>Shivam Pandey, Jaime Salcido, Chun-Hao To, J. Colin Hill, Dhayaa Anbajagane, Eric J. Baxter, Ian G. Mccarthy</td>
-      <td>Chun-Hao To</td>
-    </tr>
     <tr>
       <td>Deciphering Baryonic Feedback With Galaxy Clusters</td>
       <td>2402.00110</td>
