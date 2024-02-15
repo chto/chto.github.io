@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Feb 14 23:00:05 EST 2024) "
+title: "Arxiv (Thu Feb 15 04:00:04 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,20 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Ogle-2023-Blg-0836L: The Sixth Microlensing Planet In A Binary Stellar   System</td>
-      <td>2402.08116</td>
-      <td><a href="https://arxiv.org/abs/2402.08116" target="_blank">https://arxiv.org/abs/2402.08116</a></td>
-      <td>Cheongho Han, Andrzej Udalski, Youn Kil Jung, Andrew Gould, Doeon Kim, Michael D. Albrow, Sun-Ju Chung, Kyu-Ha Hwang, Chung-Uk Lee, Yoon-Hyun Ryu, Yossi Shvartzvald, In-Gu Shin, Jennifer C. Yee, Hongjing Yang, Weicheng Zang, Sang-Mok Cha, Dong-Jin Kim, Seung-Lee Kim, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Przemek Mróz, Mateus Mróz, Michał K. Szymański, Jan Skowron, Radosław Poleski, Igor Soszyński, Paweł Pietrukowicz, Szymon Kozłowski, Krzysztof A. Rybicki, Patryk Iwanek, Krzysztof Ulaczyk, Marcin Wrona, Mariusz Gromadzki</td>
-      <td>Andrew Gould, Richard Pogge</td>
-    </tr>
-    <tr>
-      <td>The Srg/Erosita All-Sky Survey: Dark Energy Survey Year 3 Weak   Gravitational Lensing By Erass1 Selected Galaxy Clusters</td>
-      <td>2402.08455</td>
-      <td><a href="https://arxiv.org/abs/2402.08455" target="_blank">https://arxiv.org/abs/2402.08455</a></td>
-      <td>S. Grandis, V. Ghirardini, S. Bocquet, C. Garrel, J. J. Mohr, A. Liu, M. Kluge, L. Kimmig, T. H. Reiprich, A. Alarcon, A. Amon, E. Artis, Y. E. Bahar, F. Balzer, K. Bechtol, M. R. Becker, G. Bernstein, E. Bulbul, A. Campos, A. Carnero Rosell, M. Carrasco Kind, R. Cawthon, C. Chang, R. Chen, I. Chiu, A. Choi, N. Clerc, J. Comparat, J. Cordero, C. Davis, J. Derose, H. T. Diehl, S. Dodelson, C. Doux, A. Drlica-Wagner, K. Eckert, J. Elvin-Poole, S. Everett, A. Ferte, M. Gatt, G. Giannini, P. Giles, D. Gruen, R. A. Gruendl, I. Harrison, W. G. Hartley, K. Herner, E. M. Huf, F. Kleinebreil, N. Kuropatkin, P. F. Leget, N. Maccrann, J. Mccullough, A. Merloni, J. Myles, K. Nandra, A. Navarro-Alsina, N. Okabe, F. Pacaud, S. Pandey, J. Prat, P. Predehl, M. Ramos, M. Raveri, R. P. Rollins, A. Roodman, A. J. Ross, E. S. Rykoff, C. Sanchez, J. Sanders, T. Schrabback, L. F. Secco, R. Seppi, I. Sevilla-Noarbe, E. Sheldon, T. Shin, M. Troxel, I. Tutusaus, T. N. Varga, H. Wu, B. Yanny, B. Yin, X. Zhang, Y. Zhang, O. Alves, S. Bhargava, D. Brooks, D. L. Burke, J. Carretero, M. Costanzi, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, P. Doel, I. Ferrero, B. Flaugher, D. Friedel, J. Frieman, J. García-Bellido, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, N. Jeffrey, O. Lahav, S. Lee, J. L. Marshall, F. Menanteau, R. L. C. Ogando, A. Pieres, A. A. Plazas Malagón, A. K. Romer, E. Sanchez, M. Schubnell, M. Smith, E. Suchyta, M. E. C. Swanson, G. Tarle, N. Weaverdyck, J. Weller</td>
-      <td>Ashley Ross, Klaus Honscheid</td>
-    </tr>
     <tr>
       <td>New Constraints On Ultraheavy Dark Matter From The Lz Experiment</td>
       <td>2402.08865</td>
