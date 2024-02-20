@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Feb 19 15:10:26 EST 2024) "
+title: "Arxiv (Mon Feb 19 22:10:08 EST 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2402.10697" target="_blank">https://arxiv.org/abs/2402.10697</a></td>
       <td>J. Mena-Fernández, M. Rodríguez-Monroy, S. Avila, A. Porredon, K. C. Chan, H. Camacho, N. Weaverdyck, I. Sevilla-Noarbe, E. Sanchez, L. Toribio San Cipriano, J. De Vicente, I. Ferrero, R. Cawthon, A. Carnero Rosell, J. Elvin-Poole, G. Giannini, M. Adamow, K. Bechtol, A. Drlica-Wagner, R. A. Gruendl, W. G. Hartley, A. Pieres, A. J. Ross, E. S. Rykoff, E. Sheldon, B. Yanny, T. M. C. Abbott, M. Aguena, S. Allam, O. Alves, A. Amon, F. Andrade-Oliveira, J. Annis, D. Bacon, J. Blazek, S. Bocquet, D. Brooks, J. Carretero, F. J. Castander, C. Conselice, M. Crocce, L. N. Da Costa, M. E. S. Pereira, T. M. Davis, N. Deiosso, S. Desai, H. T. Diehl, S. Dodelson, C. Doux, S. Everett, J. Frieman, J. García-Bellido, E. Gaztanaga, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. Huterer, K. Kuehn, O. Lahav, S. Lee, C. Lidman, H. Lin, J. L. Marshall, F. Menanteau, R. Miquel, J. Myles, R. L. C. Ogando, A. Palmese, W. J. Percival, A. A. Plazas Malagón, A. Roodman, R. Rosenfeld, S. Samuroff, D. Sanchez Cid, B. Santiago, M. Schubnell, M. Smith, E. Suchyta, M. E. C. Swanson, G. Tarle, D. Thomas, C. To, D. L. Tucker, A. R. Walker, J. Weller, P. Wiseman, M. Yamamoto</td>
       <td>Ashley Ross, Chun-Hao To, Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Modelling The Radial Distribution Of Pulsars In The Galaxy</td>
+      <td>2402.11428</td>
+      <td><a href="https://arxiv.org/abs/2402.11428" target="_blank">https://arxiv.org/abs/2402.11428</a></td>
+      <td>J. T. Xie, J. B. Wang, N. Wang, R. Manchester, G. Hobbs</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
