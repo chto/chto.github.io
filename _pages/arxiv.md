@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Mar 11 15:10:11 EDT 2024) "
+title: "Arxiv (Mon Mar 11 22:10:11 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2403.04901" target="_blank">https://arxiv.org/abs/2403.04901</a></td>
       <td>Daniel Maschmann, Janice C. Lee, David A. Thilker, Bradley C. Whitmore, Sinan Deger, Mederic Boquien, Rupali Chandar, Daniel A. Dale, Aida Wofford, Stephen Hannon, Kirsten L. Larson, Adam K. Leroy, Eva Schinnerer, Erik W. Rosolowsky, Leonardo Ubeda, Ashley Barnes, Eric Emsellem, Kathryn Grasha, Brent Groves, Hwihyun Kim, Ralf S. Klessen, Kathryn Kreckel, Rebecca C. Levy, Francesca Pinna, Jimena Rodriguez, Qiushi Tian, Thomas G. Williams</td>
       <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Measuring Fiber Positioning Accuracy And Throughput With Fiber Dithering   For The Dark Energy Spectroscopic Instrument</td>
+      <td>2403.05688</td>
+      <td><a href="https://arxiv.org/abs/2403.05688" target="_blank">https://arxiv.org/abs/2403.05688</a></td>
+      <td>E. F. Schlafly, D. Schlegel, S. Benzvi, A. Raichoor, J. E. Forero-Romero, J. Aguilar, S. Ahlen, S. Bailey, A. Bault, D. Brooks, T. Claybaugh, K. Dawson, A. De La Macorra, Arjun Dey, P. Doel, E. Gaztañaga, S. Gontcho A Gontcho, J. Guy, C. Hahn, K. Honscheid, J. Jimenez, S. Kent, D. Kirkby, T. Kisner, A. Kremin, A. Lambert, M. Landriau, M. E. Levi, M. Manera, P. Martini, A. Meisner, R. Miquel, J. Moustakas, A. D. Myers, J. Nie, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, D. Rabinowitz, M. Rezaie, G. Rossi, E. Sanchez, M. Schubnell, R. Sharples, J. Silber, G. Tarlé, B. A. Weaver, Z. Zhou, H. Zou</td>
+      <td>Klaus Honscheid, Paul Martini</td>
     </tr>
   </tbody>
 </table>
