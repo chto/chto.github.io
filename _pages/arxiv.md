@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Mar 13 23:00:05 EDT 2024) "
+title: "Arxiv (Thu Mar 14 04:00:21 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Rotational Evolution Of Classical T Tauri Stars: Models And Observations</td>
-      <td>2403.07505</td>
-      <td><a href="https://arxiv.org/abs/2403.07505" target="_blank">https://arxiv.org/abs/2403.07505</a></td>
-      <td>Javier Serna, Giovanni Pinzón, Jesús Hernández, Ezequiel Manzo-Martínez, Karina Mauco, Carlos G. Román-Zúñiga, Nuria Calvet, Cesar Briceño, Ricardo López-Valdivia, Marina Kounkel, Guy S. Stringfellow, Keivan G. Stassun, Marc Pinsonneault, Lucia Adame, Lyra Cao, Kevin Covey, Amelia Bayo, Alexandre Roman-Lopes, Christian Nitschelm, Richard R. Lane</td>
-      <td>Marc Pinsonneault</td>
-    </tr>
     <tr>
       <td>Chemical Cartography With Apogee: Two-Process Parameters And Residual   Abundances For 288,789 Stars From Data Release 17</td>
       <td>2403.08067</td>
