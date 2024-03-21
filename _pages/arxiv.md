@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Mar 20 23:00:18 EDT 2024) "
+title: "Arxiv (Thu Mar 21 04:01:07 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Discovery Of A Hot Post-Agb Star In Galactic Globular Cluster E3</td>
-      <td>2403.12907</td>
-      <td><a href="https://arxiv.org/abs/2403.12907" target="_blank">https://arxiv.org/abs/2403.12907</a></td>
-      <td>R. Kumar, A. Moharana, S. Piridi, A. C. Pradhan, K. G. Hełminiak, N. Ikonnikova, A. Dodin, R. Szczerba, M. Giersz, D. K. Ojha, M. R. Samal</td>
-      <td>Anil Pradhan</td>
-    </tr>
     <tr>
       <td>Combining Gaia And Gravity: Characterising Five New Directly Detected   Substellar Companions</td>
       <td>2403.13055</td>
