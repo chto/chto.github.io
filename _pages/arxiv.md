@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Mar 27 23:00:05 EDT 2024) "
+title: "Arxiv (Thu Mar 28 04:00:21 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Vortex Fiber Nulling For Exoplanet Observations: First Direct Detection   Of M Dwarf Companions Around Hip 21543, Hip 94666, And Hip 50319</td>
-      <td>2403.17295</td>
-      <td><a href="https://arxiv.org/abs/2403.17295" target="_blank">https://arxiv.org/abs/2403.17295</a></td>
-      <td>Daniel Echeverri, Jerry W. Xuan, John D. Monnier, Jacques-Robert Delorme, Jason J. Wang, Nemanja Jovanovic, Katelyn Horstman, Garreth Ruane, Bertrand Mennesson, Eugene Serabyn, Dimitri Mawet, J. Kent Wallace, Sofia Hillman, Ashley Baker, Randall Bartos, Benjamin Calvin, Sylvain Cetre, Greg Doppmann, Luke Finnerty, Michael P. Fitzgerald, Chih-Chun Hsu, Joshua Liberman, Ronald Lopez, Maxwell Millar-Blanchaer, Evan Morris, Jacklyn Pezzato, Jean-Baptiste Ruffio, Ben Sappey, Tobias Schofield, Andrew J. Skemer, Ji Wang, Yinzi Xin, Narsireddy Anugu, Sorabh Chhabra, Noura Ibrahim, Stefan Kraus, Gail H. Schaefer, Cyprien Lanthermann</td>
-      <td>Ji Wang</td>
-    </tr>
     <tr>
       <td>Constraining Primordial Non-Gaussianity From The Large Scale Structure   Two-Point And Three-Point Correlation Functions</td>
       <td>2403.18789</td>
