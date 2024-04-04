@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Apr  3 15:10:43 EDT 2024) "
+title: "Arxiv (Wed Apr  3 22:10:33 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Lensed Type Ia Supernova "Encore" At Z=2: The First Instance Of Two   Multiply-Imaged Supernovae In The Same Host Galaxy</td>
-      <td>2404.02139</td>
-      <td><a href="https://arxiv.org/abs/2404.02139" target="_blank">https://arxiv.org/abs/2404.02139</a></td>
-      <td>J. D. R. Pierel, A. B. Newman, S. Dhawan, M. Gu, B. A. Joshi, T. Li, S. Schuldt, L. G. Strolger, S. H. Suyu, G. B. Caminha, S. H. Cohen, J. C. J. Dsilva, S. Ertl, B. L. Frye, G. Granata, C. Grillo, A. M. Koekemoer, J. Li, A. Robotham, J. Summers, T. Treu, R. A. Windhorst, S. Agarwal, A. Agrawal, N. Arendse, S. Belli, C. Burns, R. Cañameras, S. Chakrabarti, W. Chen, T. E. Collett, D. A. Coulter, R. S. Ellis, M. Engesser, N. Foo, O. D. Fox, C. Gall, N. Garuda, S. Gezari, S. Gomez, K. Glazebrook, J. Hjorth, X. Huang, S. W. Jha, P. S. Kamieneski, P. Kelly, C. Larison, L. A. Moustakas, M. Pascale, I. Pérez-Fournon, T. Petrushevska, F. Poidevin, A. Rest, M. Shahbandeh, A. J. Shajib, M. Siebert, C. Storfer, M. Talbot, Q. Wang, T. Wevers, Y. Zenati</td>
-      <td>Jung-Tsung Li</td>
-    </tr>
     <tr>
       <td>Mass Calibration Of Des Year-3 Clusters Via Spt-3G Cmb Cluster Lensing</td>
       <td>2404.02153</td>
