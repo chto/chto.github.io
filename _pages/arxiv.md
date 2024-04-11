@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Apr 10 15:10:12 EDT 2024) "
+title: "Arxiv (Wed Apr 10 22:10:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2404.06098" target="_blank">https://arxiv.org/abs/2404.06098</a></td>
       <td>L. Bigwood, A. Amon, A. Schneider, J. Salcido, I. G. Mccarthy, C. Preston, D. Sanchez, D. Sijacki, E. Schaan, S. Ferraro, N. Battaglia, A. Chen, S. Dodelson, A. Roodman, A. Pieres, A. Ferte, A. Alarcon, A. Drlica-Wagner, A. Choi, A. Navarro-Alsina, A. Campos, A. J. Ross, A. Carnero Rosell, B. Yin, B. Yanny, C. Sanchez, C. Chang, C. Davis, C. Doux, D. Gruen, E. S. Rykoff, E. M. Huff, E. Sheldon, F. Tarsitano, F. Andrade-Oliveira, G. M. Bernstein, G. Giannini, H. T. Diehl, H. Huang, I. Harrison, I. Sevilla-Noarbe, I. Tutusaus, J. Elvin-Poole, J. Mccullough, J. Zuntz, J. Blazek, J. Derose, J. Cordero, J. Prat, J. Myles, K. Eckert, K. Bechtol, K. Herner, L. F. Secco, M. Gatti, M. Raveri, M. Carrasco Kind, M. R. Becker, M. A. Troxel, M. Jarvis, N. Maccrann, O. Friedrich, O. Alves, P. -F. Leget, R. Chen, R. P. Rollins, R. H. Wechsler, R. A. Gruendl, R. Cawthon, S. Allam, S. L. Bridle, S. Pandey, S. Everett, T. Shin, W. G. Hartley, X. Fang, Y. Zhang, M. Aguena, J. Annis, D. Bacon, E. Bertin, S. Bocquet, D. Brooks, J. Carretero, F. J. Castander, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, P. Doel, I. Ferrero, B. Flaugher, J. Frieman, J. Garcia-Bellido, E. Gaztanaga, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. Huterer, D. J. James, K. Kuehn, O. Lahav, S. Lee, J. L. Marshall, J. Mena-Fernandez, R. Miquel, J. Muir, M. Paterno, A. A. Plazas Malagon, A. Porredon, A. K. Romer, S. Samuroff, E. Sanchez, D. Sanchez Cid, M. Smith, M. Soares-Santos, E. Suchyta, M. E. C. Swanson, G. Tarle, C. To, N. Weaverdyck, J. Weller, P. Wiseman, M. Yamamoto</td>
       <td>Ashley Ross, Chun-Hao To, Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Searching For Triple Systems Unbound By Supernovae</td>
+      <td>2404.06540</td>
+      <td><a href="https://arxiv.org/abs/2404.06540" target="_blank">https://arxiv.org/abs/2404.06540</a></td>
+      <td>Karina Barboza, Christopher S. Kochanek</td>
+      <td>Christopher Kochanek, Karina Barboza</td>
     </tr>
   </tbody>
 </table>
