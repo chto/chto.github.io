@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Apr 11 23:00:06 EDT 2024) "
+title: "Arxiv (Fri Apr 12 04:00:22 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Searching For Triple Systems Unbound By Supernovae</td>
-      <td>2404.06540</td>
-      <td><a href="https://arxiv.org/abs/2404.06540" target="_blank">https://arxiv.org/abs/2404.06540</a></td>
-      <td>Karina Barboza, Christopher S. Kochanek</td>
-      <td>Christopher Kochanek, Karina Barboza</td>
-    </tr>
     <tr>
       <td>Full Modeling And Parameter Compression Methods In Configuration Space   For Desi 2024 And Beyond</td>
       <td>2404.07268</td>
