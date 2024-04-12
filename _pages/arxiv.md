@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Apr 11 15:10:15 EDT 2024) "
+title: "Arxiv (Thu Apr 11 22:10:14 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,25 +15,60 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Ogle-2018-Blg-0971, Moa-2023-Blg-065, And Ogle-2023-Blg-0136:   Microlensing Events With Prominent Orbital Effects</td>
-      <td>2404.05912</td>
-      <td><a href="https://arxiv.org/abs/2404.05912" target="_blank">https://arxiv.org/abs/2404.05912</a></td>
-      <td>Cheongho Han, Andrzej Udalski, Ian A. Bond, Chung-Uk Lee, Andrew Gould, Michael D. Albrow, Sun-Ju Chung, Kyu-Ha Hwang, Youn Kil Jung, Hyoun-Woo Kim, Yoon-Hyun Ryu, Yossi Shvartzvald, In-Gu Shin, Jennifer C. Yee, Hongjing Yang, Weicheng Zang, Sang-Mok Cha, Doeon Kim, Dong-Jin Kim, Seung-Lee Kim, Dong-Joo Lee, Yongseok Lee, Byeong-Gon Park, Richard W. Pogge, Przemek Mróz, Michał K. Szymański, Jan Skowron, Radosław Poleski, Igor Soszyński, Paweł Pietrukowicz, Szymon Kozłowski, Krzysztof A. Rybicki, Patryk Iwanek, Krzysztof Ulaczyk, Marcin Wrona, Mariusz Gromadzki, Mateusz J. Mróz, Fumio Abe, Richard Barry, David P. Bennett, Aparna Bhattacharya, Hirosame Fujii, Akihiko Fukui, Ryusei Hamada, Yuki Hirao, Stela Ishitani Silva, Yoshitaka Itow, Rintaro Kirikawa, Naoki Koshimoto, Yutaka Matsubara, Shota Miyazaki, Yasushi Muraki, Greg Olmschenk, Clément Ranc, Nicholas J. Rattenbury, Yuki Satoh, Takahiro Sumi, Daisuke Suzuki, Mio Tomoyoshi, Paul J. Tristram, Aikaterini Vandorou, Hibiki Yama, Kansuke Yamashita</td>
-      <td>Andrew Gould, Richard Pogge</td>
-    </tr>
-    <tr>
-      <td>Weak Lensing Combined With The Kinetic Sunyaev Zel'Dovich Effect: A   Study Of Baryonic Feedback</td>
-      <td>2404.06098</td>
-      <td><a href="https://arxiv.org/abs/2404.06098" target="_blank">https://arxiv.org/abs/2404.06098</a></td>
-      <td>L. Bigwood, A. Amon, A. Schneider, J. Salcido, I. G. Mccarthy, C. Preston, D. Sanchez, D. Sijacki, E. Schaan, S. Ferraro, N. Battaglia, A. Chen, S. Dodelson, A. Roodman, A. Pieres, A. Ferte, A. Alarcon, A. Drlica-Wagner, A. Choi, A. Navarro-Alsina, A. Campos, A. J. Ross, A. Carnero Rosell, B. Yin, B. Yanny, C. Sanchez, C. Chang, C. Davis, C. Doux, D. Gruen, E. S. Rykoff, E. M. Huff, E. Sheldon, F. Tarsitano, F. Andrade-Oliveira, G. M. Bernstein, G. Giannini, H. T. Diehl, H. Huang, I. Harrison, I. Sevilla-Noarbe, I. Tutusaus, J. Elvin-Poole, J. Mccullough, J. Zuntz, J. Blazek, J. Derose, J. Cordero, J. Prat, J. Myles, K. Eckert, K. Bechtol, K. Herner, L. F. Secco, M. Gatti, M. Raveri, M. Carrasco Kind, M. R. Becker, M. A. Troxel, M. Jarvis, N. Maccrann, O. Friedrich, O. Alves, P. -F. Leget, R. Chen, R. P. Rollins, R. H. Wechsler, R. A. Gruendl, R. Cawthon, S. Allam, S. L. Bridle, S. Pandey, S. Everett, T. Shin, W. G. Hartley, X. Fang, Y. Zhang, M. Aguena, J. Annis, D. Bacon, E. Bertin, S. Bocquet, D. Brooks, J. Carretero, F. J. Castander, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, S. Desai, P. Doel, I. Ferrero, B. Flaugher, J. Frieman, J. Garcia-Bellido, E. Gaztanaga, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. Huterer, D. J. James, K. Kuehn, O. Lahav, S. Lee, J. L. Marshall, J. Mena-Fernandez, R. Miquel, J. Muir, M. Paterno, A. A. Plazas Malagon, A. Porredon, A. K. Romer, S. Samuroff, E. Sanchez, D. Sanchez Cid, M. Smith, M. Soares-Santos, E. Suchyta, M. E. C. Swanson, G. Tarle, C. To, N. Weaverdyck, J. Weller, P. Wiseman, M. Yamamoto</td>
-      <td>Ashley Ross, Chun-Hao To, Klaus Honscheid</td>
-    </tr>
-    <tr>
       <td>Searching For Triple Systems Unbound By Supernovae</td>
       <td>2404.06540</td>
       <td><a href="https://arxiv.org/abs/2404.06540" target="_blank">https://arxiv.org/abs/2404.06540</a></td>
       <td>Karina Barboza, Christopher S. Kochanek</td>
       <td>Christopher Kochanek, Karina Barboza</td>
+    </tr>
+    <tr>
+      <td>Full Modeling And Parameter Compression Methods In Configuration Space   For Desi 2024 And Beyond</td>
+      <td>2404.07268</td>
+      <td><a href="https://arxiv.org/abs/2404.07268" target="_blank">https://arxiv.org/abs/2404.07268</a></td>
+      <td>S. Ramirez-Solano, M. Icaza-Lizaola, H. E. Noriega, M. Vargas-Magaña, S. Fromenteau, A. Aviles, F. Rodriguez-Martinez, J. Aguilar, S. Ahlen, O. Alves, S. Brieden, D. Brooks, T. Claybaugh, S. Cole, A. De La Macorra, Arjun Dey, B. Dey, P. Doel, K. Fanning, J. E. Forero-Romero, E. Gaztañaga, H. Gil-Marín, S. Gontcho A Gontcho, K. Honscheid, C. Howlett, S. Juneau, Y. Lai, M. Landriau, M. Manera, M. Maus, R. Miquel, E. Mueller, A. Muñoz-Gutiérrez, A. D. Myers, S. Nadathur, J. Nie, W. J. Percival, C. Poppett, M. Rezaie, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, D. Sprayberry, G. Tarlé, L. Verde, B. A. Weaver, R. H. Wechsler, S. Yuan, P. Zarrouk, H. Zou</td>
+      <td>Kevin Fanning, Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Comparing Compressed And Full-Modeling Analyses With Folps: Implications   For Desi 2024 And Beyond</td>
+      <td>2404.07269</td>
+      <td><a href="https://arxiv.org/abs/2404.07269" target="_blank">https://arxiv.org/abs/2404.07269</a></td>
+      <td>H. E. Noriega, A. Aviles, H. Gil-Marín, S. Ramirez-Solano, S. Fromenteau, M. Vargas-Magaña, J. Aguilar, S. Ahlen, O. Alves, S. Brieden, D. Brooks, J. L. Cervantes-Cota, S. Chen, T. Claybaugh, S. Cole, K. Dawson, A. De La Macorra, A. De Mattia, P. Doel, N. Findlay, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, K. Honscheid, J. Hou, C. Howlett, M. Ishak, S. Juneau, Y. Lai, M. Landriau, M. Manera, M. Maus, R. Miquel, G. Morales-Navarrete, E. Mueller, A. Muñoz-Gutiérrez, A. D. Myers, S. Nadathur, G. Niz, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, M. Rezaie, A. Rocher, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, D. Sprayberry, G. Tarlé, L. Verde, S. Yuan, P. Zarrouk, H. Zou</td>
+      <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>A Comparison Of Effective Field Theory Models Of Redshift Space Galaxy   Power Spectra For Desi 2024 And Future Surveys</td>
+      <td>2404.07272</td>
+      <td><a href="https://arxiv.org/abs/2404.07272" target="_blank">https://arxiv.org/abs/2404.07272</a></td>
+      <td>M. Maus, Y. Lai, H. E. Noriega, S. Ramirez-Solano, A. Aviles, S. Chen, S. Fromenteau, H. Gil-Marín, C. Howlett, M. Vargas-Magaña, M. White, P. Zarrouk, J. Aguilar, S. Ahlen, O. Alves, S. Brieden, D. Brooks, E. Burtin, T. Claybaugh, S. Cole, K. Dawson, M. Icaza-Lizaola, A. De La Macorra, A. De Mattia, P. Doel, S. Ferraro, N. Findlay, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, C. Hahn, K. Honscheid, M. Ishak, A. Kremin, M. Landriau, L. Le Guillou, M. Manera, R. Miquel, E. Mueller, S. Nadathur, G. Niz, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, M. Rezaie, A. Rocher, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, D. Sprayberry, G. Tarlé, S. Yuan, R. Zhao, R. Zhou, H. Zou</td>
+      <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Validating The Galaxy And Quasar Catalog-Level Blinding Scheme For The   Desi 2024 Analysis</td>
+      <td>2404.07282</td>
+      <td><a href="https://arxiv.org/abs/2404.07282" target="_blank">https://arxiv.org/abs/2404.07282</a></td>
+      <td>U. Andrade, J. Mena-Fernández, H. Awan, A. J. Ross, S. Brieden, J. Pan, A. De Mattia, J. Aguilar, S. Ahlen, O. Alves, D. Brooks, E. Buckley-Geer, E. Chaussidon, T. Claybaugh, S. Cole, A. De La Macorra, Arjun Dey, P. Doel, K. Fanning, J. E. Forero-Romero, E. Gaztañaga, H. Gil-Marín, S. Gontcho A Gontcho, J. Guy, C. Hahn, M. M. S Hanif, K. Honscheid, C. Howlett, D. Huterer, S. Juneau, A. Kremin, M. Landriau, L. Le Guillou, M. E. Levi, M. Manera, P. Martini, A. Meisner, R. Miquel, J. Moustakas, E. Mueller, A. Muñoz-Gutiérrez, A. D. Myers, S. Nadathur, J. A. Newman, J. Nie, G. Niz, N. Palanque-Delabrouille, W. J. Percival, M. Pinon, C. Poppett, F. Prada, M. Rashkovetskyi, M. Rezaie, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, D. Sprayberry, G. Tarlé, M. Vargas-Magaña, L. Verde, B. A. Weaver</td>
+      <td>Ashley Ross, Kevin Fanning, Klaus Honscheid, Paul Martini</td>
+    </tr>
+    <tr>
+      <td>A Comparison Between Shapefit Compression And Full-Modelling Method With   Pybird For Desi 2024 And Beyond</td>
+      <td>2404.07283</td>
+      <td><a href="https://arxiv.org/abs/2404.07283" target="_blank">https://arxiv.org/abs/2404.07283</a></td>
+      <td>Yan Lai, Cullan Howlett, Mark Maus, Héctor Gil-Marín, Hernan E. Noriega, Sadi Ramírez-Solano, Pauline Zarrouk, Jessica N. Aguilar, Steven Ahlen, Otávio Alves, Alejandro Aviles, David Brooks, Shi-Fan Chen, Todd Claybaugh, Tamara M. Davis, Kyle Dawson, Axel De La Macorra, Peter Doel, Jaime E. Forero-Romero, Enrique Gaztañaga, Satya Gontcho A Gontcho, Klaus Honscheid, Stephanie Juneau, Martin Landriau, Marc Manera, Ramon Miquel, Eva-Maria Mueller, Seshadri Nadathur, Gustavo Niz, Nathalie Palanque-Delabrouille, Will Percival, Claire Poppett, Mehdi Rezaie, Graziano Rossi, Eusebio Sanchez, Michael Schubnell, David Sprayberry, Gregory Tarlé, Mariana Vargas-Magaña, Licia Verde, Sihan Yuan, Rongpu Zhou, Hu Zou</td>
+      <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>An Analysis Of Parameter Compression And Full-Modeling Techniques With   Velocileptors For Desi 2024 And Beyond</td>
+      <td>2404.07312</td>
+      <td><a href="https://arxiv.org/abs/2404.07312" target="_blank">https://arxiv.org/abs/2404.07312</a></td>
+      <td>M. Maus, S. Chen, M. White, J. Aguilar, S. Ahlen, A. Aviles, S. Brieden, D. Brooks, T. Claybaugh, S. Cole, A. De La Macorra, Arjun Dey, P. Doel, S. Ferraro, N. Findlay, J. E. Forero-Romero, E. Gaztañaga, H. Gil-Marín, S. Gontcho A Gontcho, C. Hahn, K. Honscheid, C. Howlett, M. Ishak, S. Juneau, A. Kremin, Y. Lai, M. Landriau, M. E. Levi, M. Manera, R. Miquel, E. Mueller, A. D. Myers, S. Nadathur, J. Nie, H. E. Noriega, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, S. Ramirez-Solano, M. Rezaie, A. Rocher, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, D. Sprayberry, G. Tarlé, M. Vargas-Magaña, B. A. Weaver, S. Yuan, P. Zarrouk, H. Zhang, R. Zhou, H. Zou</td>
+      <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Orbital And Atmospheric Characterization Of The 1Rxs J034231.8+121622   System Using High-Resolution Spectroscopy Confirms That The Companion Is A   Low-Mass Star</td>
+      <td>2404.07742</td>
+      <td><a href="https://arxiv.org/abs/2404.07742" target="_blank">https://arxiv.org/abs/2404.07742</a></td>
+      <td>Clarissa R. Do Ó, Ben Sappey, Quinn M. Konopacky, Jean-Baptiste Ruffio, Kelly K. O'Neil, Tuan Do, Gregory Martinez, Travis S. Barman, Jayke S. Nguyen, Jerry W. Xuan, Christopher A. Theissen, Sarah Blunt, William Thompson, Chih-Chun Hsu, Ashley Baker, Randall Bartos, Geoffrey A. Blake, Benjamin Calvin, Sylvain Cetre, Jacques-Robert Delorme, Greg Doppmann, Daniel Echeverri, Luke Finnerty, Michael P. Fitzgerald, Julie Inglis, Nemanja Jovanovic, Ronald A. López, Dimitri Mawet, Evan Morris, Jacklyn Pezzato, Tobias Schofield, Andrew Skemer, J. Kent Wallace, Jason J. Wang, Ji Wang, Joshua Liberman</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
