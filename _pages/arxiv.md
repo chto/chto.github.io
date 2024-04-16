@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Apr 15 23:00:07 EDT 2024) "
+title: "Arxiv (Tue Apr 16 04:00:12 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Galactic Chemical Evolution Models Favor An Extended Type Ia Supernova   Delay-Time Distribution</td>
-      <td>2404.08059</td>
-      <td><a href="https://arxiv.org/abs/2404.08059" target="_blank">https://arxiv.org/abs/2404.08059</a></td>
-      <td>Liam O. Dubay, Jennifer A. Johnson, James W. Johnson</td>
-      <td>Jennifer Johnson, Liam Dubay</td>
-    </tr>
     <tr>
       <td>Modeling The Galactic Chemical Evolution Of Helium</td>
       <td>2404.08765</td>
