@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Apr 23 15:10:19 EDT 2024) "
+title: "Arxiv (Wed Apr 24 22:10:07 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,18 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>The Pepsi Exoplanet Transit Survey (Pets). V: New Na D Transmission   Spectra Indicate A Quieter Atmosphere On Hd 189733B</td>
-      <td>2404.13586</td>
-      <td><a href="https://arxiv.org/abs/2404.13586" target="_blank">https://arxiv.org/abs/2404.13586</a></td>
-      <td>E. Keles, S. Czesla, K. Poppenhaeger, P. Hauschildt, T. A. Carroll, I. Ilyin, M. Baratella, M. Steffen, K. G. Strassmeier, A. S. Bonomo, B. S. Gaudi, T. Henning, M. C. Johnson, K. Molaverdikhani, V. Nascimbeni, J. Patience, A. Reiners, G. Scandariato, E. Schlawin, E. Shkolnik, D. Sicilia, A. Sozzetti, M. Mallonn, C. Veillet, J. Wang, F. Yan</td>
-      <td>B. Scott Gaudi, Ji Wang, Marshall Johnson</td>
+      <td>Solar Flare Observations With The Radio Neutrino Observatory Greenland   (Rno-G)</td>
+      <td>2404.14995</td>
+      <td><a href="https://arxiv.org/abs/2404.14995" target="_blank">https://arxiv.org/abs/2404.14995</a></td>
+      <td>S. Agarwal, J. A. Aguilar, S. Ali, P. Allison, M. Betts, D. Besson, A. Bishop, O. Botner, S. Bouma, S. Buitink, M. Cataldo, B. A. Clark, A. Coleman, K. Couberly, S. De Kockere, K. D. De Vries, C. Deaconu, M. A. Duvernois, C. Glaser, T. Glüsenkamp, A. Hallgren, S. Hallmann, J. C. Hanson, B. Hendricks, J. Henrichs, N. Heyer, C. Hornhuber, K. Hughes, T. Karg, A. Karle, J. L. Kelley, M. Korntheuer, M. Kowalski, I. Kravchenko, R. Krebs, R. Lahmann, U. Latif, P. Laub, C. -H. Liu, M. J. Marsee, Z. S. Meyers, M. Mikhailova, C. Monstein, K. Mulrey, M. Muzio, A. Nelles, A. Novikov, A. Nozdrina, E. Oberla, B. Oeyen, N. Punsuebsay, L. Pyras, M. Ravn, D. Ryckbosch, F. Schlüter, O. Scholten, D. Seckel, M. F. H. Seikh, J. Stoffels, K. Terveer, S. Toscano, D. Tosi, D. J. Van Den Broeck, N. Van Eijndhoven, A. G. Vieregg, A. Vijai, C. Welling, D. R. Williams, P. Windischhofer, S. Wissel, R. Young, A. Zink</td>
+      <td>Kaeli Hughes, Patrick Allison</td>
+    </tr>
+    <tr>
+      <td>Photometry Of Saturated Stars With Machine Learning</td>
+      <td>2404.15405</td>
+      <td><a href="https://arxiv.org/abs/2404.15405" target="_blank">https://arxiv.org/abs/2404.15405</a></td>
+      <td>Dominek Winecki, Christopher S. Kochanek</td>
+      <td>Christopher Kochanek</td>
     </tr>
   </tbody>
 </table>
