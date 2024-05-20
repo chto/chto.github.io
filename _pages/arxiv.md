@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun May 19 15:10:03 EDT 2024) "
+title: "Arxiv (Sun May 19 22:10:04 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,18 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Validation Of The Desi 2024 Lyman Alpha Forest Bal Masking Strategy</td>
-      <td>2405.09737</td>
-      <td><a href="https://arxiv.org/abs/2405.09737" target="_blank">https://arxiv.org/abs/2405.09737</a></td>
-      <td>Paul Martini, A. Cuceu, L. Ennesser, A. Brodzeller, J. Aguilar, S. Ahlen, D. Brooks, T. Claybaugh, R. De Belsunce, A. De La Macorra, Arjun Dey, P. Doel, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, J. Guy, H. K. Herrera-Alcantar, K. Honscheid, N. G. Karaçaylı, T. Kisner, A. Kremin, A. Lambert, L. Le Guillou, M. Manera, A. Meisner, R. Miquel, P. Montero-Camacho, J. Moustakas, G. Niz, N. Palanque-Delabrouille, W. J. Percival, I. Pérez-Ràfols, C. Poppett, F. Prada, C. Ravoux, M. Rezaie, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, D. Sprayberry, T. Tan, G. Tarlé, M. Walther, B. A. Weaver, H. Zou</td>
-      <td>Andrei Cuceu, Klaus Honscheid, Lauren Ennesser, Paul Martini</td>
+      <td>Instability Of Circumnuclear Gas Supply As An Origin Of "Changing-Look"   Phenomenon Of Supermassive Blackholes</td>
+      <td>2405.10663</td>
+      <td><a href="https://arxiv.org/abs/2405.10663" target="_blank">https://arxiv.org/abs/2405.10663</a></td>
+      <td>J. Wang, D. W. Xu, Xinwu Cao, C. Gao, C. H. Xie, J. Y. Wei</td>
+      <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Dark Energy Survey Year 3 Results: Simulation-Based Cosmological   Inference With Wavelet Harmonics, Scattering Transforms, And Moments Of Weak   Lensing Mass Maps Ii. Cosmological Results</td>
+      <td>2405.10881</td>
+      <td><a href="https://arxiv.org/abs/2405.10881" target="_blank">https://arxiv.org/abs/2405.10881</a></td>
+      <td>M. Gatti, G. Campailla, N. Jeffrey, L. Whiteway, A. Porredon, J. Prat, J. Williamson, M. Raveri, B. Jain, V. Ajani, G. Giannini, M. Yamamoto, C. Zhou, J. Blazek, D. Anbajagane, S. Samuroff, T. Kacprzak, A. Alarcon, A. Amon, K. Bechtol, M. Becker, G. Bernstein, A. Campos, C. Chang, R. Chen, A. Choi, C. Davis, J. Derose, H. T. Diehl, S. Dodelson, C. Doux, K. Eckert, J. Elvin-Poole, S. Everett, A. Ferte, D. Gruen, R. Gruendl, I. Harrison, W. G. Hartley, K. Herner, E. M. Huff, M. Jarvis, N. Kuropatkin, P. F. Leget, N. Maccrann, J. Mccullough, J. Myles, A. Navarro-Alsina, S. Pandey, R. P. Rollins, A. Roodman, C. Sanchez, L. F. Secco, I. Sevilla-Noarbe, E. Sheldon, T. Shin, M. Troxel, I. Tutusaus, T. N. Varga, B. Yanny, B. Yin, Y. Zhang, J. Zuntz, T. M. C. Abbott, M. Aguena, S. S. Allam, O. Alves, F. Andrade-Oliveira, D. Bacon, S. Bocquet, D. Brooks, A. Carnero Rosell, J. Carretero, L. N. Da Costa, M. E. S. Pereira, J. De Vicente, I. Ferrero, J. Frieman, J. García-Bellido, E. Gaztanaga, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, O. Lahav, S. Lee, J. L. Marshall, J. Mena-Fernández, R. Miquel, A. Pieres, A. A. Plazas Malagón, E. Sanchez, D. Sanchez Cid, M. Schubnell, M. Smith, E. Suchyta, G. Tarle, N. Weaverdyck, J. Weller, P. Wiseman</td>
+      <td>Klaus Honscheid</td>
     </tr>
   </tbody>
 </table>
