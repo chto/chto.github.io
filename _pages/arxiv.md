@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue May 21 23:00:07 EDT 2024) "
+title: "Arxiv (Wed May 22 04:00:11 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>On The Structure Of The Sagittarius Spiral Arm In The Inner Milky Way</td>
-      <td>2405.11439</td>
-      <td><a href="https://arxiv.org/abs/2405.11439" target="_blank">https://arxiv.org/abs/2405.11439</a></td>
-      <td>S. B. Bian, Y. W. Wu, Y. Xu, M. J. Reid, J. J. Li, B. Zhang, K. M. Menten, L. Moscadelli, A. Brunthaler</td>
-      <td>Jung-Tsung Li</td>
-    </tr>
     <tr>
       <td>Exploring The Directly Imaged Hd 1160 System Through Spectroscopic   Characterisation And High-Cadence Variability Monitoring</td>
       <td>2405.12271</td>
