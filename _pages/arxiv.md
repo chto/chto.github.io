@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu May 23 23:00:26 EDT 2024) "
+title: "Arxiv (Fri May 24 04:00:11 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -55,6 +55,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2405.13588" target="_blank">https://arxiv.org/abs/2405.13588</a></td>
       <td>K. Lodha, A. Shafieloo, R. Calderon, E. Linder, W. Sohn, J. L. Cervantes-Cota, A. De Mattia, J. García-Bellido, M. Ishak, W. Matthewson, J. Aguilar, S. Ahlen, D. Brooks, T. Claybaugh, A. De La Macorra, A. Dey, B. Dey, P. Doel, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, C. Howlett, S. Juneau, S. Kent, T. Kisner, A. Lambert, M. Landriau, L. Le Guillou, P. Martini, A. Meisner, R. Miquel, J. Moustakas, J. A. Newman, G. Niz, N. Palanque-Delabrouille, W. J. Percival, C. Poppett, F. Prada, G. Rossi, V. Ruhlmann-Kleider, E. Sanchez, D. Schlegel, M. Schubnell, H. Seo, D. Sprayberry, G. Tarlé, B. A. Weaver, H. Zou</td>
       <td>Paul Martini</td>
+    </tr>
+    <tr>
+      <td>New Limits On Neutrino Decay From High-Energy Astrophysical Neutrinos</td>
+      <td>2405.14826</td>
+      <td><a href="https://arxiv.org/abs/2405.14826" target="_blank">https://arxiv.org/abs/2405.14826</a></td>
+      <td>Victor B. Valera, Damiano F. G. Fiorillo, Ivan Esteban, Mauricio Bustamante</td>
+      <td>Ivan Esteban</td>
     </tr>
   </tbody>
 </table>
