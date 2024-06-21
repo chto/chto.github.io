@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Jun 20 23:00:05 EDT 2024) "
+title: "Arxiv (Fri Jun 21 04:00:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -20,6 +20,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2406.13757" target="_blank">https://arxiv.org/abs/2406.13757</a></td>
       <td>Fabio Wanderley, Katia Cunha, Oleg Kochukhov, Verne V. Smith, Diogo Souto, Lyra Cao, Kevin Covey, Steven R. Majewski, Cintia Martinez, Philip S. Muirhead, Marc Pinsonneault, C. Allende Prieto, Keivan G. Stassun</td>
       <td>Marc Pinsonneault</td>
+    </tr>
+    <tr>
+      <td>Roman Ffp Revolution: Two, Three, Many Plutos</td>
+      <td>2406.14531</td>
+      <td><a href="https://arxiv.org/abs/2406.14531" target="_blank">https://arxiv.org/abs/2406.14531</a></td>
+      <td>Andrew Gould, Jennifer C. Yee, Subo Dong</td>
+      <td>Andrew Gould</td>
     </tr>
   </tbody>
 </table>
