@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Jun 25 23:00:06 EDT 2024) "
+title: "Arxiv (Wed Jun 26 04:00:04 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Xmm-Newton Ultra Narrow Deep Field Survey Ii: X-Ray Spectral Analysis Of   The Brightest Agn Population</td>
-      <td>2406.15901</td>
-      <td><a href="https://arxiv.org/abs/2406.15901" target="_blank">https://arxiv.org/abs/2406.15901</a></td>
-      <td>M. Elías-Chávez, A. L. Longinotti, Y. Krongold, D. Rosa-González, C. Vignali, S. Mathur, T. Miyaji, Y. D. Mayya, F. Nicastro</td>
-      <td>Smita Mathur</td>
-    </tr>
     <tr>
       <td>Agn Storm 2: Ix. Studying The Dynamics Of The Ionized Obscurer In Mrk   817 With High-Resolution X-Ray Spectroscopy</td>
       <td>2406.17061</td>
