@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Jul  7 23:00:25 EDT 2024) "
+title: "Arxiv (Mon Jul  8 04:01:21 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Isochrone Fitting To The Open Cluster M67 In The Era Of Gaia And   Improved Model Physics</td>
-      <td>2407.03526</td>
-      <td><a href="https://arxiv.org/abs/2407.03526" target="_blank">https://arxiv.org/abs/2407.03526</a></td>
-      <td>Claudia Reyes, Dennis Stello, Marc Hon, Regner Trampedach, Eric Sandquist, Marc Pinsonneault</td>
-      <td>Marc Pinsonneault</td>
-    </tr>
     <tr>
       <td>Measuring Stellar Surface Rotation And Activity With The Plato Mission   -- I. Strategy And Application To Simulated Light Curves</td>
       <td>2407.03709</td>
@@ -55,6 +48,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2407.04607" target="_blank">https://arxiv.org/abs/2407.04607</a></td>
       <td>Noah Sailer, Joshua Kim, Simone Ferraro, Mathew S. Madhavacheril, Martin White, Irene Abril-Cabezas, Jessica Nicole Aguilar, Steven Ahlen, J. Richard Bond, David Brooks, Etienne Burtin, Erminia Calabrese, Shi-Fan Chen, Steve K. Choi, Todd Claybaugh, Kyle Dawson, Axel De La Macorra, Joseph Derose, Arjun Dey, Biprateep Dey, Peter Doel, Jo Dunkley, Carmen Embil-Villagra, Gerrit S. Farren, Andreu Font-Ribera, Jaime E. Forero-Romero, Enrique Gaztañaga, Vera Gluscevic, Satya Gontcho A Gontcho, Klaus Honscheid, Cullan Howlett, Stephanie Juneau, David Kirkby, Theodore Kisner, Anthony Kremin, Martin Landriau, Laurent Le Guillou, Michael Levi, Marc Manera, Aaron Meisner, Ramon Miquel, Kavilan Moodley, John Moustakas, Michael D. Niemack, Gustavo Niz, Nathalie Palanque-Delabrouille, Will Percival, Francisco Prada, Frank J. Qu, Graziano Rossi, Eusebio Sanchez, Emmanuel Schaan, Edward Schlafly, David Schlegel, Michael Schubnell, Neelima Sehgal, Hee-Jong Seo, Blake Sherwin, Cristóbal Sifón, David Sprayberry, Suzanne T. Staggs, Gregory Tarlé, Benjamin Alan Weaver, Christophe Yèche, Rongpu Zhou, Hu Zou</td>
       <td>Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Investigating The Mass Of The Black Hole And Possible Wind Outflow Of   The Accretion Disk In The Tidal Disruption Event At2021Ehb</td>
+      <td>2407.04684</td>
+      <td><a href="https://arxiv.org/abs/2407.04684" target="_blank">https://arxiv.org/abs/2407.04684</a></td>
+      <td>Xin Xiang, Jon M. Miller, Abderahmen Zoghbi, Mark T. Reynolds, David Bogensberger, Lixin Dai, Paul A. Draghis, Jeremy J. Drake, Olivier Godet, Jimmy A. Irwin, Michael C. Miller, Brenna E. Mockler, Richard Saxton, Natalie Webb</td>
+      <td>Mark Reynolds</td>
     </tr>
   </tbody>
 </table>
