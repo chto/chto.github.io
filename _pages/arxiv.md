@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jul  8 15:10:09 EDT 2024) "
+title: "Arxiv (Mon Jul  8 22:10:16 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -20,13 +20,6 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2407.03709" target="_blank">https://arxiv.org/abs/2407.03709</a></td>
       <td>S. N. Breton, A. F Lanza, S. Messina, I. Pagano, L. Bugnet, E. Corsaro, R. A. García, S. Mathur, A. R. G Santos, S. Aigrain, L. Amard, A. S. Brun, L. Degott, Q. Noraz, D. B. Palakkatharappil, E. Panetier, A. Strugarek, K. Belkacem, M. -J Goupil, R. M. Ouazzani, J. Philidet, C. Renié, O. Roth</td>
       <td>Smita Mathur</td>
-    </tr>
-    <tr>
-      <td>Agn Storm 2: Viii. Investigating The Narrow Absorption Lines In Mrk 817   Using Hst-Cos Observations</td>
-      <td>2407.04164</td>
-      <td><a href="https://arxiv.org/abs/2407.04164" target="_blank">https://arxiv.org/abs/2407.04164</a></td>
-      <td>Maryam Dehghanian, Nahum Arav, Gerard A. Kriss, Missagh Mehdipour, Doyee Byun, Gwen Walker, Mayank Sharma, Aaron J. Barth, Misty C. Bentz, Benjamin D. Boizelle, Michael S. Brotherton, Edward M. Cackett, Elena Dalla Bonta, Gisella De Rosa, Gary J. Ferland, Carina Fian, Alexei V. Filippenko, Jonathan Gelbord, Michael R. Goad, Keith Horne, Yasaman Homayouni, Dragana Ilic, Michael D. Joner, Erin A. Kara, Shai Kaspi, Christopher S. Kochanek, Kirk T. Korista, Peter Kosec, Andjelka B. Kovacevic, Hermine Landt, Collin Lewin, Ethan R. Partington, Luka C. Popovic, Daniel Proga, Daniele Rogantini, Matthew R. Siebert, Thaisa Storchi-Bergmann, Marianne Vestergaard, Timothy Waters, Jian-Min Wang, Fatima Zaidouni, Ying Zu</td>
-      <td>Christopher Kochanek</td>
     </tr>
     <tr>
       <td>Neutral Atomic And Molecular Gas Dynamics In The Nearby Spiral Galaxies   Ngc 1512, Ngc 4535, And Ngc 7496</td>
@@ -55,6 +48,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2407.04684" target="_blank">https://arxiv.org/abs/2407.04684</a></td>
       <td>Xin Xiang, Jon M. Miller, Abderahmen Zoghbi, Mark T. Reynolds, David Bogensberger, Lixin Dai, Paul A. Draghis, Jeremy J. Drake, Olivier Godet, Jimmy A. Irwin, Michael C. Miller, Brenna E. Mockler, Richard Saxton, Natalie Webb</td>
       <td>Mark Reynolds</td>
+    </tr>
+    <tr>
+      <td>Not All Lensing Is Low: An Analysis Of Desi$\Times$Des Using The   Lagrangian Effective Theory Of Lss</td>
+      <td>2407.04795</td>
+      <td><a href="https://arxiv.org/abs/2407.04795" target="_blank">https://arxiv.org/abs/2407.04795</a></td>
+      <td>S. Chen, J. Derose, R. Zhou, M. White, S. Ferraro, C. Blake, J. U. Lange, R. H. Wechsler, J. Aguilar, S. Ahlen, D. Brooks, T. Claybaugh, K. Dawson, A. De La Macorra, P. Doel, A. Font-Ribera, E. Gaztañaga, S. Gontcho A Gontcho, G. Gutierrez, K. Honscheid, C. Howlett, R. Kehoe, D. Kirkby, T. Kisner, A. Kremin, M. Landriau, L. Le Guillou, M. Manera, A. Meisner, R. Miquel, J. A. Newman, G. Niz, N. Palanque-Delabrouille, W. J. Percival, F. Prada, G. Rossi, E. Sanchez, D. Schlegel, M. Schubnell, D. Sprayberry, G. Tarlé, B. A. Weaver</td>
+      <td>Klaus Honscheid</td>
     </tr>
   </tbody>
 </table>
