@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Jul 29 23:01:01 EDT 2024) "
+title: "Arxiv (Tue Jul 30 04:00:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Binary Orbit And Disks Properties Of The Rw Aur System Using Alma   Observations</td>
-      <td>2407.18828</td>
-      <td><a href="https://arxiv.org/abs/2407.18828" target="_blank">https://arxiv.org/abs/2407.18828</a></td>
-      <td>N. T. Kurtovic, S. Facchini, M. Benisty, P. Pinilla, S. Cabrit, E. L. N. Jensen, C. Dougados, R. Booth, C. N. Kimmig, C. F. Manara, J. E. Rodriguez</td>
-      <td>Jennifer Rodriguez</td>
-    </tr>
     <tr>
       <td>Weighing The Options: The Unseen Companion In Lamost J2354 Is Likely A   Massive White Dwarf</td>
       <td>2407.19004</td>
