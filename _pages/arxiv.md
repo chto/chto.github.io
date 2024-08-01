@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Jul 31 15:10:12 EDT 2024) "
+title: "Arxiv (Wed Jul 31 22:10:14 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2407.20952" target="_blank">https://arxiv.org/abs/2407.20952</a></td>
       <td>Yapeng Zhang, Jerry W. Xuan, Dimitri Mawet, Jason J. Wang, Chih-Chun Hsu, Jean-Bapiste Ruffio, Heather A. Knutson, Julie Inglis, Geoffrey A. Blake, Yayaati Chachan, Katelyn Horstman, Ashley Baker, Randall Bartos, Benjamin Calvin, Sylvain Cetre, Jacques-Robert Delorme, Greg Doppmann, Daniel Echeverri, Luke Finnerty, Michael P. Fitzgerald, Nemanja Jovanovic, Joshua Liberman, Ronald A. López, Evan Morris, Jacklyn Pezzato, Ben Sappey, Tobias Schofield, Andrew Skemer, J. Kent Wallace, Ji Wang, Clarissa R. Do Ó</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Geo And Leo: The Final Frontier For Plutonic Ffp Parallax</td>
+      <td>2407.21696</td>
+      <td><a href="https://arxiv.org/abs/2407.21696" target="_blank">https://arxiv.org/abs/2407.21696</a></td>
+      <td>Andrew Gould</td>
+      <td>Andrew Gould</td>
     </tr>
   </tbody>
 </table>
