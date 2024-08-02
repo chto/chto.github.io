@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Aug  1 23:00:06 EDT 2024) "
+title: "Arxiv (Fri Aug  2 04:00:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,12 +14,5 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Geo And Leo: The Final Frontier For Plutonic Ffp Parallax</td>
-      <td>2407.21696</td>
-      <td><a href="https://arxiv.org/abs/2407.21696" target="_blank">https://arxiv.org/abs/2407.21696</a></td>
-      <td>Andrew Gould</td>
-      <td>Andrew Gould</td>
-    </tr>
   </tbody>
 </table>
