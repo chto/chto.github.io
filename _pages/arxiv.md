@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Aug  5 15:10:10 EDT 2024) "
+title: "Arxiv (Mon Aug  5 22:10:51 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -34,6 +34,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2408.01001" target="_blank">https://arxiv.org/abs/2408.01001</a></td>
       <td>M. Dixon, J. Mould, C. Lidman, E. N. Taylor, C. Flynn, A. R. Duffy, L. Galbany, D. Scolnic, T. M. Davis, A. Möller, L. Kelsey, J. Lee, P. Wiseman, M. Vincenzi, P. Shah, M. Aguena, S. S. Allam, O. Alves, D. Bacon, S. Bocquet, D. Brooks, D. L. Burke, A. Carnero Rosell, J. Carretero, C. Conselice, L. N. Da Costa, M. E. S. Pereira, H. T. Diehl, P. Doel, S. Everett, I. Ferrero, B. Flaugher, J. Frieman, J. García-Bellido, M. Gatti, E. Gaztanaga, G. Giannini, D. Gruen, R. A. Gruendl, G. Gutierrez, K. Herner, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, M. Lima, J. L. Marshall, J. Mena-Fernández, F. Menanteau, R. Miquel, J. Myles, R. C. Nichol, R. L. C. Ogando, A. Palmese, A. Pieres, A. A. Plazas Malagón, S. Samuroff, E. Sanchez, D. Sanchez Cid, I. Sevilla-Noarbe, M. Smith, F. Sobreira, E. Suchyta, M. E. C. Swanson, G. Tarle, C. To, B. E. Tucker, D. L. Tucker, V. Vikram, A. R. Walker, N. Weaverdyck</td>
       <td>Chun-Hao To, Klaus Honscheid</td>
+    </tr>
+    <tr>
+      <td>Pathfinder: A Semantic Framework For Literature Review And Knowledge   Discovery In Astronomy</td>
+      <td>2408.01556</td>
+      <td><a href="https://arxiv.org/abs/2408.01556" target="_blank">https://arxiv.org/abs/2408.01556</a></td>
+      <td>Kartheik G. Iyer, Mikaeel Yunus, Charles O'Neill, Christine Ye, Alina Hyk, Kiera Mccormick, Ioana Ciuca, John F. Wu, Alberto Accomazzi, Simone Astarita, Rishabh Chakrabarty, Jesse Cranney, Anjalie Field, Tirthankar Ghosal, Michele Ginolfi, Marc Huertas-Company, Maja Jablonska, Sandor Kruk, Huiling Liu, Gabriel Marchidan, Rohit Mistry, J. P. Naiman, J. E. G. Peek, Mugdha Polimera, Sergio J. Rodriguez, Kevin Schawinski, Sanjib Sharma, Michael J. Smith, Yuan-Sen Ting, Mike Walmsley</td>
+      <td>Yuan-Sen Ting</td>
     </tr>
   </tbody>
 </table>
