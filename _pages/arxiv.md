@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Aug 11 15:10:08 EDT 2024) "
+title: "Arxiv (Mon Aug 12 15:10:08 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,18 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>The Atomic Gas Sequence And Mass-Metallicity Relation From Dwarfs To   Massive Galaxies</td>
-      <td>2408.03996</td>
-      <td><a href="https://arxiv.org/abs/2408.03996" target="_blank">https://arxiv.org/abs/2408.03996</a></td>
-      <td>D. Scholte, A. Saintonge, J. Moustakas, B. Catinella, H. Zou, B. Dey, J. Aguilar, S. Ahlen, A. Anand, R. Blum, D. Brooks, C. Circosta, T. Claybaugh, A. De La Macorra, P. Doel, A. Font-Ribera, P. U. Förster, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, S. Juneau, R. Kehoe, T. Kisner, S. E. Koposov, A. Kremin, A. Lambert, M. Landriau, C. Maraston, P. Martini, A. Meisner, A. S. Mighty, R. Miquel, A. D. Myers, J. Nie, C. Poppett, F. Prada, M. Rezaie, G. Rossi, E. Sanchez, M. Schubnell, J. Silber, D. Sprayberry, M. Siudek, F. Speranza, G. Tarlé, B. A. Weaver</td>
-      <td>Paul Martini</td>
-    </tr>
-    <tr>
-      <td>Jwst Observations Of Starbursts: Massive Star Clusters In The Central   Starburst Of M82</td>
-      <td>2408.04135</td>
-      <td><a href="https://arxiv.org/abs/2408.04135" target="_blank">https://arxiv.org/abs/2408.04135</a></td>
-      <td>Rebecca C. Levy, Alberto D. Bolatto, Divakara Mayya, Bolivia Cuevas-Otahola, Elizabeth Tarantino, Martha L. Boyer, Leindert A. Boogaard, Torsten Böker, Serena A. Cronin, Daniel A. Dale, Keaton Donaghue, Kimberly L. Emig, Deanne B. Fisher, Simon C. O. Glover, Rodrigo Herrera-Camus, María J. Jiménez-Donaire, Ralf S. Klessen, Laura Lenkić, Adam K. Leroy, Ilse De Looze, David S. Meier, Elisabeth A. C. Mills, Juergen Ott, Mónica Relaño, Sylvain Veilleux, Vicente Villanueva, Fabian Walter, Paul P. Van Der Werf</td>
-      <td>Adam Leroy</td>
+      <td>Css161010: A Luminous, Fast Blue Optical Transient With Broad   Blueshifted Hydrogen Lines</td>
+      <td>2408.04698</td>
+      <td><a href="https://arxiv.org/abs/2408.04698" target="_blank">https://arxiv.org/abs/2408.04698</a></td>
+      <td>Claudia P. Gutiérrez, Seppo Mattila, Peter Lundqvist, Luc Dessart, Santiago González-Gaitán, Peter G. Jonker, Subo Dong, Deanne Coppejans, Ping Chen, Panos Charalampopoulos, Nancy Elias-Rosa, Thomas Reynolds, Christopher Kochanek, Morgan Fraser, Andrea Pastorello, Mariusz Gromadzki, Jack Neustadt, Stefano Benetti, Erkki Kankare, Tuomas Kangas, Rubina Kotak, Maximilian D. Stritzinger, Thomas Wevers, Bing Zhang, David Bersier, Subhash Bose, David A. H. Buckley, Raya Dastidar, Anjasha Gangopadhyay, Aleksandra Hamanowicz, Juna Kollmeier, Jirong Mao, Stephen B. Potter, Encarni Romero-Colmenero, Mridweeka Singh, Auni Somero, Giacomo Terreran, Petri Vaisanen, Lukasz Wyrzykowski</td>
+      <td>Christopher Kochanek, Jack Neustadt</td>
     </tr>
   </tbody>
 </table>
