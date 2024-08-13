@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Aug 12 23:00:09 EDT 2024) "
+title: "Arxiv (Tue Aug 13 15:10:15 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Css161010: A Luminous, Fast Blue Optical Transient With Broad   Blueshifted Hydrogen Lines</td>
-      <td>2408.04698</td>
-      <td><a href="https://arxiv.org/abs/2408.04698" target="_blank">https://arxiv.org/abs/2408.04698</a></td>
-      <td>Claudia P. Gutiérrez, Seppo Mattila, Peter Lundqvist, Luc Dessart, Santiago González-Gaitán, Peter G. Jonker, Subo Dong, Deanne Coppejans, Ping Chen, Panos Charalampopoulos, Nancy Elias-Rosa, Thomas Reynolds, Christopher Kochanek, Morgan Fraser, Andrea Pastorello, Mariusz Gromadzki, Jack Neustadt, Stefano Benetti, Erkki Kankare, Tuomas Kangas, Rubina Kotak, Maximilian D. Stritzinger, Thomas Wevers, Bing Zhang, David Bersier, Subhash Bose, David A. H. Buckley, Raya Dastidar, Anjasha Gangopadhyay, Aleksandra Hamanowicz, Juna Kollmeier, Jirong Mao, Stephen B. Potter, Encarni Romero-Colmenero, Mridweeka Singh, Auni Somero, Giacomo Terreran, Petri Vaisanen, Lukasz Wyrzykowski</td>
-      <td>Christopher Kochanek, Jack Neustadt</td>
-    </tr>
     <tr>
       <td>Mass Determination Of Two Jupiter-Sized Planets Orbiting Slightly   Evolved Stars: Toi-2420 B And Toi-2485 B</td>
       <td>2408.05612</td>
