@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Aug 13 22:10:05 EDT 2024) "
+title: "Arxiv (Tue Aug 13 23:00:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,27 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2408.06279" target="_blank">https://arxiv.org/abs/2408.06279</a></td>
       <td>Javier R. Goicoechea, J. Le Bourlot, J. H. Black, F. Alarcón, E. A. Bergin, O. Berné, E. Bron, A. Canin, E. Chapillon, R. Chown, E. Dartois, M. Gerin, E. Habart, T. J. Haworth, C. Joblin, O. Kannavou, F. Le Petit, T. Onaka, E. Peeters, J. Pety, E. Roueff, A. Sidhu, I. Schroetter, B. Tabone, A. G. G. M. Tielens, B. Trahin, D. Van De Putte, S. Vicente, M. Zannese</td>
       <td>Ryan Chown</td>
+    </tr>
+    <tr>
+      <td>Quantifying Bursty Star Formation In Dwarf Galaxies</td>
+      <td>2408.06807</td>
+      <td><a href="https://arxiv.org/abs/2408.06807" target="_blank">https://arxiv.org/abs/2408.06807</a></td>
+      <td>Yuan-Sen Ting, Alexander P. Ji</td>
+      <td>Yuan-Sen Ting</td>
+    </tr>
+    <tr>
+      <td>X-Ray And Optical Polarization Aligned With The Radio Jet Ejecta In Gx   339-4</td>
+      <td>2408.06856</td>
+      <td><a href="https://arxiv.org/abs/2408.06856" target="_blank">https://arxiv.org/abs/2408.06856</a></td>
+      <td>G. Mastroserio, B. De Marco, M. C. Baglio, F. Carotenuto, S. Fabiani, T. D. Russell, F. Capitanio, Y. Cavecchi, S. Motta, D. M. Russell, M. Dovciak, M. Del Santo, K. Alabarta, A. Ambrifi, S. Campana, P. Casella, S. Covino, G. Illiano, E. Kara, E. V. Lai, G. Lodato, A. Manca, I. Mariani, A. Marino, C. Miceli, P. Saikia, A. W. Shaw, J. Svoboda, F. M. Vincentelli, J. Wang</td>
+      <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>Five New Eclipsing Binaries With Low-Mass Companions</td>
+      <td>2408.06897</td>
+      <td><a href="https://arxiv.org/abs/2408.06897" target="_blank">https://arxiv.org/abs/2408.06897</a></td>
+      <td>J. Lipták, M. Skarka, E. Guenther, P. Chaturvedi, M. Vítková, R. Karjalainen, J. Šubjak, A. Hatzes, A. Bieryla, D. Gandolfi, S. H. Albrecht, P. G. Beck, H. J. Deeg, M. E. Everett, J. Higuera, D. Jones, S. Mathur, Y. G. Patel, C. M. Persson, S. Redfield, P. Kabáth</td>
+      <td>Smita Mathur</td>
     </tr>
   </tbody>
 </table>
