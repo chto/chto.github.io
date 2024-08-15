@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Aug 14 15:10:13 EDT 2024) "
+title: "Arxiv (Wed Aug 14 22:10:59 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2408.06897" target="_blank">https://arxiv.org/abs/2408.06897</a></td>
       <td>J. Lipták, M. Skarka, E. Guenther, P. Chaturvedi, M. Vítková, R. Karjalainen, J. Šubjak, A. Hatzes, A. Bieryla, D. Gandolfi, S. H. Albrecht, P. G. Beck, H. J. Deeg, M. E. Everett, J. Higuera, D. Jones, S. Mathur, Y. G. Patel, C. M. Persson, S. Redfield, P. Kabáth</td>
       <td>Smita Mathur</td>
+    </tr>
+    <tr>
+      <td>Improving Radial Velocities By Marginalizing Over Stars And Sky:   Achieving 30 M/S Rv Precision For Apogee In The Plate Era</td>
+      <td>2408.07126</td>
+      <td><a href="https://arxiv.org/abs/2408.07126" target="_blank">https://arxiv.org/abs/2408.07126</a></td>
+      <td>Andrew K. Saydjari, Douglas P. Finkbeiner, Adam J. Wheeler, Jon A. Holtzman, John C. Wilson, Andrew R. Casey, Sophia Sánchez-Maes, Joel R. Brownstein, David W. Hogg, Michael R. Blanton</td>
+      <td>Adam Wheeler</td>
+    </tr>
+    <tr>
+      <td>On The Progenitor Of The Crab Pulsar</td>
+      <td>2408.07130</td>
+      <td><a href="https://arxiv.org/abs/2408.07130" target="_blank">https://arxiv.org/abs/2408.07130</a></td>
+      <td>Elvira Cruz-Cruz, Christopher S. Kochanek</td>
+      <td>Christopher Kochanek, Elvira Cruz-Cruz</td>
     </tr>
   </tbody>
 </table>
