@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Aug 15 23:00:05 EDT 2024) "
+title: "Arxiv (Fri Aug 16 15:10:15 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>On The Progenitor Of The Crab Pulsar</td>
-      <td>2408.07130</td>
-      <td><a href="https://arxiv.org/abs/2408.07130" target="_blank">https://arxiv.org/abs/2408.07130</a></td>
-      <td>Elvira Cruz-Cruz, Christopher S. Kochanek</td>
-      <td>Christopher Kochanek, Elvira Cruz-Cruz</td>
-    </tr>
     <tr>
       <td>Citizen Asas-Sn Data Release Ii: Variable Star Classification Using   Citizen Science</td>
       <td>2408.07859</td>
