@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Aug 27 15:10:05 EDT 2024) "
+title: "Arxiv (Tue Aug 27 22:10:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2408.14344" target="_blank">https://arxiv.org/abs/2408.14344</a></td>
       <td>Mukesh Singh Bisht, Biman B. Nath, Smita Mathur</td>
       <td>Smita Mathur</td>
+    </tr>
+    <tr>
+      <td>Key Science Goals For The Next Generation Very Large Array (Ngvla):   Update From The Ngvla Science Advisory Council (2024)</td>
+      <td>2408.14497</td>
+      <td><a href="https://arxiv.org/abs/2408.14497" target="_blank">https://arxiv.org/abs/2408.14497</a></td>
+      <td>David J. Wilner, Brenda C. Matthews, Brett Mcguire, Jennifer Bergner, Fabian Walter, Rachel Somerville, Megan Decesar, Alexander Van Der Horst, Rachel Osten, Alessandra Corsi, Andrew Baker, Edwin Bergin, Alberto Bolatto, Laura Blecha, Geoff Bower, Sarah Burke-Spolaor, Carlos Carrasco-Gonzalez, Katherine De Keller, Imke De Pater, Mark Dickinson, Maria Drout, Gregg Hallinan, Bunyo Hatsukade, Andrea Isella, Takuma Izumi, Megan Johnson, Joseph Lazio, Adam Leroy, Thomas Maccarone, Betsy Mills, Munetake Momose, Cherry Ng, Eric Rosolowsky, Nami Sakai, Anton Zensus</td>
+      <td>Adam Leroy</td>
+    </tr>
+    <tr>
+      <td>Bursts Of Star Formation And Radiation-Driven Outflows Produce Efficient   Lyc Leakage From Dense Compact Star Clusters</td>
+      <td>2408.14591</td>
+      <td><a href="https://arxiv.org/abs/2408.14591" target="_blank">https://arxiv.org/abs/2408.14591</a></td>
+      <td>Shyam H. Menon, Blakesley Burkhart, Rachel S. Somerville, Todd A. Thompson, Amiel Sternberg</td>
+      <td>Todd A. Thompson, Todd Thompson</td>
     </tr>
   </tbody>
 </table>
