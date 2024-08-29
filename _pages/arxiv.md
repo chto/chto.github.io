@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Aug 28 23:00:05 EDT 2024) "
+title: "Arxiv (Thu Aug 29 04:00:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Bursts Of Star Formation And Radiation-Driven Outflows Produce Efficient   Lyc Leakage From Dense Compact Star Clusters</td>
-      <td>2408.14591</td>
-      <td><a href="https://arxiv.org/abs/2408.14591" target="_blank">https://arxiv.org/abs/2408.14591</a></td>
-      <td>Shyam H. Menon, Blakesley Burkhart, Rachel S. Somerville, Todd A. Thompson, Amiel Sternberg</td>
-      <td>Todd A. Thompson, Todd Thompson</td>
-    </tr>
     <tr>
       <td>Measuring $\Sigma_8$ Using Desi Legacy Imaging Surveys Emission-Line   Galaxies And Planck Cmb Lensing And The Impact Of Dust On Parameter Inferenc</td>
       <td>2408.15909</td>
