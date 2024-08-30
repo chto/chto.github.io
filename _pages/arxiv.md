@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Aug 29 15:10:10 EDT 2024) "
+title: "Arxiv (Thu Aug 29 22:10:09 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,6 +14,13 @@ classes: wide
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>On The Origin Of The $10^7$ K Hot Emitting Gas In The Circumgalactic   Medium Of The Milky Way</td>
+      <td>2408.14344</td>
+      <td><a href="https://arxiv.org/abs/2408.14344" target="_blank">https://arxiv.org/abs/2408.14344</a></td>
+      <td>Mukesh Singh Bisht, Biman B. Nath, Smita Mathur</td>
+      <td>Smita Mathur</td>
+    </tr>
     <tr>
       <td>Measuring $\Sigma_8$ Using Desi Legacy Imaging Surveys Emission-Line   Galaxies And Planck Cmb Lensing And The Impact Of Dust On Parameter Inferenc</td>
       <td>2408.15909</td>
