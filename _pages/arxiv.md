@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sat Aug 31 15:10:10 EDT 2024) "
+title: "Arxiv (Sat Aug 31 22:10:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,12 +14,5 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>On The Origin Of The $10^7$ K Hot Emitting Gas In The Circumgalactic   Medium Of The Milky Way</td>
-      <td>2408.14344</td>
-      <td><a href="https://arxiv.org/abs/2408.14344" target="_blank">https://arxiv.org/abs/2408.14344</a></td>
-      <td>Mukesh Singh Bisht, Biman B. Nath, Smita Mathur</td>
-      <td>Smita Mathur</td>
-    </tr>
   </tbody>
 </table>
