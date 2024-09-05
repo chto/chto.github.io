@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Sep  4 15:10:15 EDT 2024) "
+title: "Arxiv (Thu Sep  5 04:00:50 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,32 +15,25 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Toward The First Cosmological Results Of The Nika2 Sunyaev-Zeldovich   Large Program: The Sz-Mass Scaling Relation</td>
-      <td>2409.00977</td>
-      <td><a href="https://arxiv.org/abs/2409.00977" target="_blank">https://arxiv.org/abs/2409.00977</a></td>
-      <td>A. Moyer-Anin, R. Adam, P. Ade, H. Ajeddig, P. André, E. Artis, H. Aussel, I. Bartalucci, A. Beelen, A. Benoît, S. Berta, L. Bing, B. Bolliet, O. Bourrion, M. Calvo, A. Catalano, M. De Petris, F. -X. Désert, S. Doyle, E. F. C. Driessen, G. Ejlali, A. Ferragamo, A. Gomez, J. Goupy, C. Hanser, S. Katsioli, F. Kéruzoré, C. Kramer, B. Ladjelate, G. Lagache, S. Leclercq, J. -F. Lestrade, J. F. Macías-Pérez, S. C. Madden, A. Maury, P. Mauskopf, F. Mayet, J. -B. Melin, A. Monfardini, M. Muñoz-Echeverría, A. Paliwal, L. Perotto, G. Pisano, E. Pointecouteau, N. Ponthieu, G. W. Pratt, V. Revéret, A. J. Rigby, A. Ritacco, C. Romero, H. Roussel, F. Ruppin, K. Schuster, A. Sievers, C. Tucker, G. Yepes</td>
-      <td>Alan Salcedo Gomez</td>
+      <td>An Earth-Mass Planet And A Brown Dwarf In Orbit Around A White Dwarf</td>
+      <td>2409.02157</td>
+      <td><a href="https://arxiv.org/abs/2409.02157" target="_blank">https://arxiv.org/abs/2409.02157</a></td>
+      <td>Keming Zhang, Weicheng Zang, Kareem El-Badry, Jessica R. Lu, Joshua S. Bloom, Eric Agol, B. Scott Gaudi, Quinn Konopacky, Natalie Lebaron, Shude Mao, Sean Terry</td>
+      <td>B. Scott Gaudi</td>
     </tr>
     <tr>
-      <td>Exploring The High-Density Reflection Model For The Soft Excess In Rbs   1124</td>
-      <td>2409.01395</td>
-      <td><a href="https://arxiv.org/abs/2409.01395" target="_blank">https://arxiv.org/abs/2409.01395</a></td>
-      <td>A. Madathil-Pottayil, D. J. Walton, Javier García, Jon Miller, Luigi C. Gallo, C. Ricci, Mark T. Reynolds, D. Stern, T. Dauser, Jiachen Jiang, William Alston, A. C. Fabian, M. J. Hardcastle, Peter Kosec, Emanuele Nardini, Christopher S. Reynolds</td>
-      <td>Mark Reynolds</td>
+      <td>The Hierarchical Growth Of Bright Central Galaxies And Intracluster   Light As Traced By The Magnitude Gap</td>
+      <td>2409.02184</td>
+      <td><a href="https://arxiv.org/abs/2409.02184" target="_blank">https://arxiv.org/abs/2409.02184</a></td>
+      <td>Jesse B. Golden-Marx, Y. Zhang, R. L. C. Ogando, B. Yanny, M. E. S. Pereira, M. Hilton, M. Aguena, S. Allam, F. Andrade-Oliveira, D. Bacon, D. Brooks, A. Carnero Rosell, J. Carretero, T. -Y. Cheng, L. N. Da Costa, J. De Vicente, S. Desai, P. Doel, S. Everett, I. Ferrero, J. Frieman, J. García-Bellido, M. Gatti, G. Giannini, D. Gruen, R. A. Gruendl, G. Gutierrez, S. R. Hinton, D. L. Hollowood, K. Honscheid, D. J. James, K. Kuehn, S. Lee, J. Mena-Fernández, F. Menanteau, R. Miquel, A. Palmese, A. Pieres, A. A. Plazas Malagón, S. Samuroff, E. Sanchez, M. Schubnell, I. Sevilla-Noarbe, M. Smith, E. Suchyta, G. Tarle, V. Vikram, A. R. Walker, N. Weaverdyck, P. Wiseman</td>
+      <td>Klaus Honscheid</td>
     </tr>
     <tr>
-      <td>Targeting 100-Pev Tau Neutrino Detection With An Array Of Phased And   High-Gain Reconstruction Antennas</td>
-      <td>2409.02042</td>
-      <td><a href="https://arxiv.org/abs/2409.02042" target="_blank">https://arxiv.org/abs/2409.02042</a></td>
-      <td>Stephanie Wissel, Andrew Zeolla, Cosmin Deaconu, Valentin Decoene, Kaeli Hughes, Zachary Martin, Katharine Mulrey, Austin Cummings, Rafael Alves Batista, Aurélien Benoit-Lévy, Mauricio Bustamante, Pablo Correa, Arsène Ferrière, Marion Guelfand, Tim Huege, Kumiko Kotera, Olivier Martineau, Kohta Murase, Valentin Niess, Jianli Zhang, Oliver Krömer, Kathryn Plant, Frank G. Schroeder</td>
-      <td>Kaeli Hughes</td>
-    </tr>
-    <tr>
-      <td>A Cosmic Formation Site Of Silicon And Sulphur Revealed By A New Type Of   Supernova Explosion</td>
-      <td>2409.02054</td>
-      <td><a href="https://arxiv.org/abs/2409.02054" target="_blank">https://arxiv.org/abs/2409.02054</a></td>
-      <td>Steve Schulze, Avishay Gal-Yam, Luc Dessart, Adam A. Miller, Stan E. Woosley, Yi Yang, Mattia Bulla, Ofer Yaron, Jesper Sollerman, Alexei V. Filippenko, K-Ryan Hinds, Daniel A. Perley, Daichi Tsuna, Ragnhild Lunnan, Nikhil Sarin, Sean J. Brennan, Thomas G. Brink, Rachel J. Bruch, Ping Chen, Kaustav K. Das, Suhail Dhawan, Claes Fransson, Christoffer Fremling, Anjasha Gangopadhyay, Ido Irani, Anders Jerkstrand, Nikola Knezevic, Doron Kushnir, Keiichi Maeda, Kate Maguire, Eran Ofek, Conor M. B. Omand, Yu-Jing Qin, Yashvi Sharma, Tawny Sit, Gokul P. Srinivasaragavan, Nora L. Strothjohann, Yuki Takei, Eli Waxman, Lin Yan, Yuhan Yao, Weikang Zheng, Erez A. Zimmerman, Eric C. Bellm, Michael W. Coughlin, Frank. J. Masci, Josiah Purdum, Mickael Rigault, Avery Wold, Shrinivas R. Kulkarni</td>
-      <td>Tawny Sit</td>
+      <td>Inferring Cosmological Parameters On Sdss Via Domain-Generalized Neural   Networks And Lightcone Simulations</td>
+      <td>2409.02256</td>
+      <td><a href="https://arxiv.org/abs/2409.02256" target="_blank">https://arxiv.org/abs/2409.02256</a></td>
+      <td>Jun-Young Lee, Ji-Hoon Kim, Minyong Jung, Boon Kiat Oh, Yongseok Jo, Songyoun Park, Jaehyun Lee, Yuan-Sen Ting, Ho Seong Hwang</td>
+      <td>Yuan-Sen Ting</td>
     </tr>
   </tbody>
 </table>
