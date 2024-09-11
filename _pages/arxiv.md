@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Sep 10 15:10:15 EDT 2024) "
+title: "Arxiv (Tue Sep 10 22:11:16 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -36,13 +36,6 @@ classes: wide
       <td>Jung-Tsung Li</td>
     </tr>
     <tr>
-      <td>Stellar Reddening Map From Desi Imaging And Spectroscopy</td>
-      <td>2409.05140</td>
-      <td><a href="https://arxiv.org/abs/2409.05140" target="_blank">https://arxiv.org/abs/2409.05140</a></td>
-      <td>Rongpu Zhou, Julien Guy, Sergey E. Koposov, Edward F. Schlafly, David Schlegel, Jessica Aguilar, Steven Ahlen, Stephen Bailey, David Bianchi, David Brooks, Edmond Chaussidon, Todd Claybaugh, Kyle Dawson, Axel De La Macorra, Biprateep Dey, Daniel J. Eisenstein, Simone Ferraro, Andreu Font-Ribera, Jaime E. Forero-Romero, Enrique Gaztañaga, Satya Gontcho A Gontcho, Gaston Gutierrez, Klaus Honscheid, Stephanie Juneau, Robert Kehoe, David Kirkby, Theodore Kisner, Anthony Kremin, Andrew Lambert, Martin Landriau, Laurent Le Guillou, Michael E. Levi, Ting S. Li, Marc Manera, Paul Martini, Aaron Meisner, Ramon Miquel, John Moustakas, Adam D. Myers, Jeffrey A. Newman, Gustavo Niz, Nathalie Palanque-Delabrouille, Will J. Percival, Claire Poppett, Francisco Prada, Anand Raichoor, Ashley J. Ross, Graziano Rossi, Eusebio Sanchez, Andrew K. Saydjari, Michael Schubnell, David Sprayberry, Gregory Tarl, Benjamin A. Weaver, Pauline Zarrouk, Hu Zou</td>
-      <td>Ashley Ross, Klaus Honscheid, Paul Martini</td>
-    </tr>
-    <tr>
       <td>True Unicorns And False Positives: Simulated Probabilities Of Dark   Massive Companions To Bright Stars</td>
       <td>2409.05190</td>
       <td><a href="https://arxiv.org/abs/2409.05190" target="_blank">https://arxiv.org/abs/2409.05190</a></td>
@@ -55,6 +48,20 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2409.05682" target="_blank">https://arxiv.org/abs/2409.05682</a></td>
       <td>J. Chaves-Montero, L. Cabayol-Garcia, M. Lokken, A. Font-Ribera, J. Aguilar, S. Ahlen, D. Bianchi, D. Brooks, T. Claybaugh, S. Cole, A. De La Macorra, S. Ferraro, J. E. Forero-Romero, E. Gaztañaga, S. Gontcho A Gontcho, G. Gutierrez, K. Honscheid, R. Kehoe, D. Kirkby, A. Kremin, A. Lambert, M. Landriau, M. Manera, P. Martini, R. Miquel, A. Muñoz-Gutiérrez, G. Niz, I. Pérez-Ràfols, G. Rossi, E. Sanchez, M. Schubnell, D. Sprayberry, G. Tarlé, B. A. Weaver</td>
       <td>Klaus Honscheid, Paul Martini</td>
+    </tr>
+    <tr>
+      <td>Cosmological Gravity On All Scales Iv: 3X2Pt Fisher Forecasts For   Pixelised Phenomenological Modified Gravity</td>
+      <td>2409.06569</td>
+      <td><a href="https://arxiv.org/abs/2409.06569" target="_blank">https://arxiv.org/abs/2409.06569</a></td>
+      <td>Sankarshana Srinivasan, Daniel B Thomas, Peter L. Taylor</td>
+      <td>Peter Taylor</td>
+    </tr>
+    <tr>
+      <td>Magnetic Fields In A Sample Of Planet-Hosting M Dwarf Stars From Kepler,   K2, And Tess Observed By Apogee</td>
+      <td>2409.06637</td>
+      <td><a href="https://arxiv.org/abs/2409.06637" target="_blank">https://arxiv.org/abs/2409.06637</a></td>
+      <td>Fábio Wanderley, Katia Cunha, Verne Smith, Oleg Kochukhov, Diogo Souto, Carlos Allende Prieto, Suvrath Mahadevan, Steven Majewski, Philip Muirhead, Marc Pinsonneault, Ryan Terrien</td>
+      <td>Marc Pinsonneault</td>
     </tr>
   </tbody>
 </table>
