@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Sep 22 15:10:06 EDT 2024) "
+title: "Arxiv (Sun Sep 22 22:10:16 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -15,11 +15,11 @@ classes: wide
   </thead>
   <tbody>
     <tr>
-      <td>Observations Of Microlensed Images With Dual-Field Interferometry:   On-Sky Demonstration And Prospects</td>
-      <td>2409.12227</td>
-      <td><a href="https://arxiv.org/abs/2409.12227" target="_blank">https://arxiv.org/abs/2409.12227</a></td>
-      <td>P. Mroz, S. Dong, A. Merand, J. Shangguan, J. Woillez, A. Gould, A. Udalski, F. Eisenhauer, Y. -H. Ryu, Z. Wu, Z. Liu, H. Yang, G. Bourdarot, D. Defrere, A. Drescher, M. Fabricius, P. Garcia, R. Genzel, S. Gillessen, S. F. Honig, L. Kreidberg, J. -B. Le Bouquin, D. Lutz, F. Millour, T. Ott, T. Paumard, J. Sauter, T. T. Shimizu, C. Straubmeier, M. Subroweit, F. Widmann, M. K. Szymanski, I. Soszynski, P. Pietrukowicz, S. Kozlowski, R. Poleski, J. Skowron, K. Ulaczyk, M. Gromadzki, K. Rybicki, P. Iwanek, M. Wrona, M. J Mroz, M. D. Albrow, S. -J. Chung, C. Han, K. -H. Hwang, Y. K. Jung, I. -G. Shin, Y. Shvartzvald, J. C. Yee, W. Zang, S. -M. Cha, D. -J. Kim, S. -L. Kim, C. -U. Lee, D. -J. Lee, Y. Lee, B. -G. Park, R. W. Pogge</td>
-      <td>Richard Pogge</td>
+      <td>First Resolution Of Microlensed Images Of A Binary-Lens Event</td>
+      <td>2409.13015</td>
+      <td><a href="https://arxiv.org/abs/2409.13015" target="_blank">https://arxiv.org/abs/2409.13015</a></td>
+      <td>Zexuan Wu, Subo Dong, A. Mérand, Christopher S. Kochanek, Przemek Mróz, Jinyi Shangguan, Grant Christie, Thiam-Guan Tan, Thomas Bensby, Joss Bland-Hawthorn, Sven Buder, Frank Eisenhauer, Andrew P. Gould, Janez Kos, Tim Natusch, Sanjib Sharma, Andrzej Udalski, J. Woillez, David A. H. Buckley, I. B. Thompson, Karim Abd El Dayem, Evelyne Alecian, Carine Babusiaux, Anthony Berdeu, Jean-Philippe Berger, Guillaume Bourdarot, Wolfgang Brandner, Maica Clavel, Richard I. Davies, Denis Defrère, Catherine Dougados, Antonia Drescher, Andreas Eckart, Maximilian Fabricius, Helmut Feuchtgruber, Natascha M. Förster Schreiber, Paulo Garcia, Reinhard Genzel, Stefan Gillessen, Gernot Heißel, Sebastian Hönig, Mathis Houlle, Pierre Kervella, Laura Kreidberg, Sylvestre Lacour, Olivier Lai, Romain Laugier, Jean-Baptiste Le Bouquin, James Leftley, Bruno Lopez, Dieter Lutz, Felix Mang, Florentin Millour, Miguel Montargès, Hugo Nowacki, Mathias Nowak, Thomas Ott, Thibaut Paumard, Karine Perraut, Guy Perrin, Romain Petrov, Pierre-Olivier Petrucci, Nicolas Pourre, Sebastian Rabien, Diogo C. Ribeiro, Sylvie Robbe-Dubois, Matteo Sadun Bordoni, Daryl Santos, Jonas Sauter, Jules Scigliuto, Taro T. Shimizu, Christian Straubmeier, Eckhard Sturm, Matthias Subroweit, Calvin Sykes, Linda Tacconi, Frédéric Vincent, Felix Widmann</td>
+      <td>Christopher Kochanek</td>
     </tr>
   </tbody>
 </table>
