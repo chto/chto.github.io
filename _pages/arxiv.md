@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Sep 24 15:10:06 EDT 2024) "
+title: "Arxiv (Tue Sep 24 22:10:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -20,6 +20,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2409.14807" target="_blank">https://arxiv.org/abs/2409.14807</a></td>
       <td>Zechang Sun, Yuan-Sen Ting, Yaobo Liang, Nan Duan, Song Huang, Zheng Cai</td>
       <td>Yuan-Sen Ting</td>
+    </tr>
+    <tr>
+      <td>Capability Of Searching For Kilonova Associated With A Short Gamma-Ray   Burst By Svom</td>
+      <td>2409.15653</td>
+      <td><a href="https://arxiv.org/abs/2409.15653" target="_blank">https://arxiv.org/abs/2409.15653</a></td>
+      <td>J. Wang, L. P. Xin, Y. L. Qiu, L. Lan, W. J. Xie, Z. P. Jin, J. Y. Wei</td>
+      <td>Ji Wang</td>
     </tr>
   </tbody>
 </table>
