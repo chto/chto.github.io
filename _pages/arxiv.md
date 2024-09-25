@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Sep 24 23:01:31 EDT 2024) "
+title: "Arxiv (Wed Sep 25 04:00:05 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Interpreting Multi-Band Galaxy Observations With Large Language   Model-Based Agents</td>
-      <td>2409.14807</td>
-      <td><a href="https://arxiv.org/abs/2409.14807" target="_blank">https://arxiv.org/abs/2409.14807</a></td>
-      <td>Zechang Sun, Yuan-Sen Ting, Yaobo Liang, Nan Duan, Song Huang, Zheng Cai</td>
-      <td>Yuan-Sen Ting</td>
-    </tr>
     <tr>
       <td>Capability Of Searching For Kilonova Associated With A Short Gamma-Ray   Burst By Svom</td>
       <td>2409.15653</td>
