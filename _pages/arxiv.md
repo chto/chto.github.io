@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Thu Sep 26 22:10:47 EDT 2024) "
+title: "Arxiv (Thu Sep 26 23:00:12 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,5 +14,12 @@ classes: wide
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Where Is The Super-Virial Gas? The Supply From Hot Inflows</td>
+      <td>2409.17252</td>
+      <td><a href="https://arxiv.org/abs/2409.17252" target="_blank">https://arxiv.org/abs/2409.17252</a></td>
+      <td>Manami Roy, Kung-Yi Su, Smita Mathur, Jonathan Stern</td>
+      <td>Smita Mathur</td>
+    </tr>
   </tbody>
 </table>
