@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Sun Oct 13 22:10:03 EDT 2024) "
+title: "Arxiv (Sun Oct 13 23:00:03 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,12 +14,5 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Double-Lined Spectroscopic Binaries From The Lamost Low-Resolution   Survey</td>
-      <td>2410.07637</td>
-      <td><a href="https://arxiv.org/abs/2410.07637" target="_blank">https://arxiv.org/abs/2410.07637</a></td>
-      <td>Junhui Liu, Bo Zhang, Jianfeng Wu, Yuan-Sen Ting</td>
-      <td>Yuan-Sen Ting</td>
-    </tr>
   </tbody>
 </table>
