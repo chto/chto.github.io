@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Tue Oct 15 15:10:06 EDT 2024) "
+title: "Arxiv (Tue Oct 15 22:10:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -27,6 +27,13 @@ classes: wide
       <td><a href="https://arxiv.org/abs/2410.09518" target="_blank">https://arxiv.org/abs/2410.09518</a></td>
       <td>D. Zhao, J. P. Yuan, N. Wang, D. Li, P. Wang, M. Y. Xue, W. W. Zhu, C. C. Miao, W. M. Yan, J. B. Wang, J. M. Yao, Q. D. Wu, S. Q. Wang, S. N. Sun, F. F. Kou, Y. T. Chen, S. J. Dang, Y. Feng, Z. J. Liu, X. L. Miao, L. Q. Meng, M. Yuan, C. H. Niu, J. R. Niu, L. Qian, S. Wang, X. Y. Xie, Y. F. Xiao, Y. L. Yue, S. P. You, X. H. Yu, R. S. Zhao, R. Yuen, X. Zhou, L. Zhang, M. Xie, Y. X. Li, C. J. Wang, Z. K. Luo, Z. Y. Gan, Z. Y. Sun, M. M. Chi, C. J. Wang</td>
       <td>Ji Wang</td>
+    </tr>
+    <tr>
+      <td>A First-Look At Spatially-Resolved Infrared Supernova Remnants In M33   With Jwst</td>
+      <td>2410.11821</td>
+      <td><a href="https://arxiv.org/abs/2410.11821" target="_blank">https://arxiv.org/abs/2410.11821</a></td>
+      <td>Sumit K. Sarbadhicary, Erik Rosolowsky, Adam K. Leroy, Thomas G. Williams, Eric W. Koch, Joshua Peltonen, Adam Smercina, Julianne J. Dalcanton, Simon C. O. Glover, Margaret Lazzarini, Ryan Chown, Jennifer Donovan Meyer, Karin Sandstrom, Benjamin F. Williams, Elizabeth Tarantino</td>
+      <td>Adam Leroy</td>
     </tr>
   </tbody>
 </table>
