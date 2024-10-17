@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Wed Oct 16 23:00:07 EDT 2024) "
+title: "Arxiv (Thu Oct 17 04:00:04 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -14,13 +14,6 @@ classes: wide
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>A First-Look At Spatially-Resolved Infrared Supernova Remnants In M33   With Jwst</td>
-      <td>2410.11821</td>
-      <td><a href="https://arxiv.org/abs/2410.11821" target="_blank">https://arxiv.org/abs/2410.11821</a></td>
-      <td>Sumit K. Sarbadhicary, Erik Rosolowsky, Adam K. Leroy, Thomas G. Williams, Eric W. Koch, Joshua Peltonen, Adam Smercina, Julianne J. Dalcanton, Simon C. O. Glover, Margaret Lazzarini, Ryan Chown, Jennifer Donovan Meyer, Karin Sandstrom, Benjamin F. Williams, Elizabeth Tarantino</td>
-      <td>Adam Leroy</td>
-    </tr>
     <tr>
       <td>The Cool Brown Dwarf Gliese 229 B Is A Close Binary</td>
       <td>2410.11953</td>
