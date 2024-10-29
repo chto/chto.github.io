@@ -1,6 +1,6 @@
 ---
 permalink: /Arxiv/
-title: "Arxiv (Mon Oct 28 15:10:07 EDT 2024) "
+title: "Arxiv (Mon Oct 28 22:10:06 EDT 2024) "
 classes: wide
 ---
 <table border="1" class="dataframe">
@@ -26,6 +26,13 @@ classes: wide
       <td>2410.19390</td>
       <td><a href="https://arxiv.org/abs/2410.19390" target="_blank">https://arxiv.org/abs/2410.19390</a></td>
       <td>Qiufan Lin, Hengxin Ruan, Dominique Fouchez, Shupei Chen, Rui Li, Paulo Montero-Camacho, Nicola R. Napolitano, Yuan-Sen Ting, Wei Zhang</td>
+      <td>Yuan-Sen Ting</td>
+    </tr>
+    <tr>
+      <td>C3Po Iii: On The Lithium Signatures Following Planet Engulfment By Stars</td>
+      <td>2410.20632</td>
+      <td><a href="https://arxiv.org/abs/2410.20632" target="_blank">https://arxiv.org/abs/2410.20632</a></td>
+      <td>Qinghui Sun, Yuan-Sen Ting, Fan Liu, Sharon Xuesong Wang, Barbara J. Anthony-Twarog, Bruce A. Twarog, Jia-Yi Yang, Di-Chang Chen, Amanda I. Karakas, Ji-Wei Xie, David Yong</td>
       <td>Yuan-Sen Ting</td>
     </tr>
   </tbody>
