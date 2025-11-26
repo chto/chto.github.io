@@ -5,27 +5,14 @@ classes: wide
 
 ---
 <p align="justify">
-My main research interests are studying the formation and evolution of large-scale structures in our universe and how they affect the evolution of galaxies. Some specific projects I have been working on are listed below.
+I am an observational astrophysicist who studies the growth of cosmic structure and galaxy evolution using large survey data. 
+
+Some specific projects I have been working on are listed below.
 </p>
-<h2 id="Multi-probe cluster cosmology">Multi-probe cluster cosmology</h2>
+<h2 id="Multi-probe cluster cosmology">Multi-probe cluster cosmology from galaxy survey</h2>
 <p align="justify">
 I develop and validate a novel method for cluster cosmology, which not only provides a way to constrain cosmology using photometrically-selected galaxy clusters but also enables the combination of cluster abundances and other cosmological probes in wide imaging surveys.
- Specifically, I propose to jointly model the abundance of galaxy clusters and large-scale two-point correlations, namely galaxy clustering, galaxy–cluster cross-correlations, cluster clustering, and cluster lensing.
-</p>
-<h4 id="Simulation validation">Simulation validation</h4>
-<p align="justify">
-To validate the pipeline, in <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200810757T/abstract">To, Krause et al. 2020a</a>, we present the first end-to-end simulation validation of a cluster abundance cosmology analysis on galaxy catalog-level simulations. 
-</p>
-<!--<p style="font-size:80%;">-->
-<a href="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" class="image resize" data-lightbox="image-1" data-title="Illustration of probe combination framework."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/floatchart.png" alt="" /></a>
-
-<h4 id="Application on data">Application on data</h4>
-<div class="square">
-   <figure style="width: 500px" class="align-right">
-   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/4x2pt_N.png" class="image resize" data-lightbox="image-1" data-title="Cosmological constraints from joint analysis of clusters, galaxies, and shears."><img src="{{ site.url }}{{ site.baseurl }}/assets/images/4x2pt_N.png" align="left"></a>
-   </figure>
-<p align="justify">
-We apply the method on the DES-Y1 data (<a href="https://ui.adsabs.harvard.edu/abs/2021PhRvL.126n1301T/abstract">To, Krause et al. 2020b</a>). This analysis presents the first joint analyses of clusters, galaxies and shears. 
+ Specifically, I propose to jointly model the abundance of galaxy clusters and large-scale two-point correlations, namely galaxy clustering, galaxy–cluster cross-correlations, cluster clustering, and cluster lensing. I have led this analysis for DES-Y1 (<a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200810757T/abstract">To, Krause et al. 2020a</a>, <a href="https://ui.adsabs.harvard.edu/abs/2021PhRvL.126n1301T/abstract">To, Krause et al. 2020b</a>) and DES-Y3 (<a href="https://ui.adsabs.harvard.edu/abs/2025PhRvD.112f3537T/abstract">To et al. 2025</a> <a href="https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3535A/abstract">DES et al. 2025</a>). I am now leading the final DES analysis of clusters, galaxies, weak lensing, and SN to test evolving dark energy. 
 </p>
 
 <h2 id ="Machine learning based likelihood evaluation tools"> Machine learning based likelihood evaluation tools </h2>
