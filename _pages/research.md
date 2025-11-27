@@ -14,7 +14,7 @@ These pillars are supported by simulation and machine-learning–based inference
 </p>
 
 <h2 id="multi-probe-cluster-cosmology">Multi-probe cluster cosmology with galaxy surveys</h2>
-<p align="justify">
+<p align="">
 I develop and validate a framework for cluster cosmology that treats galaxy clusters as part of the full large-scale structure rather than as isolated objects.
 This approach not only enables precision constraints from photometrically selected clusters, but also naturally combines cluster information with other probes in wide imaging surveys.
 Specifically, I jointly model the abundance of galaxy clusters and a set of large-scale two-point correlations: galaxy clustering, galaxy–cluster cross-correlations, cluster clustering, and cluster–galaxy weak lensing.
