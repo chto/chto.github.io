@@ -4,7 +4,7 @@ title: "Research"
 classes: wide
 ---
 
-<p align="justify">
+<p align="">
 I am an observational astrophysicist who studies the growth of cosmic structure and galaxy evolution using large survey data.
 My research program is organized around three interconnected pillars:
 (1) multi-probe cluster cosmology with wide-field surveys,
@@ -29,12 +29,12 @@ I am now leading the final DES multiprobe analysis combining clusters, galaxies,
 
 
 <h2 id="baryonic-feedback">Baryonic feedback and small-scale weak lensing</h2>
-<p align="justify">
+<p align="">
 Baryonic feedback from processes such as AGN activity and supernovae redistributes matter on nonlinear scales and currently limits the cosmological information we can extract from small-scale weak-lensing measurements.
 Galaxy clusters uniquely encode this baryon physics and therefore provide a natural calibration channel for weak-lensing cosmology with surveys like Rubin LSST and Roman.
 </p>
 
-<p align="justify">
+<p align="">
 In <a href="https://ui.adsabs.harvard.edu/abs/2024JCAP...03..037T/abstract">To et al. 2024b</a>,
 I developed a fully differentiable framework that links baryonic physics—encoded in cluster mass–tSZ scaling relations—to its impact on the total matter distribution.
 Using SPT and DES data, this approach is expected to constrain baryonic feedback at the <em>∼2&nbsp;%</em> level and to recover nearly one-third of the statistical power currently excluded from weak-lensing analyses, effectively equivalent to doubling the survey area.
@@ -52,12 +52,12 @@ delivering the first observational constraint on baryonic feedback from tSZ-sele
     </a>
   </figure>
 
-  <p align="justify">
+  <p align="">
   When using galaxy properties to infer the underlying dark matter distribution and constrain cosmological parameters, it is crucial to understand the connection between galaxies and their host dark matter halos.
   I study this galaxy–halo connection across mass scales using weak gravitational lensing with careful control of systematics.
   </p>
 
-  <p align="justify">
+  <p align="">
   At high halo masses, I have constrained the galaxy–halo connection using galaxy clusters in the Sloan Digital Sky Survey (SDSS;
   <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...897...15T/abstract">To et al. 2020b</a>).
   At low masses, I use dwarf galaxies from the Dark Energy Spectroscopic Instrument (DESI;
@@ -68,7 +68,7 @@ delivering the first observational constraint on baryonic feedback from tSZ-sele
 </div>
 
 <h2 id="methods-tools">Methods and tools: simulations and ML-based inference</h2>
-<p align="justify">
+<p align="">
 To make these analyses feasible for current and next-generation surveys, I also develop computational tools and simulations.
 In particular, we have built a neural-network–based likelihood evaluation tool
 (<a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...01..016T/abstract">To et al. 2022</a>)
