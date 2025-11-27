@@ -48,7 +48,7 @@ delivering the first observational constraint on baryonic feedback from tSZ-sele
 <div class="square">
   <figure style="width: 500px" class="align-right">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/decade.png" class="image resize" data-lightbox="image-1" data-title="Constraints on the galaxy–halo connection.">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/CLF.png" align="left">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/decade.png" align="left">
     </a>
   </figure>
 
@@ -74,6 +74,7 @@ In particular, we have built a neural-network–based likelihood evaluation tool
 (<a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...01..016T/abstract">To et al. 2022</a>)
 that emulates the mapping between cosmological parameters and summary statistics, enabling fast and accurate Bayesian inference.
 These methods are validated on DES Year 1 data as well as simulated Rubin LSST Year 10 data and are being integrated into the cluster cosmology and baryonic-feedback programs described above.
-I am also involved in the development of high-fidelity mock catalogs for DES, Roman, and LSST, which provide the end-to-end validation needed for precision cosmology.
+I am also involved in the development of high-fidelity mock catalogs for DES, Roman, and LSST, which provide the end-to-end validation needed for precision cosmology (See
+<a href="https://chunhaoto.com/cardinalsim/" target="_blank" rel="noopener noreferrer">the Cardinal mock catalog page</a> for details).
 </p>
 
