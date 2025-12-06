@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Chun-Hao To's Personal Webpage
 email: chunhaoto@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-This is Chun-Hao To's Personal Webpage
+description: his is Chun-Hao To's Personal Webpage # this means to ignore newlines until "baseurl:"
 github_username: chto
 minimal_mistakes_skin: default
 search: False
