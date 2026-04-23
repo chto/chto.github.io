@@ -4128,6 +4128,15 @@ input, select, textarea {
 		text-align: left;
 	}
 
+	/* Mentoring section: left-align text */
+	#mentoring-content.special {
+		text-align: left;
+	}
+
+	#mentoring-content.special header.major p {
+		text-align: left;
+	}
+
 	/* Responsive */
 	@media screen and (max-width: 980px) {
 		#banner .content {
