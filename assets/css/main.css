@@ -2709,43 +2709,43 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(20, 16, 24, 0.06);
+			background-color: rgba(20, 16, 24, 0.77);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(20, 16, 24, 0.12);
+			background-color: rgba(20, 16, 24, 0.79);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(20, 16, 24, 0.18);
+			background-color: rgba(20, 16, 24, 0.81);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(20, 16, 24, 0.24);
+			background-color: rgba(20, 16, 24, 0.83);
 		}
 
 		.spotlight:nth-child(5) {
-			background-color: rgba(20, 16, 24, 0.3);
+			background-color: rgba(20, 16, 24, 0.85);
 		}
 
 		.spotlight:nth-child(6) {
-			background-color: rgba(20, 16, 24, 0.36);
+			background-color: rgba(20, 16, 24, 0.87);
 		}
 
 		.spotlight:nth-child(7) {
-			background-color: rgba(20, 16, 24, 0.42);
+			background-color: rgba(20, 16, 24, 0.89);
 		}
 
 		.spotlight:nth-child(8) {
-			background-color: rgba(20, 16, 24, 0.48);
+			background-color: rgba(20, 16, 24, 0.91);
 		}
 
 		.spotlight:nth-child(9) {
-			background-color: rgba(20, 16, 24, 0.54);
+			background-color: rgba(20, 16, 24, 0.93);
 		}
 
 		.spotlight:nth-child(10) {
-			background-color: rgba(20, 16, 24, 0.6);
+			background-color: rgba(20, 16, 24, 0.95);
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2823,7 +2823,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: rgba(22, 20, 28, 0.85);
+			background-color: rgba(22, 20, 28, 0.92);
 			color: #e0dcd4;
 		}
 
@@ -2982,11 +2982,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: rgba(18, 16, 22, 0.8);
+			background-color: rgba(18, 16, 22, 0.93);
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(25, 22, 32, 0.85);
+			background-color: rgba(25, 22, 32, 0.92);
 			color: #e0dcd4;
 		}
 
