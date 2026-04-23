@@ -2777,7 +2777,7 @@ input, select, textarea {
 				.spotlight .content {
 					padding: 4em 3em 2em 3em ;
 					max-width: none;
-					text-align: center;
+					text-align: left;
 					width: 100%;
 				}
 
