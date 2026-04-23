@@ -4147,4 +4147,8 @@ input, select, textarea {
 		#mentoring-content .spotlight .image {
 			width: 100%;
 		}
+
+		section.special, article.special {
+			text-align: left;
+		}
 	}
