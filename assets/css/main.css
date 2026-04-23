@@ -3396,6 +3396,14 @@ input, select, textarea {
 					outline: 0;
 					text-decoration: none;
 					text-transform: uppercase;
+					-moz-transition: color 0.2s ease;
+					-webkit-transition: color 0.2s ease;
+					-ms-transition: color 0.2s ease;
+					transition: color 0.2s ease;
+				}
+
+				#menu ul > li > a:hover {
+					color: #d4a853;
 				}
 
 					@media screen and (max-width: 736px) {
