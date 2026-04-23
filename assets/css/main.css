@@ -4119,6 +4119,15 @@ input, select, textarea {
 		width: 25%;
 	}
 
+	/* About section: left-align text */
+	#about.special {
+		text-align: left;
+	}
+
+	#about.special header.major p {
+		text-align: left;
+	}
+
 	/* Responsive */
 	@media screen and (max-width: 980px) {
 		#banner .content {
