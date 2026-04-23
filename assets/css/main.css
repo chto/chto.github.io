@@ -4143,4 +4143,8 @@ input, select, textarea {
 		.nav-table-item:last-child {
 			border-bottom: none;
 		}
+
+		#mentoring-content .spotlight .image {
+			width: 100%;
+		}
 	}
