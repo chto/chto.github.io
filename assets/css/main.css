@@ -4151,4 +4151,9 @@ input, select, textarea {
 		section.special, article.special {
 			text-align: left;
 		}
+
+		#about .inner,
+		#about header.major {
+			text-align: left;
+		}
 	}
