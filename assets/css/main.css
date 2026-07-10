@@ -4053,6 +4053,7 @@ input, select, textarea {
 		color: #fff;
 		text-decoration: none;
 		text-align: center;
+		white-space: nowrap;
 		border-right: 1px solid rgba(212, 168, 83, 0.3);
 		transition: background 0.2s ease;
 	}
