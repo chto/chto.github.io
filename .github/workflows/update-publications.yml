@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: '0 6 * * 1'   # Every Monday 6am UTC
-  workflow_dispatch:        # Allow manual trigger from GitHub UI
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -20,11 +20,7 @@ jobs:
           curl -sf \
             "https://api.adsabs.harvard.edu/v1/search/query?q=author%3A%22To%2C+Chun-Hao%22+database%3Aastronomy&fl=title,author,year,bibcode,abstract,identifier,pub,volume,page&sort=date+desc&rows=250" \
             -H "Authorization: Bearer $ADS_TOKEN" \
-            | python3 -c "
-import json, sys
-d = json.load(sys.stdin)
-print(json.dumps(d['response']['docs'], ensure_ascii=False, indent=2))
-" > assets/data/publications.json
+            | jq '.response.docs' > assets/data/publications.json
 
       - name: Commit if changed
         run: |
