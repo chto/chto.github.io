@@ -1,0 +1,442 @@
+/* ─── Publications styles (shared: index.html chart + publications.html list) ── */
+
+/* ── publications.html: push content below fixed header ─────────── */
+.pub-page-banner {
+    padding-top: 5em;
+}
+
+/* ─────────────────────────────────────────────────────────────────
+   INDEX PAGE — donut chart overview
+   ───────────────────────────────────────────────────────────────── */
+
+.pub-overview {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2.5em;
+}
+
+/* ── Chart wrapper ── */
+.pub-chart-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5em;
+}
+
+.pub-chart-container {
+    position: relative;
+    width: 260px;
+    height: 260px;
+    flex-shrink: 0;
+}
+
+.pub-chart-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Center label inside the donut hole */
+.pub-chart-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    pointer-events: none;
+}
+
+.pub-chart-number {
+    font-size: 2.2em;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+}
+
+.pub-chart-label {
+    font-size: 0.72em;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(224, 220, 212, 0.5);
+    margin-top: 0.2em;
+}
+
+/* ── Legend ── */
+.pub-chart-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45em;
+    min-width: 200px;
+}
+
+.pub-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6em;
+    cursor: pointer;
+    padding: 0.25em 0.5em;
+    border-radius: 4px;
+    transition: background 0.15s;
+    font-size: 0.84em;
+}
+
+.pub-legend-item:hover {
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.pub-legend-dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.pub-legend-name {
+    flex: 1;
+    color: rgba(224, 220, 212, 0.82);
+}
+
+.pub-legend-count {
+    font-size: 0.85em;
+    color: rgba(224, 220, 212, 0.45);
+    font-variant-numeric: tabular-nums;
+}
+
+/* ── Summary stats beside chart ── */
+.pub-overview-stats {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pub-stat-loading {
+    color: rgba(224, 220, 212, 0.4);
+    font-size: 0.85em;
+}
+
+.pub-stat-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6em;
+}
+
+.pub-stat-item {
+    text-align: center;
+}
+
+.pub-stat-number {
+    font-size: 2em;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+}
+
+.pub-stat-desc {
+    font-size: 0.72em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(224, 220, 212, 0.45);
+    margin-top: 0.3em;
+}
+
+/* ── Button row ── */
+.pub-ads-link {
+    text-align: center;
+    margin-top: 1em;
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Make the primary "Browse" button use the gold accent */
+.pub-ads-link .button.primary {
+    background-color: #d4a853;
+    border-color: #d4a853;
+    color: #1a1622;
+}
+
+.pub-ads-link .button.primary:hover {
+    background-color: #e0b86a;
+    border-color: #e0b86a;
+}
+
+/* ─────────────────────────────────────────────────────────────────
+   PUBLICATIONS PAGE — full list
+   ───────────────────────────────────────────────────────────────── */
+
+#publications-content .inner {
+    max-width: 960px;
+}
+
+/* ── Search & year filter controls ── */
+.pub-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5em;
+}
+
+.pub-search {
+    padding: 0.5em 1em;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.05);
+    color: #e0dcd4;
+    font-family: inherit;
+    font-size: 0.85em;
+    width: 240px;
+    transition: border-color 0.2s;
+    outline: none;
+}
+
+.pub-search:focus {
+    border-color: #d4a853;
+}
+
+.pub-search::placeholder {
+    color: rgba(224, 220, 212, 0.38);
+}
+
+.pub-year-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    justify-content: center;
+}
+
+.pub-year-btn {
+    padding: 0.28em 0.75em;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 20px;
+    background: transparent;
+    color: rgba(224, 220, 212, 0.7);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.78em;
+    letter-spacing: 0.04em;
+    transition: background 0.18s, border-color 0.18s, color 0.18s;
+}
+
+.pub-year-btn:hover {
+    border-color: #d4a853;
+    color: #d4a853;
+}
+
+.pub-year-btn.active {
+    background: #d4a853;
+    border-color: #d4a853;
+    color: #1a1622;
+    font-weight: 600;
+}
+
+/* ── Stats line ── */
+.pub-stats {
+    text-align: center;
+    font-size: 0.78em;
+    color: rgba(224, 220, 212, 0.45);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 1.5em;
+}
+
+/* ── Card list ── */
+.pub-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7em;
+    text-align: left;
+}
+
+/* ── Card ── */
+.pub-card {
+    display: flex;
+    gap: 0;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 7px;
+    overflow: hidden;
+    transition: border-color 0.2s, background 0.2s;
+}
+
+.pub-card:hover {
+    background: rgba(255, 255, 255, 0.055);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Colored left stripe = topic color */
+.pub-topic-dot {
+    width: 4px;
+    flex-shrink: 0;
+    border-radius: 7px 0 0 7px;
+    opacity: 0.75;
+}
+
+.pub-card-body {
+    padding: 1em 1.3em 0.85em;
+    flex: 1;
+    min-width: 0;
+}
+
+/* Gold stripe for first-author */
+.pub-card.first-author .pub-topic-dot {
+    opacity: 1;
+}
+
+/* ── Card fields ── */
+.pub-title {
+    font-size: 0.93em;
+    font-weight: 600;
+    line-height: 1.45;
+    margin: 0 0 0.3em;
+    color: #fff;
+}
+
+.pub-title a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.15s;
+}
+
+.pub-title a:hover {
+    color: #d4a853;
+}
+
+.pub-authors {
+    font-size: 0.80em;
+    color: rgba(224, 220, 212, 0.65);
+    line-height: 1.5;
+    margin-bottom: 0.22em;
+}
+
+.pub-authors strong {
+    color: #e8e4dc;
+    font-weight: 600;
+}
+
+.pub-journal {
+    font-size: 0.76em;
+    color: rgba(224, 220, 212, 0.42);
+    font-style: italic;
+    margin-bottom: 0.6em;
+}
+
+/* ── Link badges ── */
+.pub-badges {
+    display: flex;
+    gap: 0.4em;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.pub-badge {
+    display: inline-block;
+    padding: 0.15em 0.55em;
+    border-radius: 3px;
+    font-size: 0.70em;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-decoration: none;
+    border: 1px solid;
+    transition: background 0.15s, color 0.15s;
+    line-height: 1.7;
+}
+
+.pub-badge:hover {
+    border-bottom: 1px solid;
+}
+
+.pub-badge.ads {
+    border-color: #5b8fc9;
+    color: #7aaee0;
+}
+
+.pub-badge.ads:hover {
+    background: #5b8fc9;
+    color: #fff;
+}
+
+.pub-badge.arxiv {
+    border-color: #c06060;
+    color: #d98080;
+}
+
+.pub-badge.arxiv:hover {
+    background: #c06060;
+    color: #fff;
+}
+
+.pub-abstract-btn {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 3px;
+    color: rgba(224, 220, 212, 0.45);
+    font-size: 0.70em;
+    font-family: inherit;
+    letter-spacing: 0.07em;
+    padding: 0.15em 0.55em;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+    line-height: 1.7;
+}
+
+.pub-abstract-btn:hover,
+.pub-abstract-btn.open {
+    border-color: rgba(255, 255, 255, 0.45);
+    color: #e0dcd4;
+}
+
+/* ── Expandable abstract ── */
+.pub-abstract {
+    display: none;
+    margin-top: 0.75em;
+    padding-top: 0.75em;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    font-size: 0.80em;
+    line-height: 1.65;
+    color: rgba(224, 220, 212, 0.6);
+}
+
+/* ── Loading / error states ── */
+.pub-loading,
+.pub-error {
+    text-align: center;
+    padding: 3em 1em;
+    color: rgba(224, 220, 212, 0.4);
+    font-size: 0.9em;
+}
+
+.pub-error a {
+    color: #d4a853;
+}
+
+/* ── Responsive ── */
+@media screen and (max-width: 736px) {
+    .pub-overview {
+        flex-direction: column;
+        gap: 2em;
+    }
+
+    .pub-stat-grid {
+        flex-direction: row;
+        gap: 2em;
+    }
+
+    .pub-chart-container {
+        width: 220px;
+        height: 220px;
+    }
+
+    .pub-search {
+        width: 100%;
+    }
+
+    .pub-card-body {
+        padding: 0.85em 1em 0.7em;
+    }
+}
