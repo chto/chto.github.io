@@ -110,8 +110,8 @@
     flex-direction: column;
     gap: 1.8em;
     justify-content: center;
-    min-width: 260px;
-    max-width: 320px;
+    min-width: 300px;
+    max-width: 400px;
 }
 
 /* ── Summary stats beside chart ── */
@@ -432,7 +432,7 @@
     border-radius: 7px;
     padding: 1em 1.1em;
     height: 14em;
-    overflow: hidden;
+    overflow-y: auto;
     transition: border-color 0.2s;
 }
 
