@@ -49,6 +49,30 @@ async function fetchPapers() {
     return resp.json();
 }
 
+/* ── Module-level state for the hover panel (set by initChart) ──────── */
+let _hoverPanel = null;
+let _papersByTopic = {};
+let _topicColors = {};
+let _topicCounts = {};
+
+function showHoverPanel(topic) {
+    if (!_hoverPanel) return;
+    const color  = _topicColors[topic] ?? '#888';
+    const recent = (_papersByTopic[topic] ?? []).slice(0, 3);
+    _hoverPanel.innerHTML = `
+        <div class="pub-hover-topic" style="color:${color}">${esc(topic)}</div>
+        <div class="pub-hover-papers">
+            ${recent.map(p => `
+                <div class="pub-hover-paper">
+                    <a href="https://ui.adsabs.harvard.edu/abs/${p.bibcode}" target="_blank" rel="noopener">${cleanTitle(p.title?.[0])}</a>
+                    <span class="pub-hover-meta">${p.year}</span>
+                </div>`).join('')}
+        </div>
+        <a href="publications.html?topic=${encodeURIComponent(topic)}" class="pub-hover-all">
+            View all ${_topicCounts[topic] ?? ''} &rarr;
+        </a>`;
+}
+
 /* ═══════════════════════════════════════════════════════════════════
    INDEX PAGE — donut chart + stats
    ═══════════════════════════════════════════════════════════════════ */
@@ -107,36 +131,13 @@ async function initChart() {
             </div>
         </div>`;
 
-    // ── Hover panel ──
-    const hoverPanel = document.getElementById('pub-hover-panel');
-    const papersByTopic = {};
+    // ── Populate module-level hover state ──
+    _hoverPanel = document.getElementById('pub-hover-panel');
     activeTopics.forEach(t => {
-        papersByTopic[t.name] = papers.filter(p => categorizePaper(p) === t.name);
+        _papersByTopic[t.name] = papers.filter(p => categorizePaper(p) === t.name);
+        _topicColors[t.name]   = t.color;
+        _topicCounts[t.name]   = counts[t.name];
     });
-
-    function showHoverPanel(topic) {
-        const color  = activeTopics.find(t => t.name === topic)?.color ?? '#888';
-        const recent = papersByTopic[topic]?.slice(0, 3) ?? [];
-        hoverPanel.innerHTML = `
-            <div class="pub-hover-topic" style="color:${color}">${esc(topic)}</div>
-            <div class="pub-hover-papers">
-                ${recent.map(p => {
-                    const cites = p.citation_count || 0;
-                    const url   = `https://ui.adsabs.harvard.edu/abs/${p.bibcode}`;
-                    return `<div class="pub-hover-paper">
-                        <a href="${url}" target="_blank" rel="noopener">${cleanTitle(p.title?.[0])}</a>
-                        <span class="pub-hover-meta">${p.year}</span>
-                    </div>`;
-                }).join('')}
-            </div>
-            <a href="publications.html?topic=${encodeURIComponent(topic)}" class="pub-hover-all">
-                View all ${counts[topic]} &rarr;
-            </a>`;
-    }
-
-    function resetHoverPanel() {
-        hoverPanel.innerHTML = '<div class="pub-hover-default">Hover a slice to explore papers</div>';
-    }
 
     // ── Chart.js doughnut ──
     const ctx = canvas.getContext('2d');
@@ -188,16 +189,13 @@ async function initChart() {
 
     // ── HTML legend ──
     legendEl.innerHTML = activeTopics.map(t => `
-        <div class="pub-legend-item" data-topic="${esc(t.name)}"
+        <div class="pub-legend-item"
+             onmouseenter="showHoverPanel('${esc(t.name)}')"
              onclick="window.location='publications.html?topic=${encodeURIComponent(t.name)}'">
             <span class="pub-legend-dot" style="background:${t.color}"></span>
             <span class="pub-legend-name">${esc(t.name)}</span>
             <span class="pub-legend-count">${counts[t.name]}</span>
         </div>`).join('');
-
-    legendEl.querySelectorAll('.pub-legend-item').forEach(item => {
-        item.addEventListener('mouseenter', () => showHoverPanel(item.dataset.topic));
-    });
 }
 
 /* ═══════════════════════════════════════════════════════════════════
