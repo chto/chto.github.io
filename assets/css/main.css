@@ -4077,6 +4077,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.section-banner h2 {
+		white-space: nowrap;
+	}
+
 	.section-banner:after {
 		content: '';
 		display: block;
@@ -4177,3 +4181,4 @@ input, select, textarea {
 			text-align: left !important;
 		}
 	}
+.section-banner h2 { white-space: nowrap; }
