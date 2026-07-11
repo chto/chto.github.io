@@ -125,7 +125,7 @@ async function initChart() {
                     const url   = `https://ui.adsabs.harvard.edu/abs/${p.bibcode}`;
                     return `<div class="pub-hover-paper">
                         <a href="${url}" target="_blank" rel="noopener">${cleanTitle(p.title?.[0])}</a>
-                        <span class="pub-hover-meta">${p.year} &middot; ${cites} cite${cites !== 1 ? 's' : ''}</span>
+                        <span class="pub-hover-meta">${p.year}</span>
                     </div>`;
                 }).join('')}
             </div>
