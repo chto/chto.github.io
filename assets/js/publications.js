@@ -182,7 +182,6 @@ async function initChart() {
             onHover(evt, elements) {
                 canvas.style.cursor = elements.length ? 'pointer' : 'default';
                 if (elements.length) showHoverPanel(labels[elements[0].index]);
-                else resetHoverPanel();
             },
         },
     });
