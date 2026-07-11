@@ -4044,12 +4044,12 @@ input, select, textarea {
 
 	.nav-table-item {
 		flex: 1;
-		padding: 1.4em 1em;
+		padding: 1.4em 0.6em;
 		font-weight: 700;
 		border-bottom: none;
-		letter-spacing: 0.2em;
+		letter-spacing: 0.1em;
 		text-transform: uppercase;
-		font-size: 0.8em;
+		font-size: 0.78em;
 		color: #fff;
 		text-decoration: none;
 		text-align: center;
