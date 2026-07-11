@@ -104,6 +104,16 @@
     font-variant-numeric: tabular-nums;
 }
 
+/* ── Right column: stats + hover panel ── */
+.pub-right-col {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8em;
+    justify-content: center;
+    min-width: 260px;
+    max-width: 320px;
+}
+
 /* ── Summary stats beside chart ── */
 .pub-overview-stats {
     display: flex;
@@ -117,9 +127,9 @@
 }
 
 .pub-stat-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 1.6em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2em 1.6em;
 }
 
 .pub-stat-item {
@@ -415,6 +425,81 @@
     color: #d4a853;
 }
 
+/* ── Hover panel ── */
+.pub-hover-panel {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 7px;
+    padding: 1em 1.1em;
+    min-height: 9em;
+    transition: border-color 0.2s;
+}
+
+.pub-hover-default {
+    color: rgba(224, 220, 212, 0.35);
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+.pub-hover-topic {
+    font-size: 0.75em;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 0.7em;
+}
+
+.pub-hover-papers {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6em;
+    margin-bottom: 0.8em;
+}
+
+.pub-hover-paper a {
+    display: block;
+    font-size: 0.78em;
+    color: #e0dcd4;
+    line-height: 1.4;
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.15s;
+}
+
+.pub-hover-paper a:hover {
+    color: #d4a853;
+}
+
+.pub-hover-meta {
+    display: block;
+    font-size: 0.70em;
+    color: rgba(224, 220, 212, 0.4);
+    margin-top: 0.15em;
+}
+
+.pub-hover-all {
+    font-size: 0.75em;
+    color: rgba(224, 220, 212, 0.5);
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.15s;
+}
+
+.pub-hover-all:hover {
+    color: #d4a853;
+}
+
+/* ── Citation badge on list page ── */
+.pub-badge-cite {
+    font-size: 0.70em;
+    color: rgba(224, 220, 212, 0.45);
+    letter-spacing: 0.04em;
+    padding: 0.15em 0;
+    line-height: 1.7;
+}
+
 /* ── Responsive ── */
 @media screen and (max-width: 736px) {
     .pub-overview {
@@ -422,9 +507,8 @@
         gap: 2em;
     }
 
-    .pub-stat-grid {
-        flex-direction: row;
-        gap: 2em;
+    .pub-right-col {
+        max-width: 100%;
     }
 
     .pub-chart-container {

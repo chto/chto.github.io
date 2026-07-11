@@ -27,6 +27,13 @@ const TOPICS = [
     { name: 'Other', color: '#666677', re: null },
 ];
 
+function calcHIndex(papers) {
+    const counts = papers.map(p => p.citation_count || 0).sort((a, b) => b - a);
+    let h = 0;
+    while (h < counts.length && counts[h] >= h + 1) h++;
+    return h;
+}
+
 function categorizePaper(paper) {
     const title = (paper.title?.[0] ?? '').toLowerCase();
     for (const t of TOPICS) {
@@ -73,6 +80,64 @@ async function initChart() {
 
     totalEl.textContent = papers.length;
 
+    // ── Metrics ──
+    const totalCites = papers.reduce((s, p) => s + (p.citation_count || 0), 0);
+    const hIndex = calcHIndex(papers);
+    const years = papers.map(p => parseInt(p.year)).filter(Boolean);
+    const minYear = Math.min(...years);
+    const maxYear = Math.max(...years);
+
+    statsEl.innerHTML = `
+        <div class="pub-stat-grid">
+            <div class="pub-stat-item">
+                <div class="pub-stat-number">${papers.length}</div>
+                <div class="pub-stat-desc">Papers</div>
+            </div>
+            <div class="pub-stat-item">
+                <div class="pub-stat-number">${totalCites.toLocaleString()}</div>
+                <div class="pub-stat-desc">Citations</div>
+            </div>
+            <div class="pub-stat-item">
+                <div class="pub-stat-number">${hIndex}</div>
+                <div class="pub-stat-desc">h-index</div>
+            </div>
+            <div class="pub-stat-item">
+                <div class="pub-stat-number">${minYear}&ndash;${maxYear}</div>
+                <div class="pub-stat-desc">Years</div>
+            </div>
+        </div>`;
+
+    // ── Hover panel ──
+    const hoverPanel = document.getElementById('pub-hover-panel');
+    const papersByTopic = {};
+    activeTopics.forEach(t => {
+        papersByTopic[t.name] = papers.filter(p => categorizePaper(p) === t.name);
+    });
+
+    function showHoverPanel(topic) {
+        const color  = activeTopics.find(t => t.name === topic)?.color ?? '#888';
+        const recent = papersByTopic[topic]?.slice(0, 5) ?? [];
+        hoverPanel.innerHTML = `
+            <div class="pub-hover-topic" style="color:${color}">${esc(topic)}</div>
+            <div class="pub-hover-papers">
+                ${recent.map(p => {
+                    const cites = p.citation_count || 0;
+                    const url   = `https://ui.adsabs.harvard.edu/abs/${p.bibcode}`;
+                    return `<div class="pub-hover-paper">
+                        <a href="${url}" target="_blank" rel="noopener">${esc(p.title?.[0] ?? '')}</a>
+                        <span class="pub-hover-meta">${p.year} &middot; ${cites} cite${cites !== 1 ? 's' : ''}</span>
+                    </div>`;
+                }).join('')}
+            </div>
+            <a href="publications.html?topic=${encodeURIComponent(topic)}" class="pub-hover-all">
+                View all ${counts[topic]} &rarr;
+            </a>`;
+    }
+
+    function resetHoverPanel() {
+        hoverPanel.innerHTML = '<div class="pub-hover-default">Hover a slice to explore papers</div>';
+    }
+
     // ── Chart.js doughnut ──
     const ctx = canvas.getContext('2d');
     new Chart(ctx, {
@@ -81,7 +146,7 @@ async function initChart() {
             labels,
             datasets: [{
                 data: values,
-                backgroundColor: colors.map(c => c + 'cc'),   // 80% opacity fill
+                backgroundColor: colors.map(c => c + 'cc'),
                 borderColor:     colors,
                 borderWidth: 2,
                 hoverBorderWidth: 3,
@@ -112,39 +177,25 @@ async function initChart() {
             },
             onClick(evt, elements) {
                 if (!elements.length) return;
-                const topic = labels[elements[0].index];
-                window.location.href = `publications.html?topic=${encodeURIComponent(topic)}`;
+                window.location.href = `publications.html?topic=${encodeURIComponent(labels[elements[0].index])}`;
             },
             onHover(evt, elements) {
                 canvas.style.cursor = elements.length ? 'pointer' : 'default';
+                if (elements.length) showHoverPanel(labels[elements[0].index]);
+                else resetHoverPanel();
             },
         },
     });
 
     // ── HTML legend ──
-    legendEl.innerHTML = activeTopics.map((t, i) => `
-        <div class="pub-legend-item" data-topic="${esc(t.name)}" onclick="window.location='publications.html?topic=${encodeURIComponent(t.name)}'">
+    legendEl.innerHTML = activeTopics.map(t => `
+        <div class="pub-legend-item" data-topic="${esc(t.name)}"
+             onmouseenter="document.getElementById('pub-hover-panel').innerHTML=''"
+             onclick="window.location='publications.html?topic=${encodeURIComponent(t.name)}'">
             <span class="pub-legend-dot" style="background:${t.color}"></span>
             <span class="pub-legend-name">${esc(t.name)}</span>
             <span class="pub-legend-count">${counts[t.name]}</span>
         </div>`).join('');
-
-    // ── Summary stats ──
-    const years = papers.map(p => parseInt(p.year)).filter(Boolean);
-    const minYear = Math.min(...years);
-    const maxYear = Math.max(...years);
-
-    statsEl.innerHTML = `
-        <div class="pub-stat-grid">
-            <div class="pub-stat-item">
-                <div class="pub-stat-number">${papers.length}</div>
-                <div class="pub-stat-desc">Total papers</div>
-            </div>
-            <div class="pub-stat-item">
-                <div class="pub-stat-number">${minYear}&ndash;${maxYear}</div>
-                <div class="pub-stat-desc">Year range</div>
-            </div>
-        </div>`;
 }
 
 /* ═══════════════════════════════════════════════════════════════════
@@ -259,6 +310,7 @@ function cardHtml(paper) {
     <div class="pub-badges">
       <a href="${adsUrl}" class="pub-badge ads" target="_blank" rel="noopener">ADS</a>
       ${arxivUrl ? `<a href="${arxivUrl}" class="pub-badge arxiv" target="_blank" rel="noopener">arXiv</a>` : ''}
+      ${paper.citation_count ? `<span class="pub-badge-cite">${paper.citation_count} cite${paper.citation_count !== 1 ? 's' : ''}</span>` : ''}
       ${paper.abstract ? '<button class="pub-abstract-btn">Abstract ▾</button>' : ''}
     </div>
     ${paper.abstract ? `<div class="pub-abstract">${esc(paper.abstract)}</div>` : ''}

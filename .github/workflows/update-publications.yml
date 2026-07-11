@@ -18,7 +18,7 @@ jobs:
           ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
         run: |
           curl -sf \
-            "https://api.adsabs.harvard.edu/v1/search/query?q=author%3A%22To%2C+Chun-Hao%22+database%3Aastronomy&fl=title,author,year,bibcode,abstract,identifier,pub,volume,page&sort=date+desc&rows=250" \
+            "https://api.adsabs.harvard.edu/v1/search/query?q=author%3A%22To%2C+Chun-Hao%22+database%3Aastronomy&fl=title,author,year,bibcode,abstract,identifier,pub,volume,page,citation_count&sort=date+desc&rows=250" \
             -H "Authorization: Bearer $ADS_TOKEN" \
             | jq '.response.docs' > assets/data/publications.json
 
