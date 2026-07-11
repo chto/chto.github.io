@@ -116,7 +116,7 @@ async function initChart() {
 
     function showHoverPanel(topic) {
         const color  = activeTopics.find(t => t.name === topic)?.color ?? '#888';
-        const recent = papersByTopic[topic]?.slice(0, 5) ?? [];
+        const recent = papersByTopic[topic]?.slice(0, 3) ?? [];
         hoverPanel.innerHTML = `
             <div class="pub-hover-topic" style="color:${color}">${esc(topic)}</div>
             <div class="pub-hover-papers">
@@ -124,7 +124,7 @@ async function initChart() {
                     const cites = p.citation_count || 0;
                     const url   = `https://ui.adsabs.harvard.edu/abs/${p.bibcode}`;
                     return `<div class="pub-hover-paper">
-                        <a href="${url}" target="_blank" rel="noopener">${esc(p.title?.[0] ?? '')}</a>
+                        <a href="${url}" target="_blank" rel="noopener">${cleanTitle(p.title?.[0])}</a>
                         <span class="pub-hover-meta">${p.year} &middot; ${cites} cite${cites !== 1 ? 's' : ''}</span>
                     </div>`;
                 }).join('')}
@@ -304,7 +304,7 @@ function cardHtml(paper) {
 <div class="pub-card${isFirstAuth ? ' first-author' : ''}">
   <div class="pub-topic-dot" style="background:${topicColor}" title="${esc(topic)}"></div>
   <div class="pub-card-body">
-    <div class="pub-title"><a href="${adsUrl}" target="_blank" rel="noopener">${esc(paper.title?.[0] ?? '')}</a></div>
+    <div class="pub-title"><a href="${adsUrl}" target="_blank" rel="noopener">${cleanTitle(paper.title?.[0])}</a></div>
     <div class="pub-authors">${formatAuthors(authors)}</div>
     <div class="pub-journal">${esc(formatJournal(paper))}</div>
     <div class="pub-badges">
@@ -341,6 +341,18 @@ function esc(str) {
     return String(str ?? '')
         .replace(/&/g, '&amp;').replace(/</g, '&lt;')
         .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+/* Strip MathML and convert SUB/SUP; safe to inject as innerHTML */
+function cleanTitle(raw) {
+    return String(raw ?? '')
+        .replace(/<\/?mml:[^>]*>/gi, '')
+        .replace(/<SUB>/gi,  '\x00sub\x00').replace(/<\/SUB>/gi,  '\x00/sub\x00')
+        .replace(/<SUP>/gi,  '\x00sup\x00').replace(/<\/SUP>/gi,  '\x00/sup\x00')
+        .replace(/<[^>]*>/g, '')
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/\x00sub\x00/g, '<sub>').replace(/\x00\/sub\x00/g, '</sub>')
+        .replace(/\x00sup\x00/g, '<sup>').replace(/\x00\/sup\x00/g, '</sup>');
 }
 
 /* ── Route on load ─────────────────────────────────────────────────── */
