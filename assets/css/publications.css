@@ -431,7 +431,8 @@
     border: 1px solid rgba(255, 255, 255, 0.09);
     border-radius: 7px;
     padding: 1em 1.1em;
-    min-height: 9em;
+    height: 14em;
+    overflow: hidden;
     transition: border-color 0.2s;
 }
 
