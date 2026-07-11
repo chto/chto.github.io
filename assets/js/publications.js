@@ -189,12 +189,15 @@ async function initChart() {
     // ── HTML legend ──
     legendEl.innerHTML = activeTopics.map(t => `
         <div class="pub-legend-item" data-topic="${esc(t.name)}"
-             onmouseenter="document.getElementById('pub-hover-panel').innerHTML=''"
              onclick="window.location='publications.html?topic=${encodeURIComponent(t.name)}'">
             <span class="pub-legend-dot" style="background:${t.color}"></span>
             <span class="pub-legend-name">${esc(t.name)}</span>
             <span class="pub-legend-count">${counts[t.name]}</span>
         </div>`).join('');
+
+    legendEl.querySelectorAll('.pub-legend-item').forEach(item => {
+        item.addEventListener('mouseenter', () => showHoverPanel(item.dataset.topic));
+    });
 }
 
 /* ═══════════════════════════════════════════════════════════════════
