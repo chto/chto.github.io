@@ -17,10 +17,28 @@ jobs:
         env:
           ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
         run: |
-          curl -sf \
+          # Fetch to a temp file first so a failed/empty ADS response can never
+          # overwrite the committed data.
+          http_code=$(curl -s -w '%{http_code}' -o ads_response.json \
             "https://api.adsabs.harvard.edu/v1/search/query?q=author%3A%22To%2C+Chun-Hao%22+database%3Aastronomy&fl=title,author,year,bibcode,abstract,identifier,pub,volume,page,citation_count&sort=date+desc&rows=250" \
-            -H "Authorization: Bearer $ADS_TOKEN" \
-            | jq '.response.docs' > assets/data/publications.json
+            -H "Authorization: Bearer $ADS_TOKEN")
+
+          if [ "$http_code" != "200" ]; then
+            echo "::error::ADS returned HTTP $http_code"
+            head -c 500 ads_response.json || true
+            exit 1
+          fi
+
+          # Extract the docs and require a non-empty JSON array before promoting.
+          if ! jq -e '.response.docs | arrays and length > 0' ads_response.json > /dev/null; then
+            echo "::error::ADS response had no publications (empty or malformed)"
+            head -c 500 ads_response.json || true
+            exit 1
+          fi
+
+          jq '.response.docs' ads_response.json > publications.new.json
+          mv publications.new.json assets/data/publications.json
+          echo "Fetched $(jq 'length' assets/data/publications.json) publications."
 
       - name: Commit if changed
         run: |
