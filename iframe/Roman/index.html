@@ -121,8 +121,13 @@ import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js';
 
-const MODEL   = 'Large%20new%20RST_Model_V004.glb';
+// Meshopt-compressed and WebP-textured: 28.3 MB -> 5.4 MB. The source
+// Blender export is kept out of the repo; regenerate with
+//   gltf-transform optimize <src>.glb roman.glb \
+//     --compress meshopt --texture-compress webp --texture-size 1024 --simplify false
+const MODEL   = 'roman.glb';
 const FOV     = 50;
 const CYCLE   = 20.0;   // seconds for one full crossing
 const GAP     = 0.2;    // seconds off-frame before it comes round again
@@ -228,7 +233,9 @@ addEventListener('resize', resize);
 
 /* ------------------------------------------------------------------- load */
 
-new GLTFLoader().load(
+new GLTFLoader()
+  .setMeshoptDecoder(MeshoptDecoder)   // required: geometry is meshopt-packed
+  .load(
   MODEL,
   (gltf) => {
     const model = gltf.scene;

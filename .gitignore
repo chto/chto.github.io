@@ -8,3 +8,7 @@
 *.swp
 *.swo
 *~
+
+# Uncompressed Blender export (28 MB). The deployed model is the
+# meshopt-compressed roman.glb; keep this locally as the source.
+iframe/Roman/Large new RST_Model_V004.glb
