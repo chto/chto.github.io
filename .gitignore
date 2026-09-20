@@ -1,1 +1,10 @@
 .DS_Store
+
+# Source turntable render — 1.2 GB ProRes, far past GitHub's 100 MB per-file
+# hard limit. Keep it local; the iframe uses the .glb instead.
+*.mov
+
+# editor swap files
+*.swp
+*.swo
+*~

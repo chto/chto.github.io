@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Roman Space Telescope &mdash; flyby</title>
+<style>
+  :root { color-scheme: dark; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #000;
+  }
+
+  #stage {
+    position: fixed;
+    inset: 0;
+    overflow: hidden;
+  }
+
+  /* Deep-field plate, drawn at its natural 1217x1214 and never resampled.
+     `auto` rather than cover/contain: no zoom, no crop-to-fill, no softening.
+     The surround is the same black as the image's own background, so on a
+     frame wider than the plate the join reads as empty sky. */
+  #sky {
+    position: absolute;
+    inset: 0;
+    background: #000 url("7dd2bcb042c2502f61d7c2e9f135e8d7.png") center / auto no-repeat;
+  }
+
+  /* Corner falloff. With the plate at natural size this mostly lands on the
+     black surround and does nothing; it still softens the corners on a frame
+     small enough to crop into the image. */
+  #vignette {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(ellipse 78% 78% at 50% 48%,
+                rgba(0,0,0,0) 38%, rgba(0,0,0,.30) 74%, rgba(0,0,0,.62) 100%);
+  }
+
+  canvas#scene {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  /* ---- loader ---- */
+  #loader {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-content: center;
+    gap: 14px;
+    justify-items: center;
+    background: rgba(0,0,0,.55);
+    backdrop-filter: blur(2px);
+    transition: opacity .7s ease;
+    font: 400 11px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: rgba(226,232,240,.72);
+  }
+  #loader.done { opacity: 0; pointer-events: none; }
+  #bar {
+    width: 168px;
+    height: 1px;
+    background: rgba(226,232,240,.18);
+    overflow: hidden;
+  }
+  #bar > i {
+    display: block;
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, rgba(125,211,252,.5), #e2e8f0);
+    transition: width .25s ease-out;
+  }
+  #err {
+    max-width: 30ch;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: .02em;
+    line-height: 1.6;
+    color: rgba(252,165,165,.9);
+  }
+
+  canvas#scene { cursor: grab; }
+  #stage.inspecting canvas#scene { cursor: grabbing; }
+
+</style>
+</head>
+<body>
+
+<div id="stage">
+  <div id="sky"></div>
+  <canvas id="scene"></canvas>
+  <div id="vignette"></div>
+  <div id="loader">
+    <div>Loading observatory</div>
+    <div id="bar"><i></i></div>
+    <div id="err" hidden></div>
+  </div>
+</div>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+  }
+}
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+const MODEL   = 'Large%20new%20RST_Model_V004.glb';
+const FOV     = 50;
+const CYCLE   = 20.0;   // seconds for one full crossing
+const GAP     = 0.2;    // seconds off-frame before it comes round again
+const Z_FAR   = -12.0;  // depth at entry / exit
+const Z_NEAR  = -10.0;   // depth at closest approach
+const SPAN    = 1.17;   // how far past the frame edge it starts and ends
+const ROLL0      = 3.0;  // roll about the boresight at entry
+const ROLL_SWEEP = 2.0;  // and how far it rolls across the pass
+const AIM_FLAT   = false; // aim along the on-screen heading; false = true 3D velocity
+
+const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+// Measured from the file rather than hard-coded, so swapping the plate for a
+// different deep field keeps the flight path pinned to the picture.
+const BG_SRC = '7dd2bcb042c2502f61d7c2e9f135e8d7.png';
+let bgW = 0, bgH = 0;
+const bgProbe = new Image();
+bgProbe.onload = () => { bgW = bgProbe.naturalWidth; bgH = bgProbe.naturalHeight; };
+bgProbe.src = BG_SRC;
+
+const canvas  = document.getElementById('scene');
+const loader  = document.getElementById('loader');
+const barFill = document.querySelector('#bar > i');
+const errBox  = document.getElementById('err');
+const stage     = document.getElementById('stage');
+
+/* ------------------------------------------------------------------ setup */
+
+const renderer = new THREE.WebGLRenderer({
+  canvas, antialias: true, alpha: true, powerPreference: 'high-performance'
+});
+renderer.setClearAlpha(0);
+renderer.outputColorSpace = THREE.SRGBColorSpace;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.25;
+
+const scene  = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(FOV, 1, 0.1, 400);
+camera.position.set(0, 0, 0);
+
+// Faint image-based lighting so the MLI foil and machined metal pick up
+// something to reflect. Kept dim — in space the only real source is the sun.
+const pmrem = new THREE.PMREMGenerator(renderer);
+scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+scene.environmentIntensity = 0.55;
+
+// Sun, thrown from the upper right so Roman is rim-lit as it heads that way.
+const sun = new THREE.DirectionalLight(0xfff6e5, 5.6);
+sun.position.set(6, 5, 3);
+scene.add(sun);
+
+// Back-rim from over the far shoulder. Against a black field this edge is the
+// only thing that separates the silhouette from the sky, so it earns its keep.
+const rim = new THREE.DirectionalLight(0xcfe4ff, 2.6);
+rim.position.set(-3.5, 2.5, -6);
+scene.add(rim);
+
+// Cold bounce from below-left, standing in for earthshine.
+const bounce = new THREE.DirectionalLight(0x5b7fb8, 0.85);
+bounce.position.set(-5, -3, 1.5);
+scene.add(bounce);
+
+scene.add(new THREE.AmbientLight(0x2a3346, 0.75));
+
+/* ------------------------------------------------- rig: path / spin / mesh */
+
+const pathNode = new THREE.Group();   // position along the flight path
+const spinNode = new THREE.Group();   // slow tumble
+const tiltNode = new THREE.Group();   // fixed presentation angle
+pathNode.add(spinNode);
+spinNode.add(tiltNode);
+pathNode.visible = false;
+scene.add(pathNode);
+
+/* ------------------------------------------------------------ orientation */
+
+// Roman observes down its local -X axis. Established by tagging the model's
+// local axes with coloured markers and rendering: the -X end is the one whose
+// bore shows the secondary mirror's support spider inside it.
+const BORESIGHT = new THREE.Vector3(-1, 0, 0);
+
+// Scratch vectors for the per-frame heading solve (see place()).
+const here    = new THREE.Vector3();
+const next    = new THREE.Vector3();
+const heading = new THREE.Vector3();
+
+const SWAY_AXIS = new THREE.Vector3(0, 0, 1);
+const roll = new THREE.Quaternion();
+const sway = new THREE.Quaternion();
+
+/* ----------------------------------------------------------------- resize */
+
+function resize() {
+  const w = canvas.clientWidth || window.innerWidth;
+  const h = canvas.clientHeight || window.innerHeight;
+  renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+  renderer.setSize(w, h, false);
+  camera.aspect = w / h;
+  camera.updateProjectionMatrix();
+}
+resize();
+addEventListener('resize', resize);
+
+/* ------------------------------------------------------------------- load */
+
+new GLTFLoader().load(
+  MODEL,
+  (gltf) => {
+    const model = gltf.scene;
+
+    // Centre on the model's own bounding box and normalise to unit size, so
+    // the flight maths below is independent of how the asset was authored.
+    const box    = new THREE.Box3().setFromObject(model);
+    const centre = box.getCenter(new THREE.Vector3());
+    const unit   = 1 / Math.max(...box.getSize(new THREE.Vector3()).toArray());
+
+    // A node's matrix is T·R·S, so the recentring offset has to be pre-scaled.
+    model.scale.setScalar(unit);
+    model.position.copy(centre).multiplyScalar(-unit);
+
+    const wrap = new THREE.Group();
+    wrap.add(model);
+    wrap.scale.setScalar(3.1);
+    tiltNode.add(wrap);
+
+    model.traverse((o) => {
+      if (o.isMesh) {
+        o.frustumCulled = false;
+        const mats = Array.isArray(o.material) ? o.material : [o.material];
+        for (const m of mats) if (m) m.envMapIntensity = 0.9;
+      }
+    });
+
+    pathNode.visible = true;
+    loader.classList.add('done');
+    start();
+  },
+  (evt) => {
+    if (evt.lengthComputable) {
+      barFill.style.width = (evt.loaded / evt.total * 100).toFixed(1) + '%';
+    }
+  },
+  () => {
+    errBox.hidden = false;
+    // Opened straight off disk, the page is origin "null" and the browser
+    // refuses to fetch() the .glb. The starfield still shows, because a CSS
+    // background isn't held to the same rule — so it looks like the model
+    // alone is broken. Name the real cause rather than shrugging.
+    errBox.textContent = location.protocol === 'file:'
+      ? 'Browsers block local file reads, so the model cannot load over file://. '
+        + 'Serve this folder over HTTP instead — run "python3 -m http.server" here, '
+        + 'then open localhost:8000.'
+      : 'Could not load the observatory model.';
+    barFill.style.width = '100%';
+  }
+);
+
+/* ------------------------------------------------------------ flight path */
+
+// Mostly steady, with a touch of ease so it doesn't start and stop hard. A
+// full smoothstep would park it off-frame for seconds at either end.
+const smootherstep = (t) => t * t * t * (t * (t * 6 - 15) + 10);
+const ease = (t) => t * 0.55 + smootherstep(t) * 0.45;
+
+// Depth: furthest at both ends, closest at mid-pass.
+const depth = (t) => Z_FAR + (Z_NEAR - Z_FAR) * Math.pow(Math.sin(Math.PI * t), 1.35);
+
+/**
+ * Place the rig for normalised progress t (0 = off the plate's lower-left,
+ * 1 = off its upper-right). Screen coordinates are resolved against the
+ * frustum at the current depth, so the corners hold at any aspect ratio.
+ */
+function pathPoint(t, out) {
+  const s = ease(t);
+  const z = depth(t);
+
+  // Arc perpendicular to the line of travel, so the path bellies out without
+  // dragging the exit off the top edge before it reaches the corner.
+  const base = -SPAN + 2 * SPAN * s;
+  const bow  = Math.sin(Math.PI * t) * 0.11;
+  const sx = base + bow;
+  const sy = base - bow;   // bellies below the diagonal: enters low, climbs out
+
+  const halfH = Math.abs(z) * Math.tan(THREE.MathUtils.degToRad(FOV) / 2);
+  const halfW = halfH * camera.aspect;
+
+  // Cross the deep-field plate, not the frame. The plate is drawn at its
+  // natural size and centred, so on a frame bigger than the image the two
+  // rectangles differ and the frame's corners are not the picture's corners.
+  // Clamped at 1 so a frame smaller than the plate falls back to the visible
+  // area rather than flying the pass off-screen.
+  const fx = bgW ? Math.min(1, bgW / (canvas.clientWidth  || 1)) : 1;
+  const fy = bgH ? Math.min(1, bgH / (canvas.clientHeight || 1)) : 1;
+
+  return out.set(sx * halfW * fx, sy * halfH * fy, z);
+}
+
+function place(t) {
+  pathPoint(t, here);
+  pathNode.position.copy(here);
+
+  // Heading is read off the curve itself — sample just ahead and subtract —
+  // rather than being a constant that has to be re-tuned by hand every time
+  // the path changes. Retune SPAN, the bow or the frame aspect and the
+  // observatory keeps pointing where it is actually going.
+  const h = 1e-3;
+  if (t < 1 - h) { pathPoint(t + h, next); heading.subVectors(next, here); }
+  else           { pathPoint(t - h, next); heading.subVectors(here, next); }
+
+  // Drop the depth component: track the heading as seen on screen. With it
+  // left in, the boresight would swing through ~180 degrees at closest
+  // approach, because the pass genuinely flies toward the camera and then
+  // away again. Set AIM_FLAT false for the true 3D velocity.
+  if (AIM_FLAT) heading.z = 0;
+  heading.normalize();
+
+  spinNode.quaternion.setFromUnitVectors(BORESIGHT, heading);
+
+  // Roll about that heading, so spinning never tips the boresight off it.
+  roll.setFromAxisAngle(heading, ROLL0 + t * ROLL_SWEEP);
+  spinNode.quaternion.premultiply(roll);
+
+  // A few degrees of sway, purely so it doesn't read as rigidly bolted.
+  sway.setFromAxisAngle(SWAY_AXIS, Math.sin(Math.PI * 2 * t) * 0.05);
+  spinNode.quaternion.premultiply(sway);
+}
+
+/* ------------------------------------------------------- pointer parallax */
+
+const aim = new THREE.Vector2();
+addEventListener('pointermove', (e) => {
+  aim.set(
+    (e.clientX / innerWidth) * 2 - 1,
+    -((e.clientY / innerHeight) * 2 - 1)
+  );
+}, { passive: true });
+
+/* ---------------------------------------------------------- inspect mode */
+
+const INSPECT_POS = new THREE.Vector3(0, 0, -6.2);
+
+const controls = new OrbitControls(camera, canvas);
+controls.enabled = false;
+controls.enableDamping = true;
+controls.dampingFactor = 0.08;
+controls.enablePan = false;       // panning only loses the observatory
+controls.rotateSpeed = 0.85;
+controls.zoomSpeed = 0.8;
+controls.minDistance = 3.4;
+controls.maxDistance = 14;
+
+// OrbitControls claims every touch gesture on construction, which would stop
+// the host page scrolling under the iframe. Give it back `pan-y` instead: a
+// vertical swipe still scrolls the page, a sideways drag turns the model, and
+// once inspecting we take the lot so the orbit is unrestricted.
+const setGrab = (on) => { canvas.style.touchAction = on ? 'none' : 'pan-y'; };
+setGrab(false);
+
+let inspecting = false;
+let blend = 0;   // 0 = flying its path, 1 = held at centre for inspection
+
+/* The pass picks itself back up once the viewer stops fiddling, so there is
+   nothing to dismiss. The timer only starts when no pointer is down —
+   otherwise holding the model still while looking at it would hand it back
+   mid-grab. */
+const RESUME_AFTER = 2600;
+let idleTimer = 0;
+let dragging = false;
+
+function nudgeIdle() {
+  if (!inspecting || dragging) return;
+  clearTimeout(idleTimer);
+  idleTimer = setTimeout(exitInspect, RESUME_AFTER);
+}
+
+// start/end bracket wheel zoom as well as drags, so they are the only hooks
+// needed. Listening to 'change' too would let the damping tail keep pushing
+// the deadline back, making the resume delay drift with gesture strength.
+controls.addEventListener('start', () => { dragging = true; clearTimeout(idleTimer); });
+controls.addEventListener('end',   () => { dragging = false; nudgeIdle(); });
+
+function enterInspect() {
+  if (inspecting) return;
+  inspecting = true;
+  controls.target.copy(INSPECT_POS);
+  controls.enabled = true;
+  setGrab(true);
+  stage.classList.add('inspecting');
+  nudgeIdle();
+}
+
+function exitInspect() {
+  if (!inspecting) return;
+  inspecting = false;
+  controls.enabled = false;
+  setGrab(false);
+  stage.classList.remove('inspecting');
+  clearTimeout(idleTimer);
+}
+
+// Captured on the parent, not the canvas: two listeners on the *same* element
+// fire in registration order regardless of the capture flag, and OrbitControls
+// registered first. Capturing one level up genuinely runs ahead of it, so the
+// gesture that flips on inspect mode is the same one it picks up to rotate.
+stage.addEventListener('pointerdown', (e) => {
+  if (e.target !== canvas) return;
+  if (e.button !== 0) return;
+  enterInspect();
+}, { capture: true });
+
+addEventListener('keydown', (e) => { if (e.key === 'Escape') exitInspect(); });
+canvas.addEventListener('dblclick', exitInspect);
+
+/* ------------------------------------------------------------------- loop */
+
+let running = false;
+let rafId = 0;
+let clock;
+let elapsed = 0;   // accumulated by hand so pausing doesn't rewind the pass
+
+function frame() {
+  if (!running) return;
+  rafId = requestAnimationFrame(frame);
+
+  const dt = Math.min(clock.getDelta(), 0.1);   // clamp after a background tab
+  if (!inspecting && !reduceMotion) elapsed += dt;
+
+  const total = CYCLE + GAP;
+  const t = Math.min(elapsed % total / CYCLE, 1);
+  place(t);
+
+  // Ease between the flight path and the held pose rather than cutting, so
+  // grabbing it draws the observatory in instead of teleporting it.
+  blend += ((inspecting ? 1 : 0) - blend) * Math.min(1, dt * 7);
+  if (blend > 0.002) {
+    pathNode.position.lerp(INSPECT_POS, blend);
+    pathNode.visible = true;
+  } else {
+    pathNode.visible = t < 1;
+  }
+
+  if (inspecting) {
+    controls.update();
+  } else {
+    // Drift home. After an orbit the camera can be anywhere, so z is pulled
+    // back too, not just the parallax offsets.
+    const k = 1 - Math.pow(0.02, dt);
+    camera.position.x += (aim.x * 0.42 - camera.position.x) * k;
+    camera.position.y += (aim.y * 0.28 - camera.position.y) * k;
+    camera.position.z += (0 - camera.position.z) * k;
+    camera.lookAt(0, 0, -9);
+  }
+
+  renderer.render(scene, camera);
+}
+
+function start() {
+  clock = new THREE.Clock();
+  // Reduced motion: hold the hero pose, but keep the loop alive so the
+  // observatory can still be grabbed and turned by hand.
+  if (reduceMotion) elapsed = 0.5 * CYCLE;
+  resume();
+}
+
+function resume() {
+  if (running || !clock) return;
+  running = true;
+  clock.getDelta();   // discard the paused interval
+  frame();
+}
+
+function pause() {
+  running = false;
+  // Without this, a frame already queued before the pause survives it and
+  // starts a second loop on resume — which advances `elapsed` twice per tick.
+  cancelAnimationFrame(rafId);
+  rafId = 0;
+}
+
+// Don't burn frames while the iframe is scrolled away or the tab is hidden.
+document.addEventListener('visibilitychange', () =>
+  document.hidden ? pause() : resume());
+
+new IntersectionObserver(
+  ([e]) => (e.isIntersecting ? resume() : pause()),
+  { threshold: 0 }
+).observe(document.getElementById('stage'));
+</script>
+</body>
+</html>

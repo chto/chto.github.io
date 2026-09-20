@@ -1,0 +1,200 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Interactive &mdash; Chun-Hao To</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="Interactive visualisations and simulations by Chun-Hao To, Astrophysicist at the University of Chicago" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/stars.css" />
+		<link rel="stylesheet" href="assets/css/publications.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<style>
+			/* Gallery of interactive pieces. Self-contained here rather than in
+			   main.css so the Spectral theme stays untouched. */
+			.interactive-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+				gap: 2.5em;
+				text-align: left;
+			}
+			.interactive-card {
+				display: flex;
+				flex-direction: column;
+				background: rgba(8, 12, 20, 0.34);
+				border: 1px solid rgba(226, 232, 240, 0.12);
+				border-radius: 6px;
+				overflow: hidden;
+				transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+			}
+			.interactive-card:hover {
+				transform: translateY(-4px);
+				border-color: rgba(125, 211, 252, 0.45);
+				box-shadow: 0 14px 34px rgba(0, 0, 0, 0.45);
+			}
+			.interactive-card .shot {
+				display: block;
+				aspect-ratio: 16 / 10;
+				overflow: hidden;
+				background: #000;
+				border-bottom: 1px solid rgba(226, 232, 240, 0.1);
+			}
+			.interactive-card .shot img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+			}
+			.interactive-card .body {
+				padding: 1.6em 1.6em 1.8em 1.6em;
+				display: flex;
+				flex-direction: column;
+				flex: 1;
+			}
+			.interactive-card h3 { margin: 0 0 .35em 0; }
+			.interactive-card .tag {
+				font-size: .62em;
+				letter-spacing: .2em;
+				text-transform: uppercase;
+				color: rgba(125, 211, 252, .85);
+				margin-bottom: .9em;
+			}
+			.interactive-card p { flex: 1; }
+			.interactive-card .actions { margin: 0; }
+		</style>
+
+		<!-- Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7Y6H309XV8"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-7Y6H309XV8');
+		</script>
+	</head>
+	<body class="is-preload">
+
+		<!-- Dynamic Background -->
+			<div class="sky">
+				<div class="stars"></div>
+				<div class="stars1"></div>
+				<div class="stars2"></div>
+				<div class="shooting-stars"></div>
+			</div>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Chun-Hao To</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html#about">About</a></li>
+											<li><a href="index.html#research">Research</a></li>
+											<li><a href="interactive.html">Interactive</a></li>
+											<li><a href="index.html#publications">Publications</a></li>
+											<li><a href="index.html#mentoring">Mentoring &amp; Outreach</a></li>
+											<li><a href="index.html#presentations">Presentations</a></li>
+											<li><a href="assets/docs/Chun_Hao_To_CV.pdf" target="_blank">CV</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section class="section-banner pub-page-banner">
+						<div class="inner">
+							<h2>Interactive</h2>
+						</div>
+					</section>
+
+				<!-- Gallery -->
+					<section class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<p>Visualisations and simulations you can explore in the browser.</p>
+							</header>
+
+							<div class="interactive-grid">
+
+								<div class="interactive-card">
+									<a href="iframe/Roman/" class="shot">
+										<img src="assets/images/interactive-roman.jpg" alt="The Roman Space Telescope crossing a deep field" loading="lazy" />
+									</a>
+									<div class="body">
+										<div class="tag">3D &middot; WebGL</div>
+										<h3>Roman Space Telescope Flyby</h3>
+										<p>NASA's Nancy Grace Roman Space Telescope crossing a deep field, rendered live from the observatory model. Drag it to stop the pass and turn it over; let go and it flies on.</p>
+										<ul class="actions">
+											<li><a href="iframe/Roman/" class="button">Open</a></li>
+										</ul>
+									</div>
+								</div>
+
+								<div class="interactive-card">
+									<a href="https://chunhaoto.com/clusterquarto/#/section" class="shot" target="_blank" rel="noopener noreferrer">
+										<img src="assets/images/interactive-clusterquarto.jpg" alt="Galaxy cluster cosmology walkthrough" loading="lazy" />
+									</a>
+									<div class="body">
+										<div class="tag">Walkthrough</div>
+										<h3>Galaxy Clusters as a Cosmological Probe</h3>
+										<p>A scrolling introduction to how galaxy clusters trace the growth of structure, and how they combine with other probes to constrain dark energy.</p>
+										<ul class="actions">
+											<li><a href="https://chunhaoto.com/clusterquarto/#/section" class="button" target="_blank" rel="noopener noreferrer">Open</a></li>
+										</ul>
+									</div>
+								</div>
+
+								<div class="interactive-card">
+									<a href="https://chunhaoto.com/cardinalsim/" class="shot" target="_blank" rel="noopener noreferrer">
+										<img src="assets/images/interactive-cardinalsim.jpg" alt="The Cardinal Simulation" loading="lazy" />
+									</a>
+									<div class="body">
+										<div class="tag">Simulation</div>
+										<h3>The Cardinal Simulation</h3>
+										<p>Synthetic sky catalogues built for wide imaging surveys &mdash; the data, the people behind it, and how it improves on its predecessors.</p>
+										<ul class="actions">
+											<li><a href="https://chunhaoto.com/cardinalsim/" class="button" target="_blank" rel="noopener noreferrer">Open</a></li>
+										</ul>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</section>
+
+				<!-- Footer / Contact -->
+					<footer id="footer">
+						<div id="contact">
+							<p>Contact: <a href="mailto:chunhaoto@gmail.com">chunhaoto@gmail.com</a></p>
+							<ul class="icons">
+								<li><a href="mailto:chunhaoto@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+								<li><a href="https://github.com/chto" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Chun-Hao To</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
